@@ -20,7 +20,7 @@ export default function LoginPage() {
   const [loading, setLoading] = useState(false)
 
   if (isAuthenticated) {
-    router.replace("/dashboard")
+    router.replace("/gastos")
     return null
   }
 
@@ -31,7 +31,7 @@ export default function LoginPage() {
 
     try {
       await login(email, password)
-      router.push("/dashboard")
+      router.push("/gastos")
     } catch (err) {
       if (err instanceof ApiException) {
         setError(err.message)

@@ -203,7 +203,7 @@ function LoginPage() {
     const [error, setError] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("");
     const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
     if (isAuthenticated) {
-        router.replace("/dashboard");
+        router.replace("/gastos");
         return null;
     }
     async function handleSubmit(e) {
@@ -212,7 +212,7 @@ function LoginPage() {
         setLoading(true);
         try {
             await login(email, password);
-            router.push("/dashboard");
+            router.push("/gastos");
         } catch (err) {
             if (err instanceof __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$lib$2f$api$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ApiException"]) {
                 setError(err.message);

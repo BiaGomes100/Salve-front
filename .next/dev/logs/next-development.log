@@ -1,24 +1,25 @@
-[00:00:35.474] Server  LOG     ✓ Ready in 20.1s
-[00:00:38.522] Server  LOG     ○ Compiling / ...
-[00:00:41.962] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:44.718] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:25.977] Server  LOG     ✓ Ready in 17.4s
+[00:00:34.377] Server  LOG     ○ Compiling / ...
+[00:00:40.440] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:41.704] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:01:05.884] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:12.947] Browser ERROR   uncaughtError: ReferenceError: Progress is not defined
-[00:02:49.517] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:02:49.521] Server  LOG     ✓ Compiled in 8.1s
-[00:02:49.541] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:02:51.349] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:09.118] Server  WARN    ⚠ Cross origin request detected from 26.233.19.123 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
-Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:07:09.160] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:09.294] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:01:05.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:09.400] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:07:25.243] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:08:00.693] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:08:09.169] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:08:16.153] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:08:37.437] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:08:37.437] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:11:02.730] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:13:17.450] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+[00:01:14.501] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+[00:01:33.783] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:56.166] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:51.474] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:05.859] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:28.675] Server  LOG     ○ Compiling /dashboard/metas/gastos ...
+[00:05:30.472] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:50.847] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:04.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:55.574] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:55.703] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:13:46.437] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+[00:13:53.611] Browser ERROR   Cannot update a component (`%s`) while rendering a different component (`%s`). To locate the bad setState() call inside `%s`, follow the stack trace as described in https://react.dev/link/setstate-in-render Router LoginPage LoginPage
+[00:21:12.079] Server  LOG     ✓ Compiled in 920ms
+[00:22:31.117] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+[00:53:13.446] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
