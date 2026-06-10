@@ -56,6 +56,10 @@ function ThemeHotkey() {
             if (event.metaKey || event.ctrlKey || event.altKey) {
                 return;
             }
+            if (!event || typeof event.key === 'undefined') {
+                return;
+            }
+            // 2. Agora que temos certeza absoluta de que event.key existe, fazemos a checagem da tecla
             if (event.key.toLowerCase() !== "d") {
                 return;
             }

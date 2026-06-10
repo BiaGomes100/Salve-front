@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { useRouter } from "next/navigation"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
@@ -19,10 +19,12 @@ export default function LoginPage() {
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
 
-  if (isAuthenticated) {
-    router.replace("/gastos")
-    return null
-  }
+  // Redirecionamento seguro pós-renderização se o usuário já estiver autenticado
+  useEffect(() => {
+    if (isAuthenticated) {
+      router.replace("/dashboard/home")
+    }
+  }, [isAuthenticated, router])
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
@@ -31,7 +33,7 @@ export default function LoginPage() {
 
     try {
       await login(email, password)
-      router.push("/gastos")
+      router.push("/dashboard/home")
     } catch (err) {
       if (err instanceof ApiException) {
         setError(err.message)
@@ -52,20 +54,20 @@ export default function LoginPage() {
             $alve seu dinheiro, <br /> $alve seu futuro
           </h1>
           {/* Espaço para a sua ilustração/vetor */}
-        <div>
-          <Image
-            src={confrinho}
-            alt="confrinho"
-            className="object-cover w-full h-full"
-          />
-        </div>
+          <div>
+            <Image
+              src={confrinho}
+              alt="confrinho"
+              className="object-cover w-full h-full"
+            />
+          </div>
         </div>
       </div>
 
       {/* Coluna da Direita: Formulário */}
       <div className="flex w-full flex-col justify-center px-8 py-12 md:w-1/2 lg:px-24">
         <div className="mx-auto w-full max-w-sm">
-          <h2 className="text-4xl font-semibold text-white mb-8">Sing in</h2>
+          <h2 className="text-4xl font-semibold text-white mb-8">Sign in</h2>
           
           <form onSubmit={handleSubmit} className="flex flex-col gap-6">
             {error && (

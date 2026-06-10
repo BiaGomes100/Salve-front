@@ -1,0 +1,9870 @@
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/navigation.js [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
+
+module.exports = __turbopack_context__.r("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/client/components/navigation.js [app-client] (ecmascript)");
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/context.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "IconContext",
+    ()=>o
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const o = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"])({
+    color: "currentColor",
+    size: "1em",
+    weight: "regular",
+    mirrored: !1
+});
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>p
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$context$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/context.es.js [app-client] (ecmascript)");
+;
+;
+const p = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((s, a)=>{
+    const { alt: n, color: r, size: t, weight: o, mirrored: c, children: i, weights: m, ...x } = s, { color: d = "currentColor", size: l, weight: f = "regular", mirrored: g = !1, ...w } = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$context$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["IconContext"]);
+    return /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("svg", {
+        ref: a,
+        xmlns: "http://www.w3.org/2000/svg",
+        width: t != null ? t : l,
+        height: t != null ? t : l,
+        fill: r != null ? r : d,
+        viewBox: "0 0 256 256",
+        transform: c || g ? "scale(-1, 1)" : void 0,
+        ...w,
+        ...x
+    }, !!n && /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("title", null, n), i, m.get(o != null ? o : f));
+});
+p.displayName = "IconBase";
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/ChartPieSlice.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const e = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M93.82,116.64A12,12,0,0,0,100,106.15V40.74A12,12,0,0,0,83,29.83,108.26,108.26,0,0,0,20,128c0,3.37.16,6.76.47,10.1a12,12,0,0,0,17.76,9.38ZM76,62.06v37L44.81,116.36A84.39,84.39,0,0,1,76,62.06ZM128,20a12,12,0,0,0-12,12v89.53L39.18,166.27a12,12,0,0,0-4.3,16.46A108,108,0,1,0,128,20Zm0,192a84.47,84.47,0,0,1-65.57-31.5L134,138.79a12,12,0,0,0,6-10.37V44.85A84,84,0,0,1,128,212Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M96,37.5v72l-62.4,36A96,96,0,0,1,96,37.5Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M100,116.43a8,8,0,0,0,4-6.93v-72A8,8,0,0,0,93.34,30,104.06,104.06,0,0,0,25.73,147a8,8,0,0,0,4.52,5.81,7.86,7.86,0,0,0,3.35.74,8,8,0,0,0,4-1.07ZM88,49.62v55.26L40.12,132.51C40,131,40,129.48,40,128A88.12,88.12,0,0,1,88,49.62ZM128,24a8,8,0,0,0-8,8v91.82L41.19,169.73a8,8,0,0,0-2.87,11A104,104,0,1,0,128,24Zm0,192a88.47,88.47,0,0,1-71.49-36.68l75.52-44a8,8,0,0,0,4-6.92V40.36A88,88,0,0,1,128,216Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M100,116.43a8,8,0,0,0,4-6.93v-72A8,8,0,0,0,93.34,30,104.06,104.06,0,0,0,25.73,147a8,8,0,0,0,4.52,5.81,7.86,7.86,0,0,0,3.35.74,8,8,0,0,0,4-1.07ZM88,49.62v55.26L40.12,132.51C40,131,40,129.48,40,128A88.12,88.12,0,0,1,88,49.62ZM232,128A104,104,0,0,1,38.32,180.7a8,8,0,0,1,2.87-11L120,123.83V32a8,8,0,0,1,8-8,104.05,104.05,0,0,1,89.74,51.48c.11.16.21.32.31.49s.2.37.29.55A103.34,103.34,0,0,1,232,128Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M102,109.5v-72a6,6,0,0,0-8-5.66A102,102,0,0,0,27.7,146.59a6,6,0,0,0,8.9,4.11l62.4-36A6,6,0,0,0,102,109.5ZM90,106l-51.66,29.8Q38,131.91,38,128A90.1,90.1,0,0,1,90,46.42Zm38-80a6,6,0,0,0-6,6v93L42.2,171.46a6,6,0,0,0-2.15,8.22A102,102,0,1,0,128,26Zm0,192a90.48,90.48,0,0,1-74.38-39.31L131,133.61a6,6,0,0,0,3-5.19V38.2A90,90,0,0,1,128,218Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M100,116.43a8,8,0,0,0,4-6.93v-72A8,8,0,0,0,93.34,30,104.06,104.06,0,0,0,25.73,147a8,8,0,0,0,4.52,5.81,7.86,7.86,0,0,0,3.35.74,8,8,0,0,0,4-1.07ZM88,49.62v55.26L40.12,132.51C40,131,40,129.48,40,128A88.12,88.12,0,0,1,88,49.62ZM128,24a8,8,0,0,0-8,8v91.82L41.19,169.73a8,8,0,0,0-2.87,11A104,104,0,1,0,128,24Zm0,192a88.47,88.47,0,0,1-71.49-36.68l75.52-44a8,8,0,0,0,4-6.92V40.36A88,88,0,0,1,128,216Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M100,109.5v-72a4,4,0,0,0-5.33-3.77,100,100,0,0,0-65,112.5A4,4,0,0,0,35.6,149L98,113A4,4,0,0,0,100,109.5Zm-8-2.31L36.67,139.11A92,92,0,0,1,92,43.34ZM128,28a4,4,0,0,0-4,4v94.12L43.2,173.18a4,4,0,0,0-1.43,5.49A100,100,0,1,0,128,28Zm0,192a92.47,92.47,0,0,1-77.22-42L130,131.88a4,4,0,0,0,2-3.46V36.09A92,92,0,0,1,128,220Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/ChartPieSlice.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "ChartPieSlice",
+    ()=>s,
+    "ChartPieSliceIcon",
+    ()=>o
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$ChartPieSlice$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/ChartPieSlice.es.js [app-client] (ecmascript)");
+;
+;
+;
+const o = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((r, t)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: t,
+        ...r,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$ChartPieSlice$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+o.displayName = "ChartPieSliceIcon";
+const s = o;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Target.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>a
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const a = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M229.26,90.4a108,108,0,0,1-177.63,114A108,108,0,0,1,195.41,43.63l20.1-20.11a12,12,0,0,1,17,17l-96,96a12,12,0,1,1-17-17l24-24a36,36,0,1,0,19.76,39.65,12,12,0,0,1,23.53,4.74,60,60,0,1,1-25.73-62L178.3,60.74a84,84,0,1,0,28.46,38,12,12,0,1,1,22.5-8.35Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M176,128a48,48,0,1,1-48-48A48,48,0,0,1,176,128Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M221.87,83.16A104.1,104.1,0,1,1,195.67,49l22.67-22.68a8,8,0,0,1,11.32,11.32l-96,96a8,8,0,0,1-11.32-11.32l27.72-27.72a40,40,0,1,0,17.87,31.09,8,8,0,1,1,16-.9,56,56,0,1,1-22.38-41.65L184.3,60.39a87.88,87.88,0,1,0,23.13,29.67,8,8,0,0,1,14.44-6.9Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M221.87,83.16A104.1,104.1,0,1,1,195.67,49l22.67-22.68a8,8,0,0,1,11.32,11.32L167.6,99.71h0l-37.71,37.71-23.95,23.95a40,40,0,0,0,62-35.67,8,8,0,1,1,16-.9,56,56,0,0,1-95.5,42.79h0a56,56,0,0,1,73.13-84.43L184.3,60.39a87.88,87.88,0,1,0,23.13,29.67,8,8,0,0,1,14.44-6.9Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M220.06,84a102.06,102.06,0,1,1-24.31-32.27l24-24a6,6,0,0,1,8.48,8.49l-96,96a6,6,0,1,1-8.48-8.49l29.39-29.4a42,42,0,1,0,16.78,31.24,6,6,0,1,1,12-.68A54,54,0,1,1,161.7,85.83l25.54-25.55a89.91,89.91,0,1,0,22,28.93A6,6,0,1,1,220.06,84Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M221.87,83.16A104.1,104.1,0,1,1,195.67,49l22.67-22.68a8,8,0,0,1,11.32,11.32l-96,96a8,8,0,0,1-11.32-11.32l27.72-27.72a40,40,0,1,0,17.87,31.09,8,8,0,1,1,16-.9,56,56,0,1,1-22.38-41.65L184.3,60.39a87.88,87.88,0,1,0,23.13,29.67,8,8,0,0,1,14.44-6.9Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M218.26,84.89a100.16,100.16,0,1,1-22.44-30.37l25.35-25.35a4,4,0,1,1,5.66,5.66l-96,96a4,4,0,0,1-5.66-5.66l31-31a44,44,0,1,0,15.78,31.3,4,4,0,0,1,8-.46,52,52,0,1,1-18.1-36.51l28.34-28.33A92,92,0,0,0,63,193.05,92,92,0,0,0,211,88.33a4,4,0,1,1,7.22-3.44Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/Target.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Target",
+    ()=>n,
+    "TargetIcon",
+    ()=>o
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Target$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Target.es.js [app-client] (ecmascript)");
+;
+;
+;
+const o = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((r, t)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: t,
+        ...r,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Target$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+o.displayName = "TargetIcon";
+const n = o;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Wallet.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const e = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M196,136a16,16,0,1,1-16-16A16,16,0,0,1,196,136Zm40-36v80a32,32,0,0,1-32,32H60a32,32,0,0,1-32-32V60.92A32,32,0,0,1,60,28H192a12,12,0,0,1,0,24H60a8,8,0,0,0-8,8.26v.08A8.32,8.32,0,0,0,60.48,68H204A32,32,0,0,1,236,100Zm-24,0a8,8,0,0,0-8-8H60.48A33.72,33.72,0,0,1,52,90.92V180a8,8,0,0,0,8,8H204a8,8,0,0,0,8-8Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M224,80V192a8,8,0,0,1-8,8H56a16,16,0,0,1-16-16V56A16,16,0,0,0,56,72H216A8,8,0,0,1,224,80Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,64H56a8,8,0,0,1,0-16H192a8,8,0,0,0,0-16H56A24,24,0,0,0,32,56V184a24,24,0,0,0,24,24H216a16,16,0,0,0,16-16V80A16,16,0,0,0,216,64Zm0,128H56a8,8,0,0,1-8-8V78.63A23.84,23.84,0,0,0,56,80H216Zm-48-60a12,12,0,1,1,12,12A12,12,0,0,1,168,132Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,64H56a8,8,0,0,1,0-16H192a8,8,0,0,0,0-16H56A24,24,0,0,0,32,56V184a24,24,0,0,0,24,24H216a16,16,0,0,0,16-16V80A16,16,0,0,0,216,64Zm-36,80a12,12,0,1,1,12-12A12,12,0,0,1,180,144Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,66H56a10,10,0,0,1,0-20H192a6,6,0,0,0,0-12H56A22,22,0,0,0,34,56V184a22,22,0,0,0,22,22H216a14,14,0,0,0,14-14V80A14,14,0,0,0,216,66Zm2,126a2,2,0,0,1-2,2H56a10,10,0,0,1-10-10V75.59A21.84,21.84,0,0,0,56,78H216a2,2,0,0,1,2,2Zm-28-60a10,10,0,1,1-10-10A10,10,0,0,1,190,132Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,64H56a8,8,0,0,1,0-16H192a8,8,0,0,0,0-16H56A24,24,0,0,0,32,56V184a24,24,0,0,0,24,24H216a16,16,0,0,0,16-16V80A16,16,0,0,0,216,64Zm0,128H56a8,8,0,0,1-8-8V78.63A23.84,23.84,0,0,0,56,80H216Zm-48-60a12,12,0,1,1,12,12A12,12,0,0,1,168,132Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,68H56a12,12,0,0,1,0-24H192a4,4,0,0,0,0-8H56A20,20,0,0,0,36,56V184a20,20,0,0,0,20,20H216a12,12,0,0,0,12-12V80A12,12,0,0,0,216,68Zm4,124a4,4,0,0,1-4,4H56a12,12,0,0,1-12-12V72a19.86,19.86,0,0,0,12,4H216a4,4,0,0,1,4,4Zm-32-60a8,8,0,1,1-8-8A8,8,0,0,1,188,132Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/Wallet.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Wallet",
+    ()=>s,
+    "WalletIcon",
+    ()=>o
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Wallet$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Wallet.es.js [app-client] (ecmascript)");
+;
+;
+;
+const o = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((t, a)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: a,
+        ...t,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Wallet$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+o.displayName = "WalletIcon";
+const s = o;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/ArrowUp.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>a
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const a = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208.49,120.49a12,12,0,0,1-17,0L140,69V216a12,12,0,0,1-24,0V69L64.49,120.49a12,12,0,0,1-17-17l72-72a12,12,0,0,1,17,0l72,72A12,12,0,0,1,208.49,120.49Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M200,112H56l72-72Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M205.66,106.34l-72-72a8,8,0,0,0-11.32,0l-72,72A8,8,0,0,0,56,120h64v96a8,8,0,0,0,16,0V120h64a8,8,0,0,0,5.66-13.66ZM75.31,104,128,51.31,180.69,104Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M207.39,115.06A8,8,0,0,1,200,120H136v96a8,8,0,0,1-16,0V120H56a8,8,0,0,1-5.66-13.66l72-72a8,8,0,0,1,11.32,0l72,72A8,8,0,0,1,207.39,115.06Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M204.24,116.24a6,6,0,0,1-8.48,0L134,54.49V216a6,6,0,0,1-12,0V54.49L60.24,116.24a6,6,0,0,1-8.48-8.48l72-72a6,6,0,0,1,8.48,0l72,72A6,6,0,0,1,204.24,116.24Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M205.66,117.66a8,8,0,0,1-11.32,0L136,59.31V216a8,8,0,0,1-16,0V59.31L61.66,117.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0l72,72A8,8,0,0,1,205.66,117.66Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M202.83,114.83a4,4,0,0,1-5.66,0L132,49.66V216a4,4,0,0,1-8,0V49.66L58.83,114.83a4,4,0,0,1-5.66-5.66l72-72a4,4,0,0,1,5.66,0l72,72A4,4,0,0,1,202.83,114.83Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/ArrowUp.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "ArrowUp",
+    ()=>s,
+    "ArrowUpIcon",
+    ()=>r
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$ArrowUp$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/ArrowUp.es.js [app-client] (ecmascript)");
+;
+;
+;
+const r = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((e, t)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: t,
+        ...e,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$ArrowUp$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+r.displayName = "ArrowUpIcon";
+const s = r;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/ArrowDown.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>a
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const a = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208.49,152.49l-72,72a12,12,0,0,1-17,0l-72-72a12,12,0,0,1,17-17L116,187V40a12,12,0,0,1,24,0V187l51.51-51.52a12,12,0,0,1,17,17Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M200,144l-72,72L56,144Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M207.39,140.94A8,8,0,0,0,200,136H136V40a8,8,0,0,0-16,0v96H56a8,8,0,0,0-5.66,13.66l72,72a8,8,0,0,0,11.32,0l72-72A8,8,0,0,0,207.39,140.94ZM128,204.69,75.31,152H180.69Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M205.66,149.66l-72,72a8,8,0,0,1-11.32,0l-72-72A8,8,0,0,1,56,136h64V40a8,8,0,0,1,16,0v96h64a8,8,0,0,1,5.66,13.66Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M204.24,148.24l-72,72a6,6,0,0,1-8.48,0l-72-72a6,6,0,0,1,8.48-8.48L122,201.51V40a6,6,0,0,1,12,0V201.51l61.76-61.75a6,6,0,0,1,8.48,8.48Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M205.66,149.66l-72,72a8,8,0,0,1-11.32,0l-72-72a8,8,0,0,1,11.32-11.32L120,196.69V40a8,8,0,0,1,16,0V196.69l58.34-58.35a8,8,0,0,1,11.32,11.32Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M202.83,146.83l-72,72a4,4,0,0,1-5.66,0l-72-72a4,4,0,0,1,5.66-5.66L124,206.34V40a4,4,0,0,1,8,0V206.34l65.17-65.17a4,4,0,0,1,5.66,5.66Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/ArrowDown.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "ArrowDown",
+    ()=>c,
+    "ArrowDownIcon",
+    ()=>r
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$ArrowDown$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/ArrowDown.es.js [app-client] (ecmascript)");
+;
+;
+;
+const r = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((e, t)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: t,
+        ...e,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$ArrowDown$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+r.displayName = "ArrowDownIcon";
+const c = r;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Calendar.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>V
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const V = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,28H188V24a12,12,0,0,0-24,0v4H92V24a12,12,0,0,0-24,0v4H48A20,20,0,0,0,28,48V208a20,20,0,0,0,20,20H208a20,20,0,0,0,20-20V48A20,20,0,0,0,208,28ZM68,52a12,12,0,0,0,24,0h72a12,12,0,0,0,24,0h16V76H52V52ZM52,204V100H204V204Zm60-80v56a12,12,0,0,1-24,0V143.32a12,12,0,0,1-9.37-22l16-8A12,12,0,0,1,112,124Zm61.49,33.88L163.9,168H168a12,12,0,0,1,0,24H136a12,12,0,0,1-8.71-20.25L155.45,142a4,4,0,0,0,.55-2,4,4,0,0,0-7.47-2,12,12,0,0,1-20.78-12A28,28,0,0,1,180,140a27.77,27.77,0,0,1-5.64,16.86A10.63,10.63,0,0,1,173.49,157.88Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,48V88H40V48a8,8,0,0,1,8-8H208A8,8,0,0,1,216,48Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,32H184V24a8,8,0,0,0-16,0v8H88V24a8,8,0,0,0-16,0v8H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM72,48v8a8,8,0,0,0,16,0V48h80v8a8,8,0,0,0,16,0V48h24V80H48V48ZM208,208H48V96H208V208Zm-96-88v64a8,8,0,0,1-16,0V132.94l-4.42,2.22a8,8,0,0,1-7.16-14.32l16-8A8,8,0,0,1,112,120Zm59.16,30.45L152,176h16a8,8,0,0,1,0,16H136a8,8,0,0,1-6.4-12.8l28.78-38.37A8,8,0,1,0,145.07,132a8,8,0,1,1-13.85-8A24,24,0,0,1,176,136,23.76,23.76,0,0,1,171.16,150.45Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,32H184V24a8,8,0,0,0-16,0v8H88V24a8,8,0,0,0-16,0v8H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM112,184a8,8,0,0,1-16,0V132.94l-4.42,2.22a8,8,0,0,1-7.16-14.32l16-8A8,8,0,0,1,112,120Zm56-8a8,8,0,0,1,0,16H136a8,8,0,0,1-6.4-12.8l28.78-38.37A8,8,0,1,0,145.07,132a8,8,0,1,1-13.85-8A24,24,0,0,1,176,136a23.76,23.76,0,0,1-4.84,14.45L152,176ZM48,80V48H72v8a8,8,0,0,0,16,0V48h80v8a8,8,0,0,0,16,0V48h24V80Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,34H182V24a6,6,0,0,0-12,0V34H86V24a6,6,0,0,0-12,0V34H48A14,14,0,0,0,34,48V208a14,14,0,0,0,14,14H208a14,14,0,0,0,14-14V48A14,14,0,0,0,208,34ZM48,46H74V56a6,6,0,0,0,12,0V46h84V56a6,6,0,0,0,12,0V46h26a2,2,0,0,1,2,2V82H46V48A2,2,0,0,1,48,46ZM208,210H48a2,2,0,0,1-2-2V94H210V208A2,2,0,0,1,208,210Zm-98-90v64a6,6,0,0,1-12,0V129.71l-7.32,3.66a6,6,0,1,1-5.36-10.74l16-8A6,6,0,0,1,110,120Zm59.57,29.25L148,178h20a6,6,0,0,1,0,12H136a6,6,0,0,1-4.8-9.6L160,142a10,10,0,1,0-16.65-11A6,6,0,1,1,133,125a22,22,0,1,1,36.62,24.26Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,32H184V24a8,8,0,0,0-16,0v8H88V24a8,8,0,0,0-16,0v8H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM72,48v8a8,8,0,0,0,16,0V48h80v8a8,8,0,0,0,16,0V48h24V80H48V48ZM208,208H48V96H208V208Zm-96-88v64a8,8,0,0,1-16,0V132.94l-4.42,2.22a8,8,0,0,1-7.16-14.32l16-8A8,8,0,0,1,112,120Zm59.16,30.45L152,176h16a8,8,0,0,1,0,16H136a8,8,0,0,1-6.4-12.8l28.78-38.37A8,8,0,1,0,145.07,132a8,8,0,1,1-13.85-8A24,24,0,0,1,176,136,23.76,23.76,0,0,1,171.16,150.45Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,36H180V24a4,4,0,0,0-8,0V36H84V24a4,4,0,0,0-8,0V36H48A12,12,0,0,0,36,48V208a12,12,0,0,0,12,12H208a12,12,0,0,0,12-12V48A12,12,0,0,0,208,36ZM48,44H76V56a4,4,0,0,0,8,0V44h88V56a4,4,0,0,0,8,0V44h28a4,4,0,0,1,4,4V84H44V48A4,4,0,0,1,48,44ZM208,212H48a4,4,0,0,1-4-4V92H212V208A4,4,0,0,1,208,212ZM108,120v64a4,4,0,0,1-8,0V126.47l-10.21,5.11a4,4,0,0,1-3.58-7.16l16-8A4,4,0,0,1,108,120Zm60,28-24,32h24a4,4,0,0,1,0,8H136a4,4,0,0,1-3.2-6.4l28.78-38.37A11.88,11.88,0,0,0,164,136a12,12,0,0,0-22.4-6,4,4,0,0,1-6.92-4A20,20,0,0,1,172,136,19.79,19.79,0,0,1,168,148Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/Calendar.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Calendar",
+    ()=>s,
+    "CalendarIcon",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Calendar$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Calendar.es.js [app-client] (ecmascript)");
+;
+;
+;
+const e = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((o, r)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: r,
+        ...o,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Calendar$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+e.displayName = "CalendarIcon";
+const s = e;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Lock.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const e = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,76H180V56A52,52,0,0,0,76,56V76H48A20,20,0,0,0,28,96V208a20,20,0,0,0,20,20H208a20,20,0,0,0,20-20V96A20,20,0,0,0,208,76ZM100,56a28,28,0,0,1,56,0V76H100ZM204,204H52V100H204Zm-60-52a16,16,0,1,1-16-16A16,16,0,0,1,144,152Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,96V208a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V96a8,8,0,0,1,8-8H208A8,8,0,0,1,216,96Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,80H176V56a48,48,0,0,0-96,0V80H48A16,16,0,0,0,32,96V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V96A16,16,0,0,0,208,80ZM96,56a32,32,0,0,1,64,0V80H96ZM208,208H48V96H208V208Zm-68-56a12,12,0,1,1-12-12A12,12,0,0,1,140,152Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,80H176V56a48,48,0,0,0-96,0V80H48A16,16,0,0,0,32,96V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V96A16,16,0,0,0,208,80Zm-80,84a12,12,0,1,1,12-12A12,12,0,0,1,128,164Zm32-84H96V56a32,32,0,0,1,64,0Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,82H174V56a46,46,0,0,0-92,0V82H48A14,14,0,0,0,34,96V208a14,14,0,0,0,14,14H208a14,14,0,0,0,14-14V96A14,14,0,0,0,208,82ZM94,56a34,34,0,0,1,68,0V82H94ZM210,208a2,2,0,0,1-2,2H48a2,2,0,0,1-2-2V96a2,2,0,0,1,2-2H208a2,2,0,0,1,2,2Zm-72-56a10,10,0,1,1-10-10A10,10,0,0,1,138,152Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,80H176V56a48,48,0,0,0-96,0V80H48A16,16,0,0,0,32,96V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V96A16,16,0,0,0,208,80ZM96,56a32,32,0,0,1,64,0V80H96ZM208,208H48V96H208V208Zm-68-56a12,12,0,1,1-12-12A12,12,0,0,1,140,152Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M208,84H172V56a44,44,0,0,0-88,0V84H48A12,12,0,0,0,36,96V208a12,12,0,0,0,12,12H208a12,12,0,0,0,12-12V96A12,12,0,0,0,208,84ZM92,56a36,36,0,0,1,72,0V84H92ZM212,208a4,4,0,0,1-4,4H48a4,4,0,0,1-4-4V96a4,4,0,0,1,4-4H208a4,4,0,0,1,4,4Zm-76-56a8,8,0,1,1-8-8A8,8,0,0,1,136,152Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/Lock.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Lock",
+    ()=>n,
+    "LockIcon",
+    ()=>c
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Lock$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Lock.es.js [app-client] (ecmascript)");
+;
+;
+;
+const c = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((e, r)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: r,
+        ...e,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Lock$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+c.displayName = "LockIcon";
+const n = c;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Trash.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const e = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,48H180V36A28,28,0,0,0,152,8H104A28,28,0,0,0,76,36V48H40a12,12,0,0,0,0,24h4V208a20,20,0,0,0,20,20H192a20,20,0,0,0,20-20V72h4a12,12,0,0,0,0-24ZM100,36a4,4,0,0,1,4-4h48a4,4,0,0,1,4,4V48H100Zm88,168H68V72H188ZM116,104v64a12,12,0,0,1-24,0V104a12,12,0,0,1,24,0Zm48,0v64a12,12,0,0,1-24,0V104a12,12,0,0,1,24,0Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M200,56V208a8,8,0,0,1-8,8H64a8,8,0,0,1-8-8V56Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM96,40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm96,168H64V64H192ZM112,104v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM112,168a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm0-120H96V40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,50H174V40a22,22,0,0,0-22-22H104A22,22,0,0,0,82,40V50H40a6,6,0,0,0,0,12H50V208a14,14,0,0,0,14,14H192a14,14,0,0,0,14-14V62h10a6,6,0,0,0,0-12ZM94,40a10,10,0,0,1,10-10h48a10,10,0,0,1,10,10V50H94ZM194,208a2,2,0,0,1-2,2H64a2,2,0,0,1-2-2V62H194ZM110,104v64a6,6,0,0,1-12,0V104a6,6,0,0,1,12,0Zm48,0v64a6,6,0,0,1-12,0V104a6,6,0,0,1,12,0Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM96,40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm96,168H64V64H192ZM112,104v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M216,52H172V40a20,20,0,0,0-20-20H104A20,20,0,0,0,84,40V52H40a4,4,0,0,0,0,8H52V208a12,12,0,0,0,12,12H192a12,12,0,0,0,12-12V60h12a4,4,0,0,0,0-8ZM92,40a12,12,0,0,1,12-12h48a12,12,0,0,1,12,12V52H92ZM196,208a4,4,0,0,1-4,4H64a4,4,0,0,1-4-4V60H196ZM108,104v64a4,4,0,0,1-8,0V104a4,4,0,0,1,8,0Zm48,0v64a4,4,0,0,1-8,0V104a4,4,0,0,1,8,0Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/Trash.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Trash",
+    ()=>n,
+    "TrashIcon",
+    ()=>r
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Trash$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/Trash.es.js [app-client] (ecmascript)");
+;
+;
+;
+const r = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((a, e)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: e,
+        ...a,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$Trash$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+r.displayName = "TrashIcon";
+const n = r;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/CheckCircle.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>a
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const a = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M176.49,95.51a12,12,0,0,1,0,17l-56,56a12,12,0,0,1-17,0l-24-24a12,12,0,1,1,17-17L112,143l47.51-47.52A12,12,0,0,1,176.49,95.51ZM236,128A108,108,0,1,1,128,20,108.12,108.12,0,0,1,236,128Zm-24,0a84,84,0,1,0-84,84A84.09,84.09,0,0,0,212,128Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M224,128a96,96,0,1,1-96-96A96,96,0,0,1,224,128Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M173.66,98.34a8,8,0,0,1,0,11.32l-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35A8,8,0,0,1,173.66,98.34ZM232,128A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm45.66,85.66-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35a8,8,0,0,1,11.32,11.32Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M172.24,99.76a6,6,0,0,1,0,8.48l-56,56a6,6,0,0,1-8.48,0l-24-24a6,6,0,0,1,8.48-8.48L112,151.51l51.76-51.75A6,6,0,0,1,172.24,99.76ZM230,128A102,102,0,1,1,128,26,102.12,102.12,0,0,1,230,128Zm-12,0a90,90,0,1,0-90,90A90.1,90.1,0,0,0,218,128Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M173.66,98.34a8,8,0,0,1,0,11.32l-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35A8,8,0,0,1,173.66,98.34ZM232,128A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M170.83,101.17a4,4,0,0,1,0,5.66l-56,56a4,4,0,0,1-5.66,0l-24-24a4,4,0,0,1,5.66-5.66L112,154.34l53.17-53.17A4,4,0,0,1,170.83,101.17ZM228,128A100,100,0,1,1,128,28,100.11,100.11,0,0,1,228,128Zm-8,0a92,92,0,1,0-92,92A92.1,92.1,0,0,0,220,128Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/CheckCircle.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "CheckCircle",
+    ()=>s,
+    "CheckCircleIcon",
+    ()=>c
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$CheckCircle$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/CheckCircle.es.js [app-client] (ecmascript)");
+;
+;
+;
+const c = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((o, r)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: r,
+        ...o,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$CheckCircle$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+c.displayName = "CheckCircleIcon";
+const s = c;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/CurrencyCircleDollar.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const e = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,20A108,108,0,1,0,236,128,108.12,108.12,0,0,0,128,20Zm0,192a84,84,0,1,1,84-84A84.09,84.09,0,0,1,128,212Zm44-64a32,32,0,0,1-32,32v4a12,12,0,0,1-24,0v-4H104a12,12,0,0,1,0-24h36a8,8,0,0,0,0-16H116a32,32,0,0,1,0-64V72a12,12,0,0,1,24,0v4h12a12,12,0,0,1,0,24H116a8,8,0,0,0,0,16h24A32,32,0,0,1,172,148Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M224,128a96,96,0,1,1-96-96A96,96,0,0,1,224,128Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm12,152h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24a28,28,0,0,1,0,56Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,26A102,102,0,1,0,230,128,102.12,102.12,0,0,0,128,26Zm0,192a90,90,0,1,1,90-90A90.1,90.1,0,0,1,128,218Zm38-70a26,26,0,0,1-26,26h-6v10a6,6,0,0,1-12,0V174H104a6,6,0,0,1,0-12h36a14,14,0,0,0,0-28H116a26,26,0,0,1,0-52h6V72a6,6,0,0,1,12,0V82h18a6,6,0,0,1,0,12H116a14,14,0,0,0,0,28h24A26,26,0,0,1,166,148Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M128,28A100,100,0,1,0,228,128,100.11,100.11,0,0,0,128,28Zm0,192a92,92,0,1,1,92-92A92.1,92.1,0,0,1,128,220Zm36-72a24,24,0,0,1-24,24h-8v12a4,4,0,0,1-8,0V172H104a4,4,0,0,1,0-8h36a16,16,0,0,0,0-32H116a24,24,0,0,1,0-48h8V72a4,4,0,0,1,8,0V84h20a4,4,0,0,1,0,8H116a16,16,0,0,0,0,32h24A24,24,0,0,1,164,148Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/CurrencyCircleDollar.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "CurrencyCircleDollar",
+    ()=>i,
+    "CurrencyCircleDollarIcon",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$CurrencyCircleDollar$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/CurrencyCircleDollar.es.js [app-client] (ecmascript)");
+;
+;
+;
+const e = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((o, c)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: c,
+        ...o,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$CurrencyCircleDollar$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+e.displayName = "CurrencyCircleDollarIcon";
+const i = e;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/SignOut.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const e = /* @__PURE__ */ new Map([
+    [
+        "bold",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M124,216a12,12,0,0,1-12,12H48a12,12,0,0,1-12-12V40A12,12,0,0,1,48,28h64a12,12,0,0,1,0,24H60V204h52A12,12,0,0,1,124,216Zm108.49-96.49-40-40a12,12,0,0,0-17,17L195,116H112a12,12,0,0,0,0,24h83l-19.52,19.51a12,12,0,0,0,17,17l40-40A12,12,0,0,0,232.49,119.51Z"
+        }))
+    ],
+    [
+        "duotone",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M224,56V200a16,16,0,0,1-16,16H48V40H208A16,16,0,0,1,224,56Z",
+            opacity: "0.2"
+        }), /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M120,216a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V40a8,8,0,0,1,8-8h64a8,8,0,0,1,0,16H56V208h56A8,8,0,0,1,120,216Zm109.66-93.66-40-40a8,8,0,0,0-11.32,11.32L204.69,120H112a8,8,0,0,0,0,16h92.69l-26.35,26.34a8,8,0,0,0,11.32,11.32l40-40A8,8,0,0,0,229.66,122.34Z"
+        }))
+    ],
+    [
+        "fill",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M120,216a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V40a8,8,0,0,1,8-8h64a8,8,0,0,1,0,16H56V208h56A8,8,0,0,1,120,216Zm109.66-93.66-40-40A8,8,0,0,0,176,88v32H112a8,8,0,0,0,0,16h64v32a8,8,0,0,0,13.66,5.66l40-40A8,8,0,0,0,229.66,122.34Z"
+        }))
+    ],
+    [
+        "light",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M118,216a6,6,0,0,1-6,6H48a6,6,0,0,1-6-6V40a6,6,0,0,1,6-6h64a6,6,0,0,1,0,12H54V210h58A6,6,0,0,1,118,216Zm110.24-92.24-40-40a6,6,0,0,0-8.48,8.48L209.51,122H112a6,6,0,0,0,0,12h97.51l-29.75,29.76a6,6,0,1,0,8.48,8.48l40-40A6,6,0,0,0,228.24,123.76Z"
+        }))
+    ],
+    [
+        "regular",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M120,216a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V40a8,8,0,0,1,8-8h64a8,8,0,0,1,0,16H56V208h56A8,8,0,0,1,120,216Zm109.66-93.66-40-40a8,8,0,0,0-11.32,11.32L204.69,120H112a8,8,0,0,0,0,16h92.69l-26.35,26.34a8,8,0,0,0,11.32,11.32l40-40A8,8,0,0,0,229.66,122.34Z"
+        }))
+    ],
+    [
+        "thin",
+        /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], null, /* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"]("path", {
+            d: "M116,216a4,4,0,0,1-4,4H48a4,4,0,0,1-4-4V40a4,4,0,0,1,4-4h64a4,4,0,0,1,0,8H52V212h60A4,4,0,0,1,116,216Zm110.83-90.83-40-40a4,4,0,0,0-5.66,5.66L214.34,124H112a4,4,0,0,0,0,8H214.34l-33.17,33.17a4,4,0,0,0,5.66,5.66l40-40A4,4,0,0,0,226.83,125.17Z"
+        }))
+    ]
+]);
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/csr/SignOut.es.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "SignOut",
+    ()=>c,
+    "SignOutIcon",
+    ()=>t
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/lib/IconBase.es.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$SignOut$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@phosphor-icons/react/dist/defs/SignOut.es.js [app-client] (ecmascript)");
+;
+;
+;
+const t = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"]((e, r)=>/* @__PURE__ */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$lib$2f$IconBase$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        ref: r,
+        ...e,
+        weights: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$defs$2f$SignOut$2e$es$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+    }));
+t.displayName = "SignOutIcon";
+const c = t;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@floating-ui/utils/dist/floating-ui.utils.dom.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "getComputedStyle",
+    ()=>getComputedStyle,
+    "getContainingBlock",
+    ()=>getContainingBlock,
+    "getDocumentElement",
+    ()=>getDocumentElement,
+    "getFrameElement",
+    ()=>getFrameElement,
+    "getNearestOverflowAncestor",
+    ()=>getNearestOverflowAncestor,
+    "getNodeName",
+    ()=>getNodeName,
+    "getNodeScroll",
+    ()=>getNodeScroll,
+    "getOverflowAncestors",
+    ()=>getOverflowAncestors,
+    "getParentNode",
+    ()=>getParentNode,
+    "getWindow",
+    ()=>getWindow,
+    "isContainingBlock",
+    ()=>isContainingBlock,
+    "isElement",
+    ()=>isElement,
+    "isHTMLElement",
+    ()=>isHTMLElement,
+    "isLastTraversableNode",
+    ()=>isLastTraversableNode,
+    "isNode",
+    ()=>isNode,
+    "isOverflowElement",
+    ()=>isOverflowElement,
+    "isShadowRoot",
+    ()=>isShadowRoot,
+    "isTableElement",
+    ()=>isTableElement,
+    "isTopLayer",
+    ()=>isTopLayer,
+    "isWebKit",
+    ()=>isWebKit
+]);
+function hasWindow() {
+    return typeof window !== 'undefined';
+}
+function getNodeName(node) {
+    if (isNode(node)) {
+        return (node.nodeName || '').toLowerCase();
+    }
+    // Mocked nodes in testing environments may not be instances of Node. By
+    // returning `#document` an infinite loop won't occur.
+    // https://github.com/floating-ui/floating-ui/issues/2317
+    return '#document';
+}
+function getWindow(node) {
+    var _node$ownerDocument;
+    return (node == null || (_node$ownerDocument = node.ownerDocument) == null ? void 0 : _node$ownerDocument.defaultView) || window;
+}
+function getDocumentElement(node) {
+    var _ref;
+    return (_ref = (isNode(node) ? node.ownerDocument : node.document) || window.document) == null ? void 0 : _ref.documentElement;
+}
+function isNode(value) {
+    if (!hasWindow()) {
+        return false;
+    }
+    return value instanceof Node || value instanceof getWindow(value).Node;
+}
+function isElement(value) {
+    if (!hasWindow()) {
+        return false;
+    }
+    return value instanceof Element || value instanceof getWindow(value).Element;
+}
+function isHTMLElement(value) {
+    if (!hasWindow()) {
+        return false;
+    }
+    return value instanceof HTMLElement || value instanceof getWindow(value).HTMLElement;
+}
+function isShadowRoot(value) {
+    if (!hasWindow() || typeof ShadowRoot === 'undefined') {
+        return false;
+    }
+    return value instanceof ShadowRoot || value instanceof getWindow(value).ShadowRoot;
+}
+function isOverflowElement(element) {
+    const { overflow, overflowX, overflowY, display } = getComputedStyle(element);
+    return /auto|scroll|overlay|hidden|clip/.test(overflow + overflowY + overflowX) && display !== 'inline' && display !== 'contents';
+}
+function isTableElement(element) {
+    return /^(table|td|th)$/.test(getNodeName(element));
+}
+function isTopLayer(element) {
+    try {
+        if (element.matches(':popover-open')) {
+            return true;
+        }
+    } catch (_e) {
+    // no-op
+    }
+    try {
+        return element.matches(':modal');
+    } catch (_e) {
+        return false;
+    }
+}
+const willChangeRe = /transform|translate|scale|rotate|perspective|filter/;
+const containRe = /paint|layout|strict|content/;
+const isNotNone = (value)=>!!value && value !== 'none';
+let isWebKitValue;
+function isContainingBlock(elementOrCss) {
+    const css = isElement(elementOrCss) ? getComputedStyle(elementOrCss) : elementOrCss;
+    // https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block#identifying_the_containing_block
+    // https://drafts.csswg.org/css-transforms-2/#individual-transforms
+    return isNotNone(css.transform) || isNotNone(css.translate) || isNotNone(css.scale) || isNotNone(css.rotate) || isNotNone(css.perspective) || !isWebKit() && (isNotNone(css.backdropFilter) || isNotNone(css.filter)) || willChangeRe.test(css.willChange || '') || containRe.test(css.contain || '');
+}
+function getContainingBlock(element) {
+    let currentNode = getParentNode(element);
+    while(isHTMLElement(currentNode) && !isLastTraversableNode(currentNode)){
+        if (isContainingBlock(currentNode)) {
+            return currentNode;
+        } else if (isTopLayer(currentNode)) {
+            return null;
+        }
+        currentNode = getParentNode(currentNode);
+    }
+    return null;
+}
+function isWebKit() {
+    if (isWebKitValue == null) {
+        isWebKitValue = typeof CSS !== 'undefined' && CSS.supports && CSS.supports('-webkit-backdrop-filter', 'none');
+    }
+    return isWebKitValue;
+}
+function isLastTraversableNode(node) {
+    return /^(html|body|#document)$/.test(getNodeName(node));
+}
+function getComputedStyle(element) {
+    return getWindow(element).getComputedStyle(element);
+}
+function getNodeScroll(element) {
+    if (isElement(element)) {
+        return {
+            scrollLeft: element.scrollLeft,
+            scrollTop: element.scrollTop
+        };
+    }
+    return {
+        scrollLeft: element.scrollX,
+        scrollTop: element.scrollY
+    };
+}
+function getParentNode(node) {
+    if (getNodeName(node) === 'html') {
+        return node;
+    }
+    const result = // Step into the shadow DOM of the parent of a slotted node.
+    node.assignedSlot || // DOM Element detected.
+    node.parentNode || // ShadowRoot detected.
+    isShadowRoot(node) && node.host || // Fallback.
+    getDocumentElement(node);
+    return isShadowRoot(result) ? result.host : result;
+}
+function getNearestOverflowAncestor(node) {
+    const parentNode = getParentNode(node);
+    if (isLastTraversableNode(parentNode)) {
+        return node.ownerDocument ? node.ownerDocument.body : node.body;
+    }
+    if (isHTMLElement(parentNode) && isOverflowElement(parentNode)) {
+        return parentNode;
+    }
+    return getNearestOverflowAncestor(parentNode);
+}
+function getOverflowAncestors(node, list, traverseIframes) {
+    var _node$ownerDocument2;
+    if (list === void 0) {
+        list = [];
+    }
+    if (traverseIframes === void 0) {
+        traverseIframes = true;
+    }
+    const scrollableAncestor = getNearestOverflowAncestor(node);
+    const isBody = scrollableAncestor === ((_node$ownerDocument2 = node.ownerDocument) == null ? void 0 : _node$ownerDocument2.body);
+    const win = getWindow(scrollableAncestor);
+    if (isBody) {
+        const frameElement = getFrameElement(win);
+        return list.concat(win, win.visualViewport || [], isOverflowElement(scrollableAncestor) ? scrollableAncestor : [], frameElement && traverseIframes ? getOverflowAncestors(frameElement) : []);
+    } else {
+        return list.concat(scrollableAncestor, getOverflowAncestors(scrollableAncestor, [], traverseIframes));
+    }
+}
+function getFrameElement(win) {
+    return win.parent && Object.getPrototypeOf(win.parent) ? win.frameElement : null;
+}
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useRefWithInit",
+    ()=>useRefWithInit
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+const UNINITIALIZED = {};
+function useRefWithInit(init, initArg) {
+    const ref = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](UNINITIALIZED);
+    if (ref.current === UNINITIALIZED) {
+        ref.current = init(initArg);
+    }
+    return ref;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useStableCallback",
+    ()=>useStableCallback
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)");
+'use client';
+;
+;
+// https://github.com/mui/material-ui/issues/41190#issuecomment-2040873379
+const useInsertionEffect = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__[`useInsertionEffect${Math.random().toFixed(1)}`.slice(0, -3)];
+const useSafeInsertionEffect = // React 17 doesn't have useInsertionEffect.
+useInsertionEffect && // Preact replaces useInsertionEffect with useLayoutEffect and fires too late.
+useInsertionEffect !== __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useLayoutEffect ? useInsertionEffect : (fn)=>fn();
+function useStableCallback(callback) {
+    const stable = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])(createStableCallback).current;
+    stable.next = callback;
+    useSafeInsertionEffect(stable.effect);
+    return stable.trampoline;
+}
+function createStableCallback() {
+    const stable = {
+        next: undefined,
+        callback: assertNotCalled,
+        trampoline: (...args)=>stable.callback?.(...args),
+        effect: ()=>{
+            stable.callback = stable.next;
+        }
+    };
+    return stable;
+}
+function assertNotCalled() {
+    if ("TURBOPACK compile-time truthy", 1) {
+        throw /* minify-error-disabled */ new Error('Base UI: Cannot call an event handler while rendering.');
+    }
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/error.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "error",
+    ()=>error,
+    "reset",
+    ()=>reset
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+let set;
+if ("TURBOPACK compile-time truthy", 1) {
+    set = new Set();
+}
+function error(...messages) {
+    if ("TURBOPACK compile-time truthy", 1) {
+        const messageKey = messages.join(' ');
+        if (!set.has(messageKey)) {
+            set.add(messageKey);
+            console.error(`Base UI: ${messageKey}`);
+        }
+    }
+}
+function reset() {
+    set?.clear();
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/safeReact.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "SafeReact",
+    ()=>SafeReact
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const SafeReact = {
+    ...__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+};
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useIsoLayoutEffect",
+    ()=>useIsoLayoutEffect
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+const noop = ()=>{};
+const useIsoLayoutEffect = typeof document !== 'undefined' ? __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLayoutEffect"] : noop;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/mergeObjects.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "mergeObjects",
+    ()=>mergeObjects
+]);
+function mergeObjects(a, b) {
+    if (a && !b) {
+        return a;
+    }
+    if (!a && b) {
+        return b;
+    }
+    if (a || b) {
+        return {
+            ...a,
+            ...b
+        };
+    }
+    return undefined;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/merge-props/mergeProps.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "makeEventPreventable",
+    ()=>makeEventPreventable,
+    "mergeClassNames",
+    ()=>mergeClassNames,
+    "mergeProps",
+    ()=>mergeProps,
+    "mergePropsN",
+    ()=>mergePropsN
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$mergeObjects$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/mergeObjects.js [app-client] (ecmascript)");
+;
+const EMPTY_PROPS = {};
+function mergeProps(a, b, c, d, e) {
+    if (!c && !d && !e && !a) {
+        return createInitialMergedProps(b);
+    }
+    // We need to mutably own `merged`.
+    let merged = createInitialMergedProps(a);
+    if (b) {
+        merged = mergeInto(merged, b);
+    }
+    if (c) {
+        merged = mergeInto(merged, c);
+    }
+    if (d) {
+        merged = mergeInto(merged, d);
+    }
+    if (e) {
+        merged = mergeInto(merged, e);
+    }
+    return merged;
+}
+function mergePropsN(props) {
+    if (props.length === 0) {
+        return EMPTY_PROPS;
+    }
+    if (props.length === 1) {
+        return createInitialMergedProps(props[0]);
+    }
+    // We need to mutably own `merged`.
+    let merged = createInitialMergedProps(props[0]);
+    for(let i = 1; i < props.length; i += 1){
+        merged = mergeInto(merged, props[i]);
+    }
+    return merged;
+}
+function createInitialMergedProps(inputProps) {
+    if (isPropsGetter(inputProps)) {
+        // Getter-returned handlers intentionally keep their existing semantics.
+        return {
+            ...resolvePropsGetter(inputProps, EMPTY_PROPS)
+        };
+    }
+    return copyInitialProps(inputProps);
+}
+function mergeInto(merged, inputProps) {
+    if (isPropsGetter(inputProps)) {
+        return resolvePropsGetter(inputProps, merged);
+    }
+    return mutablyMergeInto(merged, inputProps);
+}
+function copyInitialProps(inputProps) {
+    const copiedProps = {
+        ...inputProps
+    };
+    // `copiedProps` is our fresh own-object copy, so iterating with `for...in` is safe here.
+    // eslint-disable-next-line guard-for-in
+    for(const propName in copiedProps){
+        const propValue = copiedProps[propName];
+        if (isEventHandler(propName, propValue)) {
+            copiedProps[propName] = wrapEventHandler(propValue);
+        }
+    }
+    return copiedProps;
+}
+/**
+ * Merges two sets of props. In case of conflicts, the external props take precedence.
+ */ function mutablyMergeInto(mergedProps, externalProps) {
+    if (!externalProps) {
+        return mergedProps;
+    }
+    // eslint-disable-next-line guard-for-in
+    for(const propName in externalProps){
+        const externalPropValue = externalProps[propName];
+        switch(propName){
+            case 'style':
+                {
+                    mergedProps[propName] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$mergeObjects$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeObjects"])(mergedProps.style, externalPropValue);
+                    break;
+                }
+            case 'className':
+                {
+                    mergedProps[propName] = mergeClassNames(mergedProps.className, externalPropValue);
+                    break;
+                }
+            default:
+                {
+                    if (isEventHandler(propName, externalPropValue)) {
+                        mergedProps[propName] = mergeEventHandlers(mergedProps[propName], externalPropValue);
+                    } else {
+                        mergedProps[propName] = externalPropValue;
+                    }
+                }
+        }
+    }
+    return mergedProps;
+}
+function isEventHandler(key, value) {
+    // This approach is more efficient than using a regex.
+    const code0 = key.charCodeAt(0);
+    const code1 = key.charCodeAt(1);
+    const code2 = key.charCodeAt(2);
+    return code0 === 111 /* o */  && code1 === 110 /* n */  && code2 >= 65 /* A */  && code2 <= 90 /* Z */  && (typeof value === 'function' || typeof value === 'undefined');
+}
+function isPropsGetter(inputProps) {
+    return typeof inputProps === 'function';
+}
+function resolvePropsGetter(inputProps, previousProps) {
+    if (isPropsGetter(inputProps)) {
+        return inputProps(previousProps);
+    }
+    return inputProps ?? EMPTY_PROPS;
+}
+function mergeEventHandlers(ourHandler, theirHandler) {
+    if (!theirHandler) {
+        return ourHandler;
+    }
+    if (!ourHandler) {
+        return wrapEventHandler(theirHandler);
+    }
+    return (event)=>{
+        if (isSyntheticEvent(event)) {
+            const baseUIEvent = event;
+            makeEventPreventable(baseUIEvent);
+            const result = theirHandler(baseUIEvent);
+            if (!baseUIEvent.baseUIHandlerPrevented) {
+                ourHandler?.(baseUIEvent);
+            }
+            return result;
+        }
+        const result = theirHandler(event);
+        ourHandler?.(event);
+        return result;
+    };
+}
+function wrapEventHandler(handler) {
+    if (!handler) {
+        return handler;
+    }
+    return (event)=>{
+        if (isSyntheticEvent(event)) {
+            makeEventPreventable(event);
+        }
+        return handler(event);
+    };
+}
+function makeEventPreventable(event) {
+    event.preventBaseUIHandler = ()=>{
+        event.baseUIHandlerPrevented = true;
+    };
+    return event;
+}
+function mergeClassNames(ourClassName, theirClassName) {
+    if (theirClassName) {
+        if (ourClassName) {
+            // eslint-disable-next-line prefer-template
+            return theirClassName + ' ' + ourClassName;
+        }
+        return theirClassName;
+    }
+    return ourClassName;
+}
+function isSyntheticEvent(event) {
+    return event != null && typeof event === 'object' && 'nativeEvent' in event;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/composite/root/CompositeRootContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "CompositeRootContext",
+    ()=>CompositeRootContext,
+    "useCompositeRootContext",
+    ()=>useCompositeRootContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+;
+const CompositeRootContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"](undefined);
+if ("TURBOPACK compile-time truthy", 1) CompositeRootContext.displayName = "CompositeRootContext";
+function useCompositeRootContext(optional = false) {
+    const context = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](CompositeRootContext);
+    if (context === undefined && !optional) {
+        throw new Error(("TURBOPACK compile-time truthy", 1) ? 'Base UI: CompositeRootContext is missing. Composite parts must be placed within <Composite.Root>.' : "TURBOPACK unreachable");
+    }
+    return context;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useFocusableWhenDisabled.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useFocusableWhenDisabled",
+    ()=>useFocusableWhenDisabled
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+function useFocusableWhenDisabled(parameters) {
+    const { focusableWhenDisabled, disabled, composite = false, tabIndex: tabIndexProp = 0, isNativeButton } = parameters;
+    const isFocusableComposite = composite && focusableWhenDisabled !== false;
+    const isNonFocusableComposite = composite && focusableWhenDisabled === false;
+    // we can't explicitly assign `undefined` to any of these props because it
+    // would otherwise prevent subsequently merged props from setting them
+    const props = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "useFocusableWhenDisabled.useMemo[props]": ()=>{
+            const additionalProps = {
+                // allow Tabbing away from focusableWhenDisabled elements
+                onKeyDown (event) {
+                    if (disabled && focusableWhenDisabled && event.key !== 'Tab') {
+                        event.preventDefault();
+                    }
+                }
+            };
+            if (!composite) {
+                additionalProps.tabIndex = tabIndexProp;
+                if (!isNativeButton && disabled) {
+                    additionalProps.tabIndex = focusableWhenDisabled ? tabIndexProp : -1;
+                }
+            }
+            if (isNativeButton && (focusableWhenDisabled || isFocusableComposite) || !isNativeButton && disabled) {
+                additionalProps['aria-disabled'] = disabled;
+            }
+            if (isNativeButton && (!focusableWhenDisabled || isNonFocusableComposite)) {
+                additionalProps.disabled = disabled;
+            }
+            return additionalProps;
+        }
+    }["useFocusableWhenDisabled.useMemo[props]"], [
+        composite,
+        disabled,
+        focusableWhenDisabled,
+        isFocusableComposite,
+        isNonFocusableComposite,
+        isNativeButton,
+        tabIndexProp
+    ]);
+    return {
+        props
+    };
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/use-button/useButton.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useButton",
+    ()=>useButton
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@floating-ui/utils/dist/floating-ui.utils.dom.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/error.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/safeReact.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/merge-props/mergeProps.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$composite$2f$root$2f$CompositeRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/composite/root/CompositeRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useFocusableWhenDisabled$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useFocusableWhenDisabled.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+function useButton(parameters = {}) {
+    const { disabled = false, focusableWhenDisabled, tabIndex = 0, native: isNativeButton = true, composite: compositeProp } = parameters;
+    const elementRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const compositeRootContext = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$composite$2f$root$2f$CompositeRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCompositeRootContext"])(true);
+    const isCompositeItem = compositeProp ?? compositeRootContext !== undefined;
+    const { props: focusableWhenDisabledProps } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useFocusableWhenDisabled$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFocusableWhenDisabled"])({
+        focusableWhenDisabled,
+        disabled,
+        composite: isCompositeItem,
+        tabIndex,
+        isNativeButton
+    });
+    if ("TURBOPACK compile-time truthy", 1) {
+        // eslint-disable-next-line react-hooks/rules-of-hooks
+        __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+            "useButton.useEffect": ()=>{
+                if (!elementRef.current) {
+                    return;
+                }
+                const isButtonTag = isButtonElement(elementRef.current);
+                if (isNativeButton) {
+                    if (!isButtonTag) {
+                        const ownerStackMessage = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SafeReact"].captureOwnerStack?.() || '';
+                        const message = 'A component that acts as a button expected a native <button> because the ' + '`nativeButton` prop is true. Rendering a non-<button> removes native button ' + 'semantics, which can impact forms and accessibility. Use a real <button> in the ' + '`render` prop, or set `nativeButton` to `false`.';
+                        (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["error"])(`${message}${ownerStackMessage}`);
+                    }
+                } else if (isButtonTag) {
+                    const ownerStackMessage = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SafeReact"].captureOwnerStack?.() || '';
+                    const message = 'A component that acts as a button expected a non-<button> because the `nativeButton` ' + 'prop is false. Rendering a <button> keeps native behavior while Base UI applies ' + 'non-native attributes and handlers, which can add unintended extra attributes (such ' + 'as `role` or `aria-disabled`). Use a non-<button> in the `render` prop, or set ' + '`nativeButton` to `true`.';
+                    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["error"])(`${message}${ownerStackMessage}`);
+                }
+            }
+        }["useButton.useEffect"], [
+            isNativeButton
+        ]);
+    }
+    // handles a disabled composite button rendering another button, e.g.
+    // <Toolbar.Button disabled render={<Menu.Trigger />} />
+    // the `disabled` prop needs to pass through 2 `useButton`s then finally
+    // delete the `disabled` attribute from DOM
+    const updateDisabled = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "useButton.useCallback[updateDisabled]": ()=>{
+            const element = elementRef.current;
+            if (!isButtonElement(element)) {
+                return;
+            }
+            if (isCompositeItem && disabled && focusableWhenDisabledProps.disabled === undefined && element.disabled) {
+                element.disabled = false;
+            }
+        }
+    }["useButton.useCallback[updateDisabled]"], [
+        disabled,
+        focusableWhenDisabledProps.disabled,
+        isCompositeItem
+    ]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])(updateDisabled, [
+        updateDisabled
+    ]);
+    const getButtonProps = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "useButton.useCallback[getButtonProps]": (externalProps = {})=>{
+            const { onClick: externalOnClick, onMouseDown: externalOnMouseDown, onKeyUp: externalOnKeyUp, onKeyDown: externalOnKeyDown, onPointerDown: externalOnPointerDown, ...otherExternalProps } = externalProps;
+            const type = isNativeButton ? 'button' : undefined;
+            return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeProps"])({
+                type,
+                onClick (event) {
+                    if (disabled) {
+                        event.preventDefault();
+                        return;
+                    }
+                    externalOnClick?.(event);
+                },
+                onMouseDown (event) {
+                    if (!disabled) {
+                        externalOnMouseDown?.(event);
+                    }
+                },
+                onKeyDown (event) {
+                    if (disabled) {
+                        return;
+                    }
+                    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["makeEventPreventable"])(event);
+                    externalOnKeyDown?.(event);
+                    if (event.baseUIHandlerPrevented) {
+                        return;
+                    }
+                    const isCurrentTarget = event.target === event.currentTarget;
+                    const currentTarget = event.currentTarget;
+                    const isButton = isButtonElement(currentTarget);
+                    const isLink = !isNativeButton && isValidLinkElement(currentTarget);
+                    const shouldClick = isCurrentTarget && (isNativeButton ? isButton : !isLink);
+                    const isEnterKey = event.key === 'Enter';
+                    const isSpaceKey = event.key === ' ';
+                    const role = currentTarget.getAttribute('role');
+                    const isTextNavigationRole = role?.startsWith('menuitem') || role === 'option' || role === 'gridcell';
+                    if (isCurrentTarget && isCompositeItem && isSpaceKey) {
+                        if (event.defaultPrevented && isTextNavigationRole) {
+                            return;
+                        }
+                        event.preventDefault();
+                        if (isLink || isNativeButton && isButton) {
+                            currentTarget.click();
+                            event.preventBaseUIHandler();
+                        } else if (shouldClick) {
+                            externalOnClick?.(event);
+                            event.preventBaseUIHandler();
+                        }
+                        return;
+                    }
+                    // Keyboard accessibility for native and non-native elements.
+                    if (shouldClick) {
+                        if (!isNativeButton && (isSpaceKey || isEnterKey)) {
+                            event.preventDefault();
+                        }
+                        if (!isNativeButton && isEnterKey) {
+                            externalOnClick?.(event);
+                        }
+                    }
+                },
+                onKeyUp (event) {
+                    if (disabled) {
+                        return;
+                    }
+                    // calling preventDefault in keyUp on a <button> will not dispatch a click event if Space is pressed
+                    // https://codesandbox.io/p/sandbox/button-keyup-preventdefault-dn7f0
+                    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["makeEventPreventable"])(event);
+                    externalOnKeyUp?.(event);
+                    if (event.target === event.currentTarget && isNativeButton && isCompositeItem && isButtonElement(event.currentTarget) && event.key === ' ') {
+                        event.preventDefault();
+                        return;
+                    }
+                    if (event.baseUIHandlerPrevented) {
+                        return;
+                    }
+                    // Keyboard accessibility for non interactive elements
+                    if (event.target === event.currentTarget && !isNativeButton && !isCompositeItem && event.key === ' ') {
+                        externalOnClick?.(event);
+                    }
+                },
+                onPointerDown (event) {
+                    if (disabled) {
+                        event.preventDefault();
+                        return;
+                    }
+                    externalOnPointerDown?.(event);
+                }
+            }, !isNativeButton ? {
+                role: 'button'
+            } : undefined, focusableWhenDisabledProps, otherExternalProps);
+        }
+    }["useButton.useCallback[getButtonProps]"], [
+        disabled,
+        focusableWhenDisabledProps,
+        isCompositeItem,
+        isNativeButton
+    ]);
+    const buttonRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useButton.useStableCallback[buttonRef]": (element)=>{
+            elementRef.current = element;
+            updateDisabled();
+        }
+    }["useButton.useStableCallback[buttonRef]"]);
+    return {
+        getButtonProps,
+        buttonRef
+    };
+}
+function isButtonElement(elem) {
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isHTMLElement"])(elem) && elem.tagName === 'BUTTON';
+}
+function isValidLinkElement(elem) {
+    return Boolean(elem?.tagName === 'A' && elem?.href);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useMergedRefs.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useMergedRefs",
+    ()=>useMergedRefs,
+    "useMergedRefsN",
+    ()=>useMergedRefsN
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)");
+;
+function useMergedRefs(a, b, c, d) {
+    const forkRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])(createForkRef).current;
+    if (didChange(forkRef, a, b, c, d)) {
+        update(forkRef, [
+            a,
+            b,
+            c,
+            d
+        ]);
+    }
+    return forkRef.callback;
+}
+function useMergedRefsN(refs) {
+    const forkRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])(createForkRef).current;
+    if (didChangeN(forkRef, refs)) {
+        update(forkRef, refs);
+    }
+    return forkRef.callback;
+}
+function createForkRef() {
+    return {
+        callback: null,
+        cleanup: null,
+        refs: []
+    };
+}
+function didChange(forkRef, a, b, c, d) {
+    // prettier-ignore
+    return forkRef.refs[0] !== a || forkRef.refs[1] !== b || forkRef.refs[2] !== c || forkRef.refs[3] !== d;
+}
+function didChangeN(forkRef, newRefs) {
+    return forkRef.refs.length !== newRefs.length || forkRef.refs.some((ref, index)=>ref !== newRefs[index]);
+}
+function update(forkRef, refs) {
+    forkRef.refs = refs;
+    if (refs.every((ref)=>ref == null)) {
+        forkRef.callback = null;
+        return;
+    }
+    forkRef.callback = (instance)=>{
+        if (forkRef.cleanup) {
+            forkRef.cleanup();
+            forkRef.cleanup = null;
+        }
+        if (instance != null) {
+            const cleanupCallbacks = Array(refs.length).fill(null);
+            for(let i = 0; i < refs.length; i += 1){
+                const ref = refs[i];
+                if (ref == null) {
+                    continue;
+                }
+                switch(typeof ref){
+                    case 'function':
+                        {
+                            const refCleanup = ref(instance);
+                            if (typeof refCleanup === 'function') {
+                                cleanupCallbacks[i] = refCleanup;
+                            }
+                            break;
+                        }
+                    case 'object':
+                        {
+                            ref.current = instance;
+                            break;
+                        }
+                    default:
+                }
+            }
+            forkRef.cleanup = ()=>{
+                for(let i = 0; i < refs.length; i += 1){
+                    const ref = refs[i];
+                    if (ref == null) {
+                        continue;
+                    }
+                    switch(typeof ref){
+                        case 'function':
+                            {
+                                const cleanupCallback = cleanupCallbacks[i];
+                                if (typeof cleanupCallback === 'function') {
+                                    cleanupCallback();
+                                } else {
+                                    ref(null);
+                                }
+                                break;
+                            }
+                        case 'object':
+                            {
+                                ref.current = null;
+                                break;
+                            }
+                        default:
+                    }
+                }
+            };
+        }
+    };
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/reactVersion.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "isReactVersionAtLeast",
+    ()=>isReactVersionAtLeast
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+;
+const majorVersion = parseInt(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["version"], 10);
+function isReactVersionAtLeast(reactVersionToCheck) {
+    return majorVersion >= reactVersionToCheck;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/getReactElementRef.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "getReactElementRef",
+    ()=>getReactElementRef
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$reactVersion$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/reactVersion.js [app-client] (ecmascript)");
+;
+;
+function getReactElementRef(element) {
+    if (!/*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isValidElement"](element)) {
+        return null;
+    }
+    const reactElement = element;
+    const propsWithRef = reactElement.props;
+    return ((0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$reactVersion$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isReactVersionAtLeast"])(19) ? propsWithRef?.ref : reactElement.ref) ?? null;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/warn.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "warn",
+    ()=>warn
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+let set;
+if ("TURBOPACK compile-time truthy", 1) {
+    set = new Set();
+}
+function warn(...messages) {
+    if ("TURBOPACK compile-time truthy", 1) {
+        const messageKey = messages.join(' ');
+        if (!set.has(messageKey)) {
+            set.add(messageKey);
+            console.warn(`Base UI: ${messageKey}`);
+        }
+    }
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/getStateAttributesProps.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "getStateAttributesProps",
+    ()=>getStateAttributesProps
+]);
+function getStateAttributesProps(state, customMapping) {
+    const props = {};
+    /* eslint-disable-next-line guard-for-in */ for(const key in state){
+        const value = state[key];
+        if (customMapping?.hasOwnProperty(key)) {
+            const customProps = customMapping[key](value);
+            if (customProps != null) {
+                Object.assign(props, customProps);
+            }
+            continue;
+        }
+        if (value === true) {
+            props[`data-${key.toLowerCase()}`] = '';
+        } else if (value) {
+            props[`data-${key.toLowerCase()}`] = value.toString();
+        }
+    }
+    return props;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/resolveClassName.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * If the provided className is a string, it will be returned as is.
+ * Otherwise, the function will call the className function with the state as the first argument.
+ *
+ * @param className
+ * @param state
+ */ __turbopack_context__.s([
+    "resolveClassName",
+    ()=>resolveClassName
+]);
+function resolveClassName(className, state) {
+    return typeof className === 'function' ? className(state) : className;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/resolveStyle.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * If the provided style is an object, it will be returned as is.
+ * Otherwise, the function will call the style function with the state as the first argument.
+ *
+ * @param style
+ * @param state
+ */ __turbopack_context__.s([
+    "resolveStyle",
+    ()=>resolveStyle
+]);
+function resolveStyle(style, state) {
+    return typeof style === 'function' ? style(state) : style;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "EMPTY_ARRAY",
+    ()=>EMPTY_ARRAY,
+    "EMPTY_OBJECT",
+    ()=>EMPTY_OBJECT,
+    "NOOP",
+    ()=>NOOP
+]);
+function NOOP() {}
+const EMPTY_ARRAY = Object.freeze([]);
+const EMPTY_OBJECT = Object.freeze({});
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useRenderElement",
+    ()=>useRenderElement
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useMergedRefs$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useMergedRefs.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$getReactElementRef$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/getReactElementRef.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$mergeObjects$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/mergeObjects.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$warn$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/warn.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$getStateAttributesProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/getStateAttributesProps.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$resolveClassName$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/resolveClassName.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$resolveStyle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/resolveStyle.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/merge-props/mergeProps.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+function useRenderElement(element, componentProps, params = {}) {
+    const renderProp = componentProps.render;
+    const outProps = useRenderElementProps(componentProps, params);
+    if (params.enabled === false) {
+        return null;
+    }
+    const state = params.state ?? __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"];
+    return evaluateRenderProp(element, renderProp, outProps, state);
+}
+/**
+ * Computes render element final props.
+ */ function useRenderElementProps(componentProps, params = {}) {
+    const { className: classNameProp, style: styleProp, render: renderProp } = componentProps;
+    const { state = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"], ref, props, stateAttributesMapping, enabled = true } = params;
+    const className = enabled ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$resolveClassName$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["resolveClassName"])(classNameProp, state) : undefined;
+    const style = enabled ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$resolveStyle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["resolveStyle"])(styleProp, state) : undefined;
+    const stateProps = enabled ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$getStateAttributesProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getStateAttributesProps"])(state, stateAttributesMapping) : __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"];
+    const resolvedProps = enabled && props ? resolveRenderFunctionProps(props) : undefined;
+    // Ensure outProps is always a new mutable object when enabled, never EMPTY_OBJECT.
+    // This prevents potential TypeError when setting ref, className, or style properties,
+    // since EMPTY_OBJECT is frozen and mutations would fail in strict mode.
+    const outProps = enabled ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$mergeObjects$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeObjects"])(stateProps, resolvedProps) ?? {} : __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"];
+    // SAFETY: The `useMergedRefs` functions use a single hook to store the same value,
+    // switching between them at runtime is safe. If this assertion fails, React will
+    // throw at runtime anyway.
+    // This also skips the `useMergedRefs` call on the server, which is fine because
+    // refs are not used on the server side.
+    /* eslint-disable react-hooks/rules-of-hooks */ if (typeof document !== 'undefined') {
+        if (!enabled) {
+            (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useMergedRefs$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMergedRefs"])(null, null);
+        } else if (Array.isArray(ref)) {
+            outProps.ref = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useMergedRefs$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMergedRefsN"])([
+                outProps.ref,
+                (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$getReactElementRef$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getReactElementRef"])(renderProp),
+                ...ref
+            ]);
+        } else {
+            outProps.ref = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useMergedRefs$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMergedRefs"])(outProps.ref, (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$getReactElementRef$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getReactElementRef"])(renderProp), ref);
+        }
+    }
+    if (!enabled) {
+        return __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"];
+    }
+    if (className !== undefined) {
+        outProps.className = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeClassNames"])(outProps.className, className);
+    }
+    if (style !== undefined) {
+        outProps.style = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$mergeObjects$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeObjects"])(outProps.style, style);
+    }
+    return outProps;
+}
+function resolveRenderFunctionProps(props) {
+    if (Array.isArray(props)) {
+        return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergePropsN"])(props);
+    }
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeProps"])(undefined, props);
+}
+// The symbol React uses internally for lazy components
+// https://github.com/facebook/react/blob/a0566250b210499b4c5677f5ac2eedbd71d51a1b/packages/shared/ReactSymbols.js#L31
+//
+// TODO delete once https://github.com/facebook/react/issues/32392 is fixed
+const REACT_LAZY_TYPE = Symbol.for('react.lazy');
+const COMPONENT_IDENTIFIER_PATTERN = /^[A-Z][A-Za-z0-9$]*$/;
+const LOWERCASE_CHARACTER_PATTERN = /[a-z]/;
+function evaluateRenderProp(element, render, props, state) {
+    if (render) {
+        if (typeof render === 'function') {
+            if ("TURBOPACK compile-time truthy", 1) {
+                warnIfRenderPropLooksLikeComponent(render);
+            }
+            return render(props, state);
+        }
+        const mergedProps = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeProps"])(props, render.props);
+        mergedProps.ref = props.ref;
+        let newElement = render;
+        // Workaround for https://github.com/facebook/react/issues/32392
+        // This works because the toArray() logic unwrap lazy element type in
+        // https://github.com/facebook/react/blob/a0566250b210499b4c5677f5ac2eedbd71d51a1b/packages/react/src/ReactChildren.js#L186
+        if (newElement?.$$typeof === REACT_LAZY_TYPE) {
+            const children = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Children"].toArray(render);
+            newElement = children[0];
+        }
+        // There is a high number of indirections, the error message thrown by React.cloneElement() is
+        // hard to use for developers, this logic provides a better context.
+        //
+        // Our general guideline is to never change the control flow depending on the environment.
+        // However, React.cloneElement() throws if React.isValidElement() is false,
+        // so we can throw before with custom message.
+        if ("TURBOPACK compile-time truthy", 1) {
+            if (!/*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isValidElement"](newElement)) {
+                throw new Error([
+                    'Base UI: The `render` prop was provided an invalid React element as `React.isValidElement(render)` is `false`.',
+                    'A valid React element must be provided to the `render` prop because it is cloned with props to replace the default element.',
+                    'https://base-ui.com/r/invalid-render-prop'
+                ].join('\n'));
+            }
+        }
+        return /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cloneElement"](newElement, mergedProps);
+    }
+    if (element) {
+        if (typeof element === 'string') {
+            return renderTag(element, props);
+        }
+    }
+    // Unreachable, but the typings on `useRenderElement` need to be reworked
+    // to annotate it correctly.
+    throw new Error(("TURBOPACK compile-time truthy", 1) ? 'Base UI: Render element or function are not defined.' : "TURBOPACK unreachable");
+}
+function warnIfRenderPropLooksLikeComponent(renderFn) {
+    const functionName = renderFn.name;
+    if (functionName.length === 0) {
+        return;
+    }
+    if (!COMPONENT_IDENTIFIER_PATTERN.test(functionName)) {
+        return;
+    }
+    if (!LOWERCASE_CHARACTER_PATTERN.test(functionName)) {
+        return;
+    }
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$warn$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["warn"])(`The \`render\` prop received a function named \`${functionName}\` that starts with an uppercase letter.`, 'This usually means a React component was passed directly as `render={Component}`.', 'Base UI calls `render` as a plain function, which can break the Rules of Hooks during reconciliation.', 'If this is an intentional render callback, rename it to start with a lowercase letter.', 'Use `render={<Component />}` or `render={(props) => <Component {...props} />}` instead.', 'https://base-ui.com/r/invalid-render-prop');
+}
+function renderTag(Tag, props) {
+    if (Tag === 'button') {
+        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"])("button", {
+            type: "button",
+            ...props,
+            key: props.key
+        });
+    }
+    if (Tag === 'img') {
+        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"])("img", {
+            alt: "",
+            ...props,
+            key: props.key
+        });
+    }
+    return /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createElement"](Tag, props);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/button/Button.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Button",
+    ()=>Button
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$use$2d$button$2f$useButton$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/use-button/useButton.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+const Button = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function Button(componentProps, forwardedRef) {
+    const { render, className, disabled = false, focusableWhenDisabled = false, nativeButton = true, style, ...elementProps } = componentProps;
+    const { getButtonProps, buttonRef } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$use$2d$button$2f$useButton$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useButton"])({
+        disabled,
+        focusableWhenDisabled,
+        native: nativeButton
+    });
+    const state = {
+        disabled
+    };
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('button', componentProps, {
+        state,
+        ref: [
+            forwardedRef,
+            buttonRef
+        ],
+        props: [
+            elementProps,
+            getButtonProps
+        ]
+    });
+});
+if ("TURBOPACK compile-time truthy", 1) Button.displayName = "Button";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/clsx/dist/clsx.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "clsx",
+    ()=>clsx,
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+function r(e) {
+    var t, f, n = "";
+    if ("string" == typeof e || "number" == typeof e) n += e;
+    else if ("object" == typeof e) if (Array.isArray(e)) {
+        var o = e.length;
+        for(t = 0; t < o; t++)e[t] && (f = r(e[t])) && (n && (n += " "), n += f);
+    } else for(f in e)e[f] && (n && (n += " "), n += f);
+    return n;
+}
+function clsx() {
+    for(var e, t, f = 0, n = "", o = arguments.length; f < o; f++)(e = arguments[f]) && (t = r(e)) && (n && (n += " "), n += t);
+    return n;
+}
+const __TURBOPACK__default__export__ = clsx;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/class-variance-authority/dist/index.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "cva",
+    ()=>cva,
+    "cx",
+    ()=>cx
+]);
+/**
+ * Copyright 2022 Joe Bell. All rights reserved.
+ *
+ * This file is licensed to you under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with the
+ * License. You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR REPRESENTATIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$clsx$2f$dist$2f$clsx$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/clsx/dist/clsx.mjs [app-client] (ecmascript)");
+;
+const falsyToString = (value)=>typeof value === "boolean" ? `${value}` : value === 0 ? "0" : value;
+const cx = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$clsx$2f$dist$2f$clsx$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["clsx"];
+const cva = (base, config)=>(props)=>{
+        var _config_compoundVariants;
+        if ((config === null || config === void 0 ? void 0 : config.variants) == null) return cx(base, props === null || props === void 0 ? void 0 : props.class, props === null || props === void 0 ? void 0 : props.className);
+        const { variants, defaultVariants } = config;
+        const getVariantClassNames = Object.keys(variants).map((variant)=>{
+            const variantProp = props === null || props === void 0 ? void 0 : props[variant];
+            const defaultVariantProp = defaultVariants === null || defaultVariants === void 0 ? void 0 : defaultVariants[variant];
+            if (variantProp === null) return null;
+            const variantKey = falsyToString(variantProp) || falsyToString(defaultVariantProp);
+            return variants[variant][variantKey];
+        });
+        const propsWithoutUndefined = props && Object.entries(props).reduce((acc, param)=>{
+            let [key, value] = param;
+            if (value === undefined) {
+                return acc;
+            }
+            acc[key] = value;
+            return acc;
+        }, {});
+        const getCompoundVariantClassNames = config === null || config === void 0 ? void 0 : (_config_compoundVariants = config.compoundVariants) === null || _config_compoundVariants === void 0 ? void 0 : _config_compoundVariants.reduce((acc, param)=>{
+            let { class: cvClass, className: cvClassName, ...compoundVariantOptions } = param;
+            return Object.entries(compoundVariantOptions).every((param)=>{
+                let [key, value] = param;
+                return Array.isArray(value) ? value.includes({
+                    ...defaultVariants,
+                    ...propsWithoutUndefined
+                }[key]) : ({
+                    ...defaultVariants,
+                    ...propsWithoutUndefined
+                })[key] === value;
+            }) ? [
+                ...acc,
+                cvClass,
+                cvClassName
+            ] : acc;
+        }, []);
+        return cx(base, getVariantClassNames, getCompoundVariantClassNames, props === null || props === void 0 ? void 0 : props.class, props === null || props === void 0 ? void 0 : props.className);
+    };
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/tailwind-merge/dist/bundle-mjs.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "createTailwindMerge",
+    ()=>createTailwindMerge,
+    "extendTailwindMerge",
+    ()=>extendTailwindMerge,
+    "fromTheme",
+    ()=>fromTheme,
+    "getDefaultConfig",
+    ()=>getDefaultConfig,
+    "mergeConfigs",
+    ()=>mergeConfigs,
+    "twJoin",
+    ()=>twJoin,
+    "twMerge",
+    ()=>twMerge,
+    "validators",
+    ()=>validators
+]);
+/**
+ * Concatenates two arrays faster than the array spread operator.
+ */ const concatArrays = (array1, array2)=>{
+    // Pre-allocate for better V8 optimization
+    const combinedArray = new Array(array1.length + array2.length);
+    for(let i = 0; i < array1.length; i++){
+        combinedArray[i] = array1[i];
+    }
+    for(let i = 0; i < array2.length; i++){
+        combinedArray[array1.length + i] = array2[i];
+    }
+    return combinedArray;
+};
+// Factory function ensures consistent object shapes
+const createClassValidatorObject = (classGroupId, validator)=>({
+        classGroupId,
+        validator
+    });
+// Factory ensures consistent ClassPartObject shape
+const createClassPartObject = (nextPart = new Map(), validators = null, classGroupId)=>({
+        nextPart,
+        validators,
+        classGroupId
+    });
+const CLASS_PART_SEPARATOR = '-';
+const EMPTY_CONFLICTS = [];
+// I use two dots here because one dot is used as prefix for class groups in plugins
+const ARBITRARY_PROPERTY_PREFIX = 'arbitrary..';
+const createClassGroupUtils = (config)=>{
+    const classMap = createClassMap(config);
+    const { conflictingClassGroups, conflictingClassGroupModifiers } = config;
+    const getClassGroupId = (className)=>{
+        if (className.startsWith('[') && className.endsWith(']')) {
+            return getGroupIdForArbitraryProperty(className);
+        }
+        const classParts = className.split(CLASS_PART_SEPARATOR);
+        // Classes like `-inset-1` produce an empty string as first classPart. We assume that classes for negative values are used correctly and skip it.
+        const startIndex = classParts[0] === '' && classParts.length > 1 ? 1 : 0;
+        return getGroupRecursive(classParts, startIndex, classMap);
+    };
+    const getConflictingClassGroupIds = (classGroupId, hasPostfixModifier)=>{
+        if (hasPostfixModifier) {
+            const modifierConflicts = conflictingClassGroupModifiers[classGroupId];
+            const baseConflicts = conflictingClassGroups[classGroupId];
+            if (modifierConflicts) {
+                if (baseConflicts) {
+                    // Merge base conflicts with modifier conflicts
+                    return concatArrays(baseConflicts, modifierConflicts);
+                }
+                // Only modifier conflicts
+                return modifierConflicts;
+            }
+            // Fall back to without postfix if no modifier conflicts
+            return baseConflicts || EMPTY_CONFLICTS;
+        }
+        return conflictingClassGroups[classGroupId] || EMPTY_CONFLICTS;
+    };
+    return {
+        getClassGroupId,
+        getConflictingClassGroupIds
+    };
+};
+const getGroupRecursive = (classParts, startIndex, classPartObject)=>{
+    const classPathsLength = classParts.length - startIndex;
+    if (classPathsLength === 0) {
+        return classPartObject.classGroupId;
+    }
+    const currentClassPart = classParts[startIndex];
+    const nextClassPartObject = classPartObject.nextPart.get(currentClassPart);
+    if (nextClassPartObject) {
+        const result = getGroupRecursive(classParts, startIndex + 1, nextClassPartObject);
+        if (result) return result;
+    }
+    const validators = classPartObject.validators;
+    if (validators === null) {
+        return undefined;
+    }
+    // Build classRest string efficiently by joining from startIndex onwards
+    const classRest = startIndex === 0 ? classParts.join(CLASS_PART_SEPARATOR) : classParts.slice(startIndex).join(CLASS_PART_SEPARATOR);
+    const validatorsLength = validators.length;
+    for(let i = 0; i < validatorsLength; i++){
+        const validatorObj = validators[i];
+        if (validatorObj.validator(classRest)) {
+            return validatorObj.classGroupId;
+        }
+    }
+    return undefined;
+};
+/**
+ * Get the class group ID for an arbitrary property.
+ *
+ * @param className - The class name to get the group ID for. Is expected to be string starting with `[` and ending with `]`.
+ */ const getGroupIdForArbitraryProperty = (className)=>className.slice(1, -1).indexOf(':') === -1 ? undefined : (()=>{
+        const content = className.slice(1, -1);
+        const colonIndex = content.indexOf(':');
+        const property = content.slice(0, colonIndex);
+        return property ? ARBITRARY_PROPERTY_PREFIX + property : undefined;
+    })();
+/**
+ * Exported for testing only
+ */ const createClassMap = (config)=>{
+    const { theme, classGroups } = config;
+    return processClassGroups(classGroups, theme);
+};
+// Split into separate functions to maintain monomorphic call sites
+const processClassGroups = (classGroups, theme)=>{
+    const classMap = createClassPartObject();
+    for(const classGroupId in classGroups){
+        const group = classGroups[classGroupId];
+        processClassesRecursively(group, classMap, classGroupId, theme);
+    }
+    return classMap;
+};
+const processClassesRecursively = (classGroup, classPartObject, classGroupId, theme)=>{
+    const len = classGroup.length;
+    for(let i = 0; i < len; i++){
+        const classDefinition = classGroup[i];
+        processClassDefinition(classDefinition, classPartObject, classGroupId, theme);
+    }
+};
+// Split into separate functions for each type to maintain monomorphic call sites
+const processClassDefinition = (classDefinition, classPartObject, classGroupId, theme)=>{
+    if (typeof classDefinition === 'string') {
+        processStringDefinition(classDefinition, classPartObject, classGroupId);
+        return;
+    }
+    if (typeof classDefinition === 'function') {
+        processFunctionDefinition(classDefinition, classPartObject, classGroupId, theme);
+        return;
+    }
+    processObjectDefinition(classDefinition, classPartObject, classGroupId, theme);
+};
+const processStringDefinition = (classDefinition, classPartObject, classGroupId)=>{
+    const classPartObjectToEdit = classDefinition === '' ? classPartObject : getPart(classPartObject, classDefinition);
+    classPartObjectToEdit.classGroupId = classGroupId;
+};
+const processFunctionDefinition = (classDefinition, classPartObject, classGroupId, theme)=>{
+    if (isThemeGetter(classDefinition)) {
+        processClassesRecursively(classDefinition(theme), classPartObject, classGroupId, theme);
+        return;
+    }
+    if (classPartObject.validators === null) {
+        classPartObject.validators = [];
+    }
+    classPartObject.validators.push(createClassValidatorObject(classGroupId, classDefinition));
+};
+const processObjectDefinition = (classDefinition, classPartObject, classGroupId, theme)=>{
+    const entries = Object.entries(classDefinition);
+    const len = entries.length;
+    for(let i = 0; i < len; i++){
+        const [key, value] = entries[i];
+        processClassesRecursively(value, getPart(classPartObject, key), classGroupId, theme);
+    }
+};
+const getPart = (classPartObject, path)=>{
+    let current = classPartObject;
+    const parts = path.split(CLASS_PART_SEPARATOR);
+    const len = parts.length;
+    for(let i = 0; i < len; i++){
+        const part = parts[i];
+        let next = current.nextPart.get(part);
+        if (!next) {
+            next = createClassPartObject();
+            current.nextPart.set(part, next);
+        }
+        current = next;
+    }
+    return current;
+};
+// Type guard maintains monomorphic check
+const isThemeGetter = (func)=>'isThemeGetter' in func && func.isThemeGetter === true;
+// LRU cache implementation using plain objects for simplicity
+const createLruCache = (maxCacheSize)=>{
+    if (maxCacheSize < 1) {
+        return {
+            get: ()=>undefined,
+            set: ()=>{}
+        };
+    }
+    let cacheSize = 0;
+    let cache = Object.create(null);
+    let previousCache = Object.create(null);
+    const update = (key, value)=>{
+        cache[key] = value;
+        cacheSize++;
+        if (cacheSize > maxCacheSize) {
+            cacheSize = 0;
+            previousCache = cache;
+            cache = Object.create(null);
+        }
+    };
+    return {
+        get (key) {
+            let value = cache[key];
+            if (value !== undefined) {
+                return value;
+            }
+            if ((value = previousCache[key]) !== undefined) {
+                update(key, value);
+                return value;
+            }
+        },
+        set (key, value) {
+            if (key in cache) {
+                cache[key] = value;
+            } else {
+                update(key, value);
+            }
+        }
+    };
+};
+const IMPORTANT_MODIFIER = '!';
+const MODIFIER_SEPARATOR = ':';
+const EMPTY_MODIFIERS = [];
+// Pre-allocated result object shape for consistency
+const createResultObject = (modifiers, hasImportantModifier, baseClassName, maybePostfixModifierPosition, isExternal)=>({
+        modifiers,
+        hasImportantModifier,
+        baseClassName,
+        maybePostfixModifierPosition,
+        isExternal
+    });
+const createParseClassName = (config)=>{
+    const { prefix, experimentalParseClassName } = config;
+    /**
+   * Parse class name into parts.
+   *
+   * Inspired by `splitAtTopLevelOnly` used in Tailwind CSS
+   * @see https://github.com/tailwindlabs/tailwindcss/blob/v3.2.2/src/util/splitAtTopLevelOnly.js
+   */ let parseClassName = (className)=>{
+        // Use simple array with push for better performance
+        const modifiers = [];
+        let bracketDepth = 0;
+        let parenDepth = 0;
+        let modifierStart = 0;
+        let postfixModifierPosition;
+        const len = className.length;
+        for(let index = 0; index < len; index++){
+            const currentCharacter = className[index];
+            if (bracketDepth === 0 && parenDepth === 0) {
+                if (currentCharacter === MODIFIER_SEPARATOR) {
+                    modifiers.push(className.slice(modifierStart, index));
+                    modifierStart = index + 1;
+                    continue;
+                }
+                if (currentCharacter === '/') {
+                    postfixModifierPosition = index;
+                    continue;
+                }
+            }
+            if (currentCharacter === '[') bracketDepth++;
+            else if (currentCharacter === ']') bracketDepth--;
+            else if (currentCharacter === '(') parenDepth++;
+            else if (currentCharacter === ')') parenDepth--;
+        }
+        const baseClassNameWithImportantModifier = modifiers.length === 0 ? className : className.slice(modifierStart);
+        // Inline important modifier check
+        let baseClassName = baseClassNameWithImportantModifier;
+        let hasImportantModifier = false;
+        if (baseClassNameWithImportantModifier.endsWith(IMPORTANT_MODIFIER)) {
+            baseClassName = baseClassNameWithImportantModifier.slice(0, -1);
+            hasImportantModifier = true;
+        } else if (/**
+     * In Tailwind CSS v3 the important modifier was at the start of the base class name. This is still supported for legacy reasons.
+     * @see https://github.com/dcastil/tailwind-merge/issues/513#issuecomment-2614029864
+     */ baseClassNameWithImportantModifier.startsWith(IMPORTANT_MODIFIER)) {
+            baseClassName = baseClassNameWithImportantModifier.slice(1);
+            hasImportantModifier = true;
+        }
+        const maybePostfixModifierPosition = postfixModifierPosition && postfixModifierPosition > modifierStart ? postfixModifierPosition - modifierStart : undefined;
+        return createResultObject(modifiers, hasImportantModifier, baseClassName, maybePostfixModifierPosition);
+    };
+    if (prefix) {
+        const fullPrefix = prefix + MODIFIER_SEPARATOR;
+        const parseClassNameOriginal = parseClassName;
+        parseClassName = (className)=>className.startsWith(fullPrefix) ? parseClassNameOriginal(className.slice(fullPrefix.length)) : createResultObject(EMPTY_MODIFIERS, false, className, undefined, true);
+    }
+    if (experimentalParseClassName) {
+        const parseClassNameOriginal = parseClassName;
+        parseClassName = (className)=>experimentalParseClassName({
+                className,
+                parseClassName: parseClassNameOriginal
+            });
+    }
+    return parseClassName;
+};
+/**
+ * Sorts modifiers according to following schema:
+ * - Predefined modifiers are sorted alphabetically
+ * - When an arbitrary variant appears, it must be preserved which modifiers are before and after it
+ */ const createSortModifiers = (config)=>{
+    // Pre-compute weights for all known modifiers for O(1) comparison
+    const modifierWeights = new Map();
+    // Assign weights to sensitive modifiers (highest priority, but preserve order)
+    config.orderSensitiveModifiers.forEach((mod, index)=>{
+        modifierWeights.set(mod, 1000000 + index); // High weights for sensitive mods
+    });
+    return (modifiers)=>{
+        const result = [];
+        let currentSegment = [];
+        // Process modifiers in one pass
+        for(let i = 0; i < modifiers.length; i++){
+            const modifier = modifiers[i];
+            // Check if modifier is sensitive (starts with '[' or in orderSensitiveModifiers)
+            const isArbitrary = modifier[0] === '[';
+            const isOrderSensitive = modifierWeights.has(modifier);
+            if (isArbitrary || isOrderSensitive) {
+                // Sort and flush current segment alphabetically
+                if (currentSegment.length > 0) {
+                    currentSegment.sort();
+                    result.push(...currentSegment);
+                    currentSegment = [];
+                }
+                result.push(modifier);
+            } else {
+                // Regular modifier - add to current segment for batch sorting
+                currentSegment.push(modifier);
+            }
+        }
+        // Sort and add any remaining segment items
+        if (currentSegment.length > 0) {
+            currentSegment.sort();
+            result.push(...currentSegment);
+        }
+        return result;
+    };
+};
+const createConfigUtils = (config)=>({
+        cache: createLruCache(config.cacheSize),
+        parseClassName: createParseClassName(config),
+        sortModifiers: createSortModifiers(config),
+        ...createClassGroupUtils(config)
+    });
+const SPLIT_CLASSES_REGEX = /\s+/;
+const mergeClassList = (classList, configUtils)=>{
+    const { parseClassName, getClassGroupId, getConflictingClassGroupIds, sortModifiers } = configUtils;
+    /**
+   * Set of classGroupIds in following format:
+   * `{importantModifier}{variantModifiers}{classGroupId}`
+   * @example 'float'
+   * @example 'hover:focus:bg-color'
+   * @example 'md:!pr'
+   */ const classGroupsInConflict = [];
+    const classNames = classList.trim().split(SPLIT_CLASSES_REGEX);
+    let result = '';
+    for(let index = classNames.length - 1; index >= 0; index -= 1){
+        const originalClassName = classNames[index];
+        const { isExternal, modifiers, hasImportantModifier, baseClassName, maybePostfixModifierPosition } = parseClassName(originalClassName);
+        if (isExternal) {
+            result = originalClassName + (result.length > 0 ? ' ' + result : result);
+            continue;
+        }
+        let hasPostfixModifier = !!maybePostfixModifierPosition;
+        let classGroupId = getClassGroupId(hasPostfixModifier ? baseClassName.substring(0, maybePostfixModifierPosition) : baseClassName);
+        if (!classGroupId) {
+            if (!hasPostfixModifier) {
+                // Not a Tailwind class
+                result = originalClassName + (result.length > 0 ? ' ' + result : result);
+                continue;
+            }
+            classGroupId = getClassGroupId(baseClassName);
+            if (!classGroupId) {
+                // Not a Tailwind class
+                result = originalClassName + (result.length > 0 ? ' ' + result : result);
+                continue;
+            }
+            hasPostfixModifier = false;
+        }
+        // Fast path: skip sorting for empty or single modifier
+        const variantModifier = modifiers.length === 0 ? '' : modifiers.length === 1 ? modifiers[0] : sortModifiers(modifiers).join(':');
+        const modifierId = hasImportantModifier ? variantModifier + IMPORTANT_MODIFIER : variantModifier;
+        const classId = modifierId + classGroupId;
+        if (classGroupsInConflict.indexOf(classId) > -1) {
+            continue;
+        }
+        classGroupsInConflict.push(classId);
+        const conflictGroups = getConflictingClassGroupIds(classGroupId, hasPostfixModifier);
+        for(let i = 0; i < conflictGroups.length; ++i){
+            const group = conflictGroups[i];
+            classGroupsInConflict.push(modifierId + group);
+        }
+        // Tailwind class not in conflict
+        result = originalClassName + (result.length > 0 ? ' ' + result : result);
+    }
+    return result;
+};
+/**
+ * The code in this file is copied from https://github.com/lukeed/clsx and modified to suit the needs of tailwind-merge better.
+ *
+ * Specifically:
+ * - Runtime code from https://github.com/lukeed/clsx/blob/v1.2.1/src/index.js
+ * - TypeScript types from https://github.com/lukeed/clsx/blob/v1.2.1/clsx.d.ts
+ *
+ * Original code has MIT license: Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
+ */ const twJoin = (...classLists)=>{
+    let index = 0;
+    let argument;
+    let resolvedValue;
+    let string = '';
+    while(index < classLists.length){
+        if (argument = classLists[index++]) {
+            if (resolvedValue = toValue(argument)) {
+                string && (string += ' ');
+                string += resolvedValue;
+            }
+        }
+    }
+    return string;
+};
+const toValue = (mix)=>{
+    // Fast path for strings
+    if (typeof mix === 'string') {
+        return mix;
+    }
+    let resolvedValue;
+    let string = '';
+    for(let k = 0; k < mix.length; k++){
+        if (mix[k]) {
+            if (resolvedValue = toValue(mix[k])) {
+                string && (string += ' ');
+                string += resolvedValue;
+            }
+        }
+    }
+    return string;
+};
+const createTailwindMerge = (createConfigFirst, ...createConfigRest)=>{
+    let configUtils;
+    let cacheGet;
+    let cacheSet;
+    let functionToCall;
+    const initTailwindMerge = (classList)=>{
+        const config = createConfigRest.reduce((previousConfig, createConfigCurrent)=>createConfigCurrent(previousConfig), createConfigFirst());
+        configUtils = createConfigUtils(config);
+        cacheGet = configUtils.cache.get;
+        cacheSet = configUtils.cache.set;
+        functionToCall = tailwindMerge;
+        return tailwindMerge(classList);
+    };
+    const tailwindMerge = (classList)=>{
+        const cachedResult = cacheGet(classList);
+        if (cachedResult) {
+            return cachedResult;
+        }
+        const result = mergeClassList(classList, configUtils);
+        cacheSet(classList, result);
+        return result;
+    };
+    functionToCall = initTailwindMerge;
+    return (...args)=>functionToCall(twJoin(...args));
+};
+const fallbackThemeArr = [];
+const fromTheme = (key)=>{
+    const themeGetter = (theme)=>theme[key] || fallbackThemeArr;
+    themeGetter.isThemeGetter = true;
+    return themeGetter;
+};
+const arbitraryValueRegex = /^\[(?:(\w[\w-]*):)?(.+)\]$/i;
+const arbitraryVariableRegex = /^\((?:(\w[\w-]*):)?(.+)\)$/i;
+const fractionRegex = /^\d+(?:\.\d+)?\/\d+(?:\.\d+)?$/;
+const tshirtUnitRegex = /^(\d+(\.\d+)?)?(xs|sm|md|lg|xl)$/;
+const lengthUnitRegex = /\d+(%|px|r?em|[sdl]?v([hwib]|min|max)|pt|pc|in|cm|mm|cap|ch|ex|r?lh|cq(w|h|i|b|min|max))|\b(calc|min|max|clamp)\(.+\)|^0$/;
+const colorFunctionRegex = /^(rgba?|hsla?|hwb|(ok)?(lab|lch)|color-mix)\(.+\)$/;
+// Shadow always begins with x and y offset separated by underscore optionally prepended by inset
+const shadowRegex = /^(inset_)?-?((\d+)?\.?(\d+)[a-z]+|0)_-?((\d+)?\.?(\d+)[a-z]+|0)/;
+const imageRegex = /^(url|image|image-set|cross-fade|element|(repeating-)?(linear|radial|conic)-gradient)\(.+\)$/;
+const isFraction = (value)=>fractionRegex.test(value);
+const isNumber = (value)=>!!value && !Number.isNaN(Number(value));
+const isInteger = (value)=>!!value && Number.isInteger(Number(value));
+const isPercent = (value)=>value.endsWith('%') && isNumber(value.slice(0, -1));
+const isTshirtSize = (value)=>tshirtUnitRegex.test(value);
+const isAny = ()=>true;
+const isLengthOnly = (value)=>// `colorFunctionRegex` check is necessary because color functions can have percentages in them which which would be incorrectly classified as lengths.
+    // For example, `hsl(0 0% 0%)` would be classified as a length without this check.
+    // I could also use lookbehind assertion in `lengthUnitRegex` but that isn't supported widely enough.
+    lengthUnitRegex.test(value) && !colorFunctionRegex.test(value);
+const isNever = ()=>false;
+const isShadow = (value)=>shadowRegex.test(value);
+const isImage = (value)=>imageRegex.test(value);
+const isAnyNonArbitrary = (value)=>!isArbitraryValue(value) && !isArbitraryVariable(value);
+const isArbitrarySize = (value)=>getIsArbitraryValue(value, isLabelSize, isNever);
+const isArbitraryValue = (value)=>arbitraryValueRegex.test(value);
+const isArbitraryLength = (value)=>getIsArbitraryValue(value, isLabelLength, isLengthOnly);
+const isArbitraryNumber = (value)=>getIsArbitraryValue(value, isLabelNumber, isNumber);
+const isArbitraryWeight = (value)=>getIsArbitraryValue(value, isLabelWeight, isAny);
+const isArbitraryFamilyName = (value)=>getIsArbitraryValue(value, isLabelFamilyName, isNever);
+const isArbitraryPosition = (value)=>getIsArbitraryValue(value, isLabelPosition, isNever);
+const isArbitraryImage = (value)=>getIsArbitraryValue(value, isLabelImage, isImage);
+const isArbitraryShadow = (value)=>getIsArbitraryValue(value, isLabelShadow, isShadow);
+const isArbitraryVariable = (value)=>arbitraryVariableRegex.test(value);
+const isArbitraryVariableLength = (value)=>getIsArbitraryVariable(value, isLabelLength);
+const isArbitraryVariableFamilyName = (value)=>getIsArbitraryVariable(value, isLabelFamilyName);
+const isArbitraryVariablePosition = (value)=>getIsArbitraryVariable(value, isLabelPosition);
+const isArbitraryVariableSize = (value)=>getIsArbitraryVariable(value, isLabelSize);
+const isArbitraryVariableImage = (value)=>getIsArbitraryVariable(value, isLabelImage);
+const isArbitraryVariableShadow = (value)=>getIsArbitraryVariable(value, isLabelShadow, true);
+const isArbitraryVariableWeight = (value)=>getIsArbitraryVariable(value, isLabelWeight, true);
+// Helpers
+const getIsArbitraryValue = (value, testLabel, testValue)=>{
+    const result = arbitraryValueRegex.exec(value);
+    if (result) {
+        if (result[1]) {
+            return testLabel(result[1]);
+        }
+        return testValue(result[2]);
+    }
+    return false;
+};
+const getIsArbitraryVariable = (value, testLabel, shouldMatchNoLabel = false)=>{
+    const result = arbitraryVariableRegex.exec(value);
+    if (result) {
+        if (result[1]) {
+            return testLabel(result[1]);
+        }
+        return shouldMatchNoLabel;
+    }
+    return false;
+};
+// Labels
+const isLabelPosition = (label)=>label === 'position' || label === 'percentage';
+const isLabelImage = (label)=>label === 'image' || label === 'url';
+const isLabelSize = (label)=>label === 'length' || label === 'size' || label === 'bg-size';
+const isLabelLength = (label)=>label === 'length';
+const isLabelNumber = (label)=>label === 'number';
+const isLabelFamilyName = (label)=>label === 'family-name';
+const isLabelWeight = (label)=>label === 'number' || label === 'weight';
+const isLabelShadow = (label)=>label === 'shadow';
+const validators = /*#__PURE__*/ Object.defineProperty({
+    __proto__: null,
+    isAny,
+    isAnyNonArbitrary,
+    isArbitraryFamilyName,
+    isArbitraryImage,
+    isArbitraryLength,
+    isArbitraryNumber,
+    isArbitraryPosition,
+    isArbitraryShadow,
+    isArbitrarySize,
+    isArbitraryValue,
+    isArbitraryVariable,
+    isArbitraryVariableFamilyName,
+    isArbitraryVariableImage,
+    isArbitraryVariableLength,
+    isArbitraryVariablePosition,
+    isArbitraryVariableShadow,
+    isArbitraryVariableSize,
+    isArbitraryVariableWeight,
+    isArbitraryWeight,
+    isFraction,
+    isInteger,
+    isNumber,
+    isPercent,
+    isTshirtSize
+}, Symbol.toStringTag, {
+    value: 'Module'
+});
+const getDefaultConfig = ()=>{
+    /**
+   * Theme getters for theme variable namespaces
+   * @see https://tailwindcss.com/docs/theme#theme-variable-namespaces
+   */ /***/ const themeColor = fromTheme('color');
+    const themeFont = fromTheme('font');
+    const themeText = fromTheme('text');
+    const themeFontWeight = fromTheme('font-weight');
+    const themeTracking = fromTheme('tracking');
+    const themeLeading = fromTheme('leading');
+    const themeBreakpoint = fromTheme('breakpoint');
+    const themeContainer = fromTheme('container');
+    const themeSpacing = fromTheme('spacing');
+    const themeRadius = fromTheme('radius');
+    const themeShadow = fromTheme('shadow');
+    const themeInsetShadow = fromTheme('inset-shadow');
+    const themeTextShadow = fromTheme('text-shadow');
+    const themeDropShadow = fromTheme('drop-shadow');
+    const themeBlur = fromTheme('blur');
+    const themePerspective = fromTheme('perspective');
+    const themeAspect = fromTheme('aspect');
+    const themeEase = fromTheme('ease');
+    const themeAnimate = fromTheme('animate');
+    /**
+   * Helpers to avoid repeating the same scales
+   *
+   * We use functions that create a new array every time they're called instead of static arrays.
+   * This ensures that users who modify any scale by mutating the array (e.g. with `array.push(element)`) don't accidentally mutate arrays in other parts of the config.
+   */ /***/ const scaleBreak = ()=>[
+            'auto',
+            'avoid',
+            'all',
+            'avoid-page',
+            'page',
+            'left',
+            'right',
+            'column'
+        ];
+    const scalePosition = ()=>[
+            'center',
+            'top',
+            'bottom',
+            'left',
+            'right',
+            'top-left',
+            // Deprecated since Tailwind CSS v4.1.0, see https://github.com/tailwindlabs/tailwindcss/pull/17378
+            'left-top',
+            'top-right',
+            // Deprecated since Tailwind CSS v4.1.0, see https://github.com/tailwindlabs/tailwindcss/pull/17378
+            'right-top',
+            'bottom-right',
+            // Deprecated since Tailwind CSS v4.1.0, see https://github.com/tailwindlabs/tailwindcss/pull/17378
+            'right-bottom',
+            'bottom-left',
+            // Deprecated since Tailwind CSS v4.1.0, see https://github.com/tailwindlabs/tailwindcss/pull/17378
+            'left-bottom'
+        ];
+    const scalePositionWithArbitrary = ()=>[
+            ...scalePosition(),
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleOverflow = ()=>[
+            'auto',
+            'hidden',
+            'clip',
+            'visible',
+            'scroll'
+        ];
+    const scaleOverscroll = ()=>[
+            'auto',
+            'contain',
+            'none'
+        ];
+    const scaleUnambiguousSpacing = ()=>[
+            isArbitraryVariable,
+            isArbitraryValue,
+            themeSpacing
+        ];
+    const scaleInset = ()=>[
+            isFraction,
+            'full',
+            'auto',
+            ...scaleUnambiguousSpacing()
+        ];
+    const scaleGridTemplateColsRows = ()=>[
+            isInteger,
+            'none',
+            'subgrid',
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleGridColRowStartAndEnd = ()=>[
+            'auto',
+            {
+                span: [
+                    'full',
+                    isInteger,
+                    isArbitraryVariable,
+                    isArbitraryValue
+                ]
+            },
+            isInteger,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleGridColRowStartOrEnd = ()=>[
+            isInteger,
+            'auto',
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleGridAutoColsRows = ()=>[
+            'auto',
+            'min',
+            'max',
+            'fr',
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleAlignPrimaryAxis = ()=>[
+            'start',
+            'end',
+            'center',
+            'between',
+            'around',
+            'evenly',
+            'stretch',
+            'baseline',
+            'center-safe',
+            'end-safe'
+        ];
+    const scaleAlignSecondaryAxis = ()=>[
+            'start',
+            'end',
+            'center',
+            'stretch',
+            'center-safe',
+            'end-safe'
+        ];
+    const scaleMargin = ()=>[
+            'auto',
+            ...scaleUnambiguousSpacing()
+        ];
+    const scaleSizing = ()=>[
+            isFraction,
+            'auto',
+            'full',
+            'dvw',
+            'dvh',
+            'lvw',
+            'lvh',
+            'svw',
+            'svh',
+            'min',
+            'max',
+            'fit',
+            ...scaleUnambiguousSpacing()
+        ];
+    const scaleSizingInline = ()=>[
+            isFraction,
+            'screen',
+            'full',
+            'dvw',
+            'lvw',
+            'svw',
+            'min',
+            'max',
+            'fit',
+            ...scaleUnambiguousSpacing()
+        ];
+    const scaleSizingBlock = ()=>[
+            isFraction,
+            'screen',
+            'full',
+            'lh',
+            'dvh',
+            'lvh',
+            'svh',
+            'min',
+            'max',
+            'fit',
+            ...scaleUnambiguousSpacing()
+        ];
+    const scaleColor = ()=>[
+            themeColor,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleBgPosition = ()=>[
+            ...scalePosition(),
+            isArbitraryVariablePosition,
+            isArbitraryPosition,
+            {
+                position: [
+                    isArbitraryVariable,
+                    isArbitraryValue
+                ]
+            }
+        ];
+    const scaleBgRepeat = ()=>[
+            'no-repeat',
+            {
+                repeat: [
+                    '',
+                    'x',
+                    'y',
+                    'space',
+                    'round'
+                ]
+            }
+        ];
+    const scaleBgSize = ()=>[
+            'auto',
+            'cover',
+            'contain',
+            isArbitraryVariableSize,
+            isArbitrarySize,
+            {
+                size: [
+                    isArbitraryVariable,
+                    isArbitraryValue
+                ]
+            }
+        ];
+    const scaleGradientStopPosition = ()=>[
+            isPercent,
+            isArbitraryVariableLength,
+            isArbitraryLength
+        ];
+    const scaleRadius = ()=>[
+            // Deprecated since Tailwind CSS v4.0.0
+            '',
+            'none',
+            'full',
+            themeRadius,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleBorderWidth = ()=>[
+            '',
+            isNumber,
+            isArbitraryVariableLength,
+            isArbitraryLength
+        ];
+    const scaleLineStyle = ()=>[
+            'solid',
+            'dashed',
+            'dotted',
+            'double'
+        ];
+    const scaleBlendMode = ()=>[
+            'normal',
+            'multiply',
+            'screen',
+            'overlay',
+            'darken',
+            'lighten',
+            'color-dodge',
+            'color-burn',
+            'hard-light',
+            'soft-light',
+            'difference',
+            'exclusion',
+            'hue',
+            'saturation',
+            'color',
+            'luminosity'
+        ];
+    const scaleMaskImagePosition = ()=>[
+            isNumber,
+            isPercent,
+            isArbitraryVariablePosition,
+            isArbitraryPosition
+        ];
+    const scaleBlur = ()=>[
+            // Deprecated since Tailwind CSS v4.0.0
+            '',
+            'none',
+            themeBlur,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleRotate = ()=>[
+            'none',
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleScale = ()=>[
+            'none',
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleSkew = ()=>[
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue
+        ];
+    const scaleTranslate = ()=>[
+            isFraction,
+            'full',
+            ...scaleUnambiguousSpacing()
+        ];
+    return {
+        cacheSize: 500,
+        theme: {
+            animate: [
+                'spin',
+                'ping',
+                'pulse',
+                'bounce'
+            ],
+            aspect: [
+                'video'
+            ],
+            blur: [
+                isTshirtSize
+            ],
+            breakpoint: [
+                isTshirtSize
+            ],
+            color: [
+                isAny
+            ],
+            container: [
+                isTshirtSize
+            ],
+            'drop-shadow': [
+                isTshirtSize
+            ],
+            ease: [
+                'in',
+                'out',
+                'in-out'
+            ],
+            font: [
+                isAnyNonArbitrary
+            ],
+            'font-weight': [
+                'thin',
+                'extralight',
+                'light',
+                'normal',
+                'medium',
+                'semibold',
+                'bold',
+                'extrabold',
+                'black'
+            ],
+            'inset-shadow': [
+                isTshirtSize
+            ],
+            leading: [
+                'none',
+                'tight',
+                'snug',
+                'normal',
+                'relaxed',
+                'loose'
+            ],
+            perspective: [
+                'dramatic',
+                'near',
+                'normal',
+                'midrange',
+                'distant',
+                'none'
+            ],
+            radius: [
+                isTshirtSize
+            ],
+            shadow: [
+                isTshirtSize
+            ],
+            spacing: [
+                'px',
+                isNumber
+            ],
+            text: [
+                isTshirtSize
+            ],
+            'text-shadow': [
+                isTshirtSize
+            ],
+            tracking: [
+                'tighter',
+                'tight',
+                'normal',
+                'wide',
+                'wider',
+                'widest'
+            ]
+        },
+        classGroups: {
+            // --------------
+            // --- Layout ---
+            // --------------
+            /**
+       * Aspect Ratio
+       * @see https://tailwindcss.com/docs/aspect-ratio
+       */ aspect: [
+                {
+                    aspect: [
+                        'auto',
+                        'square',
+                        isFraction,
+                        isArbitraryValue,
+                        isArbitraryVariable,
+                        themeAspect
+                    ]
+                }
+            ],
+            /**
+       * Container
+       * @see https://tailwindcss.com/docs/container
+       * @deprecated since Tailwind CSS v4.0.0
+       */ container: [
+                'container'
+            ],
+            /**
+       * Columns
+       * @see https://tailwindcss.com/docs/columns
+       */ columns: [
+                {
+                    columns: [
+                        isNumber,
+                        isArbitraryValue,
+                        isArbitraryVariable,
+                        themeContainer
+                    ]
+                }
+            ],
+            /**
+       * Break After
+       * @see https://tailwindcss.com/docs/break-after
+       */ 'break-after': [
+                {
+                    'break-after': scaleBreak()
+                }
+            ],
+            /**
+       * Break Before
+       * @see https://tailwindcss.com/docs/break-before
+       */ 'break-before': [
+                {
+                    'break-before': scaleBreak()
+                }
+            ],
+            /**
+       * Break Inside
+       * @see https://tailwindcss.com/docs/break-inside
+       */ 'break-inside': [
+                {
+                    'break-inside': [
+                        'auto',
+                        'avoid',
+                        'avoid-page',
+                        'avoid-column'
+                    ]
+                }
+            ],
+            /**
+       * Box Decoration Break
+       * @see https://tailwindcss.com/docs/box-decoration-break
+       */ 'box-decoration': [
+                {
+                    'box-decoration': [
+                        'slice',
+                        'clone'
+                    ]
+                }
+            ],
+            /**
+       * Box Sizing
+       * @see https://tailwindcss.com/docs/box-sizing
+       */ box: [
+                {
+                    box: [
+                        'border',
+                        'content'
+                    ]
+                }
+            ],
+            /**
+       * Display
+       * @see https://tailwindcss.com/docs/display
+       */ display: [
+                'block',
+                'inline-block',
+                'inline',
+                'flex',
+                'inline-flex',
+                'table',
+                'inline-table',
+                'table-caption',
+                'table-cell',
+                'table-column',
+                'table-column-group',
+                'table-footer-group',
+                'table-header-group',
+                'table-row-group',
+                'table-row',
+                'flow-root',
+                'grid',
+                'inline-grid',
+                'contents',
+                'list-item',
+                'hidden'
+            ],
+            /**
+       * Screen Reader Only
+       * @see https://tailwindcss.com/docs/display#screen-reader-only
+       */ sr: [
+                'sr-only',
+                'not-sr-only'
+            ],
+            /**
+       * Floats
+       * @see https://tailwindcss.com/docs/float
+       */ float: [
+                {
+                    float: [
+                        'right',
+                        'left',
+                        'none',
+                        'start',
+                        'end'
+                    ]
+                }
+            ],
+            /**
+       * Clear
+       * @see https://tailwindcss.com/docs/clear
+       */ clear: [
+                {
+                    clear: [
+                        'left',
+                        'right',
+                        'both',
+                        'none',
+                        'start',
+                        'end'
+                    ]
+                }
+            ],
+            /**
+       * Isolation
+       * @see https://tailwindcss.com/docs/isolation
+       */ isolation: [
+                'isolate',
+                'isolation-auto'
+            ],
+            /**
+       * Object Fit
+       * @see https://tailwindcss.com/docs/object-fit
+       */ 'object-fit': [
+                {
+                    object: [
+                        'contain',
+                        'cover',
+                        'fill',
+                        'none',
+                        'scale-down'
+                    ]
+                }
+            ],
+            /**
+       * Object Position
+       * @see https://tailwindcss.com/docs/object-position
+       */ 'object-position': [
+                {
+                    object: scalePositionWithArbitrary()
+                }
+            ],
+            /**
+       * Overflow
+       * @see https://tailwindcss.com/docs/overflow
+       */ overflow: [
+                {
+                    overflow: scaleOverflow()
+                }
+            ],
+            /**
+       * Overflow X
+       * @see https://tailwindcss.com/docs/overflow
+       */ 'overflow-x': [
+                {
+                    'overflow-x': scaleOverflow()
+                }
+            ],
+            /**
+       * Overflow Y
+       * @see https://tailwindcss.com/docs/overflow
+       */ 'overflow-y': [
+                {
+                    'overflow-y': scaleOverflow()
+                }
+            ],
+            /**
+       * Overscroll Behavior
+       * @see https://tailwindcss.com/docs/overscroll-behavior
+       */ overscroll: [
+                {
+                    overscroll: scaleOverscroll()
+                }
+            ],
+            /**
+       * Overscroll Behavior X
+       * @see https://tailwindcss.com/docs/overscroll-behavior
+       */ 'overscroll-x': [
+                {
+                    'overscroll-x': scaleOverscroll()
+                }
+            ],
+            /**
+       * Overscroll Behavior Y
+       * @see https://tailwindcss.com/docs/overscroll-behavior
+       */ 'overscroll-y': [
+                {
+                    'overscroll-y': scaleOverscroll()
+                }
+            ],
+            /**
+       * Position
+       * @see https://tailwindcss.com/docs/position
+       */ position: [
+                'static',
+                'fixed',
+                'absolute',
+                'relative',
+                'sticky'
+            ],
+            /**
+       * Inset
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ inset: [
+                {
+                    inset: scaleInset()
+                }
+            ],
+            /**
+       * Inset Inline
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ 'inset-x': [
+                {
+                    'inset-x': scaleInset()
+                }
+            ],
+            /**
+       * Inset Block
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ 'inset-y': [
+                {
+                    'inset-y': scaleInset()
+                }
+            ],
+            /**
+       * Inset Inline Start
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       * @todo class group will be renamed to `inset-s` in next major release
+       */ start: [
+                {
+                    'inset-s': scaleInset(),
+                    /**
+         * @deprecated since Tailwind CSS v4.2.0 in favor of `inset-s-*` utilities.
+         * @see https://github.com/tailwindlabs/tailwindcss/pull/19613
+         */ start: scaleInset()
+                }
+            ],
+            /**
+       * Inset Inline End
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       * @todo class group will be renamed to `inset-e` in next major release
+       */ end: [
+                {
+                    'inset-e': scaleInset(),
+                    /**
+         * @deprecated since Tailwind CSS v4.2.0 in favor of `inset-e-*` utilities.
+         * @see https://github.com/tailwindlabs/tailwindcss/pull/19613
+         */ end: scaleInset()
+                }
+            ],
+            /**
+       * Inset Block Start
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ 'inset-bs': [
+                {
+                    'inset-bs': scaleInset()
+                }
+            ],
+            /**
+       * Inset Block End
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ 'inset-be': [
+                {
+                    'inset-be': scaleInset()
+                }
+            ],
+            /**
+       * Top
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ top: [
+                {
+                    top: scaleInset()
+                }
+            ],
+            /**
+       * Right
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ right: [
+                {
+                    right: scaleInset()
+                }
+            ],
+            /**
+       * Bottom
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ bottom: [
+                {
+                    bottom: scaleInset()
+                }
+            ],
+            /**
+       * Left
+       * @see https://tailwindcss.com/docs/top-right-bottom-left
+       */ left: [
+                {
+                    left: scaleInset()
+                }
+            ],
+            /**
+       * Visibility
+       * @see https://tailwindcss.com/docs/visibility
+       */ visibility: [
+                'visible',
+                'invisible',
+                'collapse'
+            ],
+            /**
+       * Z-Index
+       * @see https://tailwindcss.com/docs/z-index
+       */ z: [
+                {
+                    z: [
+                        isInteger,
+                        'auto',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            // ------------------------
+            // --- Flexbox and Grid ---
+            // ------------------------
+            /**
+       * Flex Basis
+       * @see https://tailwindcss.com/docs/flex-basis
+       */ basis: [
+                {
+                    basis: [
+                        isFraction,
+                        'full',
+                        'auto',
+                        themeContainer,
+                        ...scaleUnambiguousSpacing()
+                    ]
+                }
+            ],
+            /**
+       * Flex Direction
+       * @see https://tailwindcss.com/docs/flex-direction
+       */ 'flex-direction': [
+                {
+                    flex: [
+                        'row',
+                        'row-reverse',
+                        'col',
+                        'col-reverse'
+                    ]
+                }
+            ],
+            /**
+       * Flex Wrap
+       * @see https://tailwindcss.com/docs/flex-wrap
+       */ 'flex-wrap': [
+                {
+                    flex: [
+                        'nowrap',
+                        'wrap',
+                        'wrap-reverse'
+                    ]
+                }
+            ],
+            /**
+       * Flex
+       * @see https://tailwindcss.com/docs/flex
+       */ flex: [
+                {
+                    flex: [
+                        isNumber,
+                        isFraction,
+                        'auto',
+                        'initial',
+                        'none',
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Flex Grow
+       * @see https://tailwindcss.com/docs/flex-grow
+       */ grow: [
+                {
+                    grow: [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Flex Shrink
+       * @see https://tailwindcss.com/docs/flex-shrink
+       */ shrink: [
+                {
+                    shrink: [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Order
+       * @see https://tailwindcss.com/docs/order
+       */ order: [
+                {
+                    order: [
+                        isInteger,
+                        'first',
+                        'last',
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Grid Template Columns
+       * @see https://tailwindcss.com/docs/grid-template-columns
+       */ 'grid-cols': [
+                {
+                    'grid-cols': scaleGridTemplateColsRows()
+                }
+            ],
+            /**
+       * Grid Column Start / End
+       * @see https://tailwindcss.com/docs/grid-column
+       */ 'col-start-end': [
+                {
+                    col: scaleGridColRowStartAndEnd()
+                }
+            ],
+            /**
+       * Grid Column Start
+       * @see https://tailwindcss.com/docs/grid-column
+       */ 'col-start': [
+                {
+                    'col-start': scaleGridColRowStartOrEnd()
+                }
+            ],
+            /**
+       * Grid Column End
+       * @see https://tailwindcss.com/docs/grid-column
+       */ 'col-end': [
+                {
+                    'col-end': scaleGridColRowStartOrEnd()
+                }
+            ],
+            /**
+       * Grid Template Rows
+       * @see https://tailwindcss.com/docs/grid-template-rows
+       */ 'grid-rows': [
+                {
+                    'grid-rows': scaleGridTemplateColsRows()
+                }
+            ],
+            /**
+       * Grid Row Start / End
+       * @see https://tailwindcss.com/docs/grid-row
+       */ 'row-start-end': [
+                {
+                    row: scaleGridColRowStartAndEnd()
+                }
+            ],
+            /**
+       * Grid Row Start
+       * @see https://tailwindcss.com/docs/grid-row
+       */ 'row-start': [
+                {
+                    'row-start': scaleGridColRowStartOrEnd()
+                }
+            ],
+            /**
+       * Grid Row End
+       * @see https://tailwindcss.com/docs/grid-row
+       */ 'row-end': [
+                {
+                    'row-end': scaleGridColRowStartOrEnd()
+                }
+            ],
+            /**
+       * Grid Auto Flow
+       * @see https://tailwindcss.com/docs/grid-auto-flow
+       */ 'grid-flow': [
+                {
+                    'grid-flow': [
+                        'row',
+                        'col',
+                        'dense',
+                        'row-dense',
+                        'col-dense'
+                    ]
+                }
+            ],
+            /**
+       * Grid Auto Columns
+       * @see https://tailwindcss.com/docs/grid-auto-columns
+       */ 'auto-cols': [
+                {
+                    'auto-cols': scaleGridAutoColsRows()
+                }
+            ],
+            /**
+       * Grid Auto Rows
+       * @see https://tailwindcss.com/docs/grid-auto-rows
+       */ 'auto-rows': [
+                {
+                    'auto-rows': scaleGridAutoColsRows()
+                }
+            ],
+            /**
+       * Gap
+       * @see https://tailwindcss.com/docs/gap
+       */ gap: [
+                {
+                    gap: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Gap X
+       * @see https://tailwindcss.com/docs/gap
+       */ 'gap-x': [
+                {
+                    'gap-x': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Gap Y
+       * @see https://tailwindcss.com/docs/gap
+       */ 'gap-y': [
+                {
+                    'gap-y': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Justify Content
+       * @see https://tailwindcss.com/docs/justify-content
+       */ 'justify-content': [
+                {
+                    justify: [
+                        ...scaleAlignPrimaryAxis(),
+                        'normal'
+                    ]
+                }
+            ],
+            /**
+       * Justify Items
+       * @see https://tailwindcss.com/docs/justify-items
+       */ 'justify-items': [
+                {
+                    'justify-items': [
+                        ...scaleAlignSecondaryAxis(),
+                        'normal'
+                    ]
+                }
+            ],
+            /**
+       * Justify Self
+       * @see https://tailwindcss.com/docs/justify-self
+       */ 'justify-self': [
+                {
+                    'justify-self': [
+                        'auto',
+                        ...scaleAlignSecondaryAxis()
+                    ]
+                }
+            ],
+            /**
+       * Align Content
+       * @see https://tailwindcss.com/docs/align-content
+       */ 'align-content': [
+                {
+                    content: [
+                        'normal',
+                        ...scaleAlignPrimaryAxis()
+                    ]
+                }
+            ],
+            /**
+       * Align Items
+       * @see https://tailwindcss.com/docs/align-items
+       */ 'align-items': [
+                {
+                    items: [
+                        ...scaleAlignSecondaryAxis(),
+                        {
+                            baseline: [
+                                '',
+                                'last'
+                            ]
+                        }
+                    ]
+                }
+            ],
+            /**
+       * Align Self
+       * @see https://tailwindcss.com/docs/align-self
+       */ 'align-self': [
+                {
+                    self: [
+                        'auto',
+                        ...scaleAlignSecondaryAxis(),
+                        {
+                            baseline: [
+                                '',
+                                'last'
+                            ]
+                        }
+                    ]
+                }
+            ],
+            /**
+       * Place Content
+       * @see https://tailwindcss.com/docs/place-content
+       */ 'place-content': [
+                {
+                    'place-content': scaleAlignPrimaryAxis()
+                }
+            ],
+            /**
+       * Place Items
+       * @see https://tailwindcss.com/docs/place-items
+       */ 'place-items': [
+                {
+                    'place-items': [
+                        ...scaleAlignSecondaryAxis(),
+                        'baseline'
+                    ]
+                }
+            ],
+            /**
+       * Place Self
+       * @see https://tailwindcss.com/docs/place-self
+       */ 'place-self': [
+                {
+                    'place-self': [
+                        'auto',
+                        ...scaleAlignSecondaryAxis()
+                    ]
+                }
+            ],
+            // Spacing
+            /**
+       * Padding
+       * @see https://tailwindcss.com/docs/padding
+       */ p: [
+                {
+                    p: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Inline
+       * @see https://tailwindcss.com/docs/padding
+       */ px: [
+                {
+                    px: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Block
+       * @see https://tailwindcss.com/docs/padding
+       */ py: [
+                {
+                    py: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Inline Start
+       * @see https://tailwindcss.com/docs/padding
+       */ ps: [
+                {
+                    ps: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Inline End
+       * @see https://tailwindcss.com/docs/padding
+       */ pe: [
+                {
+                    pe: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Block Start
+       * @see https://tailwindcss.com/docs/padding
+       */ pbs: [
+                {
+                    pbs: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Block End
+       * @see https://tailwindcss.com/docs/padding
+       */ pbe: [
+                {
+                    pbe: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Top
+       * @see https://tailwindcss.com/docs/padding
+       */ pt: [
+                {
+                    pt: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Right
+       * @see https://tailwindcss.com/docs/padding
+       */ pr: [
+                {
+                    pr: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Bottom
+       * @see https://tailwindcss.com/docs/padding
+       */ pb: [
+                {
+                    pb: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Padding Left
+       * @see https://tailwindcss.com/docs/padding
+       */ pl: [
+                {
+                    pl: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Margin
+       * @see https://tailwindcss.com/docs/margin
+       */ m: [
+                {
+                    m: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Inline
+       * @see https://tailwindcss.com/docs/margin
+       */ mx: [
+                {
+                    mx: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Block
+       * @see https://tailwindcss.com/docs/margin
+       */ my: [
+                {
+                    my: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Inline Start
+       * @see https://tailwindcss.com/docs/margin
+       */ ms: [
+                {
+                    ms: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Inline End
+       * @see https://tailwindcss.com/docs/margin
+       */ me: [
+                {
+                    me: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Block Start
+       * @see https://tailwindcss.com/docs/margin
+       */ mbs: [
+                {
+                    mbs: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Block End
+       * @see https://tailwindcss.com/docs/margin
+       */ mbe: [
+                {
+                    mbe: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Top
+       * @see https://tailwindcss.com/docs/margin
+       */ mt: [
+                {
+                    mt: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Right
+       * @see https://tailwindcss.com/docs/margin
+       */ mr: [
+                {
+                    mr: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Bottom
+       * @see https://tailwindcss.com/docs/margin
+       */ mb: [
+                {
+                    mb: scaleMargin()
+                }
+            ],
+            /**
+       * Margin Left
+       * @see https://tailwindcss.com/docs/margin
+       */ ml: [
+                {
+                    ml: scaleMargin()
+                }
+            ],
+            /**
+       * Space Between X
+       * @see https://tailwindcss.com/docs/margin#adding-space-between-children
+       */ 'space-x': [
+                {
+                    'space-x': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Space Between X Reverse
+       * @see https://tailwindcss.com/docs/margin#adding-space-between-children
+       */ 'space-x-reverse': [
+                'space-x-reverse'
+            ],
+            /**
+       * Space Between Y
+       * @see https://tailwindcss.com/docs/margin#adding-space-between-children
+       */ 'space-y': [
+                {
+                    'space-y': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Space Between Y Reverse
+       * @see https://tailwindcss.com/docs/margin#adding-space-between-children
+       */ 'space-y-reverse': [
+                'space-y-reverse'
+            ],
+            // --------------
+            // --- Sizing ---
+            // --------------
+            /**
+       * Size
+       * @see https://tailwindcss.com/docs/width#setting-both-width-and-height
+       */ size: [
+                {
+                    size: scaleSizing()
+                }
+            ],
+            /**
+       * Inline Size
+       * @see https://tailwindcss.com/docs/width
+       */ 'inline-size': [
+                {
+                    inline: [
+                        'auto',
+                        ...scaleSizingInline()
+                    ]
+                }
+            ],
+            /**
+       * Min-Inline Size
+       * @see https://tailwindcss.com/docs/min-width
+       */ 'min-inline-size': [
+                {
+                    'min-inline': [
+                        'auto',
+                        ...scaleSizingInline()
+                    ]
+                }
+            ],
+            /**
+       * Max-Inline Size
+       * @see https://tailwindcss.com/docs/max-width
+       */ 'max-inline-size': [
+                {
+                    'max-inline': [
+                        'none',
+                        ...scaleSizingInline()
+                    ]
+                }
+            ],
+            /**
+       * Block Size
+       * @see https://tailwindcss.com/docs/height
+       */ 'block-size': [
+                {
+                    block: [
+                        'auto',
+                        ...scaleSizingBlock()
+                    ]
+                }
+            ],
+            /**
+       * Min-Block Size
+       * @see https://tailwindcss.com/docs/min-height
+       */ 'min-block-size': [
+                {
+                    'min-block': [
+                        'auto',
+                        ...scaleSizingBlock()
+                    ]
+                }
+            ],
+            /**
+       * Max-Block Size
+       * @see https://tailwindcss.com/docs/max-height
+       */ 'max-block-size': [
+                {
+                    'max-block': [
+                        'none',
+                        ...scaleSizingBlock()
+                    ]
+                }
+            ],
+            /**
+       * Width
+       * @see https://tailwindcss.com/docs/width
+       */ w: [
+                {
+                    w: [
+                        themeContainer,
+                        'screen',
+                        ...scaleSizing()
+                    ]
+                }
+            ],
+            /**
+       * Min-Width
+       * @see https://tailwindcss.com/docs/min-width
+       */ 'min-w': [
+                {
+                    'min-w': [
+                        themeContainer,
+                        'screen',
+                        /** Deprecated. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */ 'none',
+                        ...scaleSizing()
+                    ]
+                }
+            ],
+            /**
+       * Max-Width
+       * @see https://tailwindcss.com/docs/max-width
+       */ 'max-w': [
+                {
+                    'max-w': [
+                        themeContainer,
+                        'screen',
+                        'none',
+                        /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */ 'prose',
+                        /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */ {
+                            screen: [
+                                themeBreakpoint
+                            ]
+                        },
+                        ...scaleSizing()
+                    ]
+                }
+            ],
+            /**
+       * Height
+       * @see https://tailwindcss.com/docs/height
+       */ h: [
+                {
+                    h: [
+                        'screen',
+                        'lh',
+                        ...scaleSizing()
+                    ]
+                }
+            ],
+            /**
+       * Min-Height
+       * @see https://tailwindcss.com/docs/min-height
+       */ 'min-h': [
+                {
+                    'min-h': [
+                        'screen',
+                        'lh',
+                        'none',
+                        ...scaleSizing()
+                    ]
+                }
+            ],
+            /**
+       * Max-Height
+       * @see https://tailwindcss.com/docs/max-height
+       */ 'max-h': [
+                {
+                    'max-h': [
+                        'screen',
+                        'lh',
+                        ...scaleSizing()
+                    ]
+                }
+            ],
+            // ------------------
+            // --- Typography ---
+            // ------------------
+            /**
+       * Font Size
+       * @see https://tailwindcss.com/docs/font-size
+       */ 'font-size': [
+                {
+                    text: [
+                        'base',
+                        themeText,
+                        isArbitraryVariableLength,
+                        isArbitraryLength
+                    ]
+                }
+            ],
+            /**
+       * Font Smoothing
+       * @see https://tailwindcss.com/docs/font-smoothing
+       */ 'font-smoothing': [
+                'antialiased',
+                'subpixel-antialiased'
+            ],
+            /**
+       * Font Style
+       * @see https://tailwindcss.com/docs/font-style
+       */ 'font-style': [
+                'italic',
+                'not-italic'
+            ],
+            /**
+       * Font Weight
+       * @see https://tailwindcss.com/docs/font-weight
+       */ 'font-weight': [
+                {
+                    font: [
+                        themeFontWeight,
+                        isArbitraryVariableWeight,
+                        isArbitraryWeight
+                    ]
+                }
+            ],
+            /**
+       * Font Stretch
+       * @see https://tailwindcss.com/docs/font-stretch
+       */ 'font-stretch': [
+                {
+                    'font-stretch': [
+                        'ultra-condensed',
+                        'extra-condensed',
+                        'condensed',
+                        'semi-condensed',
+                        'normal',
+                        'semi-expanded',
+                        'expanded',
+                        'extra-expanded',
+                        'ultra-expanded',
+                        isPercent,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Font Family
+       * @see https://tailwindcss.com/docs/font-family
+       */ 'font-family': [
+                {
+                    font: [
+                        isArbitraryVariableFamilyName,
+                        isArbitraryFamilyName,
+                        themeFont
+                    ]
+                }
+            ],
+            /**
+       * Font Feature Settings
+       * @see https://tailwindcss.com/docs/font-feature-settings
+       */ 'font-features': [
+                {
+                    'font-features': [
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Font Variant Numeric
+       * @see https://tailwindcss.com/docs/font-variant-numeric
+       */ 'fvn-normal': [
+                'normal-nums'
+            ],
+            /**
+       * Font Variant Numeric
+       * @see https://tailwindcss.com/docs/font-variant-numeric
+       */ 'fvn-ordinal': [
+                'ordinal'
+            ],
+            /**
+       * Font Variant Numeric
+       * @see https://tailwindcss.com/docs/font-variant-numeric
+       */ 'fvn-slashed-zero': [
+                'slashed-zero'
+            ],
+            /**
+       * Font Variant Numeric
+       * @see https://tailwindcss.com/docs/font-variant-numeric
+       */ 'fvn-figure': [
+                'lining-nums',
+                'oldstyle-nums'
+            ],
+            /**
+       * Font Variant Numeric
+       * @see https://tailwindcss.com/docs/font-variant-numeric
+       */ 'fvn-spacing': [
+                'proportional-nums',
+                'tabular-nums'
+            ],
+            /**
+       * Font Variant Numeric
+       * @see https://tailwindcss.com/docs/font-variant-numeric
+       */ 'fvn-fraction': [
+                'diagonal-fractions',
+                'stacked-fractions'
+            ],
+            /**
+       * Letter Spacing
+       * @see https://tailwindcss.com/docs/letter-spacing
+       */ tracking: [
+                {
+                    tracking: [
+                        themeTracking,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Line Clamp
+       * @see https://tailwindcss.com/docs/line-clamp
+       */ 'line-clamp': [
+                {
+                    'line-clamp': [
+                        isNumber,
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryNumber
+                    ]
+                }
+            ],
+            /**
+       * Line Height
+       * @see https://tailwindcss.com/docs/line-height
+       */ leading: [
+                {
+                    leading: [
+                        /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */ themeLeading,
+                        ...scaleUnambiguousSpacing()
+                    ]
+                }
+            ],
+            /**
+       * List Style Image
+       * @see https://tailwindcss.com/docs/list-style-image
+       */ 'list-image': [
+                {
+                    'list-image': [
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * List Style Position
+       * @see https://tailwindcss.com/docs/list-style-position
+       */ 'list-style-position': [
+                {
+                    list: [
+                        'inside',
+                        'outside'
+                    ]
+                }
+            ],
+            /**
+       * List Style Type
+       * @see https://tailwindcss.com/docs/list-style-type
+       */ 'list-style-type': [
+                {
+                    list: [
+                        'disc',
+                        'decimal',
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Text Alignment
+       * @see https://tailwindcss.com/docs/text-align
+       */ 'text-alignment': [
+                {
+                    text: [
+                        'left',
+                        'center',
+                        'right',
+                        'justify',
+                        'start',
+                        'end'
+                    ]
+                }
+            ],
+            /**
+       * Placeholder Color
+       * @deprecated since Tailwind CSS v3.0.0
+       * @see https://v3.tailwindcss.com/docs/placeholder-color
+       */ 'placeholder-color': [
+                {
+                    placeholder: scaleColor()
+                }
+            ],
+            /**
+       * Text Color
+       * @see https://tailwindcss.com/docs/text-color
+       */ 'text-color': [
+                {
+                    text: scaleColor()
+                }
+            ],
+            /**
+       * Text Decoration
+       * @see https://tailwindcss.com/docs/text-decoration
+       */ 'text-decoration': [
+                'underline',
+                'overline',
+                'line-through',
+                'no-underline'
+            ],
+            /**
+       * Text Decoration Style
+       * @see https://tailwindcss.com/docs/text-decoration-style
+       */ 'text-decoration-style': [
+                {
+                    decoration: [
+                        ...scaleLineStyle(),
+                        'wavy'
+                    ]
+                }
+            ],
+            /**
+       * Text Decoration Thickness
+       * @see https://tailwindcss.com/docs/text-decoration-thickness
+       */ 'text-decoration-thickness': [
+                {
+                    decoration: [
+                        isNumber,
+                        'from-font',
+                        'auto',
+                        isArbitraryVariable,
+                        isArbitraryLength
+                    ]
+                }
+            ],
+            /**
+       * Text Decoration Color
+       * @see https://tailwindcss.com/docs/text-decoration-color
+       */ 'text-decoration-color': [
+                {
+                    decoration: scaleColor()
+                }
+            ],
+            /**
+       * Text Underline Offset
+       * @see https://tailwindcss.com/docs/text-underline-offset
+       */ 'underline-offset': [
+                {
+                    'underline-offset': [
+                        isNumber,
+                        'auto',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Text Transform
+       * @see https://tailwindcss.com/docs/text-transform
+       */ 'text-transform': [
+                'uppercase',
+                'lowercase',
+                'capitalize',
+                'normal-case'
+            ],
+            /**
+       * Text Overflow
+       * @see https://tailwindcss.com/docs/text-overflow
+       */ 'text-overflow': [
+                'truncate',
+                'text-ellipsis',
+                'text-clip'
+            ],
+            /**
+       * Text Wrap
+       * @see https://tailwindcss.com/docs/text-wrap
+       */ 'text-wrap': [
+                {
+                    text: [
+                        'wrap',
+                        'nowrap',
+                        'balance',
+                        'pretty'
+                    ]
+                }
+            ],
+            /**
+       * Text Indent
+       * @see https://tailwindcss.com/docs/text-indent
+       */ indent: [
+                {
+                    indent: scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Vertical Alignment
+       * @see https://tailwindcss.com/docs/vertical-align
+       */ 'vertical-align': [
+                {
+                    align: [
+                        'baseline',
+                        'top',
+                        'middle',
+                        'bottom',
+                        'text-top',
+                        'text-bottom',
+                        'sub',
+                        'super',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Whitespace
+       * @see https://tailwindcss.com/docs/whitespace
+       */ whitespace: [
+                {
+                    whitespace: [
+                        'normal',
+                        'nowrap',
+                        'pre',
+                        'pre-line',
+                        'pre-wrap',
+                        'break-spaces'
+                    ]
+                }
+            ],
+            /**
+       * Word Break
+       * @see https://tailwindcss.com/docs/word-break
+       */ break: [
+                {
+                    break: [
+                        'normal',
+                        'words',
+                        'all',
+                        'keep'
+                    ]
+                }
+            ],
+            /**
+       * Overflow Wrap
+       * @see https://tailwindcss.com/docs/overflow-wrap
+       */ wrap: [
+                {
+                    wrap: [
+                        'break-word',
+                        'anywhere',
+                        'normal'
+                    ]
+                }
+            ],
+            /**
+       * Hyphens
+       * @see https://tailwindcss.com/docs/hyphens
+       */ hyphens: [
+                {
+                    hyphens: [
+                        'none',
+                        'manual',
+                        'auto'
+                    ]
+                }
+            ],
+            /**
+       * Content
+       * @see https://tailwindcss.com/docs/content
+       */ content: [
+                {
+                    content: [
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            // -------------------
+            // --- Backgrounds ---
+            // -------------------
+            /**
+       * Background Attachment
+       * @see https://tailwindcss.com/docs/background-attachment
+       */ 'bg-attachment': [
+                {
+                    bg: [
+                        'fixed',
+                        'local',
+                        'scroll'
+                    ]
+                }
+            ],
+            /**
+       * Background Clip
+       * @see https://tailwindcss.com/docs/background-clip
+       */ 'bg-clip': [
+                {
+                    'bg-clip': [
+                        'border',
+                        'padding',
+                        'content',
+                        'text'
+                    ]
+                }
+            ],
+            /**
+       * Background Origin
+       * @see https://tailwindcss.com/docs/background-origin
+       */ 'bg-origin': [
+                {
+                    'bg-origin': [
+                        'border',
+                        'padding',
+                        'content'
+                    ]
+                }
+            ],
+            /**
+       * Background Position
+       * @see https://tailwindcss.com/docs/background-position
+       */ 'bg-position': [
+                {
+                    bg: scaleBgPosition()
+                }
+            ],
+            /**
+       * Background Repeat
+       * @see https://tailwindcss.com/docs/background-repeat
+       */ 'bg-repeat': [
+                {
+                    bg: scaleBgRepeat()
+                }
+            ],
+            /**
+       * Background Size
+       * @see https://tailwindcss.com/docs/background-size
+       */ 'bg-size': [
+                {
+                    bg: scaleBgSize()
+                }
+            ],
+            /**
+       * Background Image
+       * @see https://tailwindcss.com/docs/background-image
+       */ 'bg-image': [
+                {
+                    bg: [
+                        'none',
+                        {
+                            linear: [
+                                {
+                                    to: [
+                                        't',
+                                        'tr',
+                                        'r',
+                                        'br',
+                                        'b',
+                                        'bl',
+                                        'l',
+                                        'tl'
+                                    ]
+                                },
+                                isInteger,
+                                isArbitraryVariable,
+                                isArbitraryValue
+                            ],
+                            radial: [
+                                '',
+                                isArbitraryVariable,
+                                isArbitraryValue
+                            ],
+                            conic: [
+                                isInteger,
+                                isArbitraryVariable,
+                                isArbitraryValue
+                            ]
+                        },
+                        isArbitraryVariableImage,
+                        isArbitraryImage
+                    ]
+                }
+            ],
+            /**
+       * Background Color
+       * @see https://tailwindcss.com/docs/background-color
+       */ 'bg-color': [
+                {
+                    bg: scaleColor()
+                }
+            ],
+            /**
+       * Gradient Color Stops From Position
+       * @see https://tailwindcss.com/docs/gradient-color-stops
+       */ 'gradient-from-pos': [
+                {
+                    from: scaleGradientStopPosition()
+                }
+            ],
+            /**
+       * Gradient Color Stops Via Position
+       * @see https://tailwindcss.com/docs/gradient-color-stops
+       */ 'gradient-via-pos': [
+                {
+                    via: scaleGradientStopPosition()
+                }
+            ],
+            /**
+       * Gradient Color Stops To Position
+       * @see https://tailwindcss.com/docs/gradient-color-stops
+       */ 'gradient-to-pos': [
+                {
+                    to: scaleGradientStopPosition()
+                }
+            ],
+            /**
+       * Gradient Color Stops From
+       * @see https://tailwindcss.com/docs/gradient-color-stops
+       */ 'gradient-from': [
+                {
+                    from: scaleColor()
+                }
+            ],
+            /**
+       * Gradient Color Stops Via
+       * @see https://tailwindcss.com/docs/gradient-color-stops
+       */ 'gradient-via': [
+                {
+                    via: scaleColor()
+                }
+            ],
+            /**
+       * Gradient Color Stops To
+       * @see https://tailwindcss.com/docs/gradient-color-stops
+       */ 'gradient-to': [
+                {
+                    to: scaleColor()
+                }
+            ],
+            // ---------------
+            // --- Borders ---
+            // ---------------
+            /**
+       * Border Radius
+       * @see https://tailwindcss.com/docs/border-radius
+       */ rounded: [
+                {
+                    rounded: scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Start
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-s': [
+                {
+                    'rounded-s': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius End
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-e': [
+                {
+                    'rounded-e': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Top
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-t': [
+                {
+                    'rounded-t': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Right
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-r': [
+                {
+                    'rounded-r': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Bottom
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-b': [
+                {
+                    'rounded-b': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Left
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-l': [
+                {
+                    'rounded-l': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Start Start
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-ss': [
+                {
+                    'rounded-ss': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Start End
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-se': [
+                {
+                    'rounded-se': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius End End
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-ee': [
+                {
+                    'rounded-ee': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius End Start
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-es': [
+                {
+                    'rounded-es': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Top Left
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-tl': [
+                {
+                    'rounded-tl': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Top Right
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-tr': [
+                {
+                    'rounded-tr': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Bottom Right
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-br': [
+                {
+                    'rounded-br': scaleRadius()
+                }
+            ],
+            /**
+       * Border Radius Bottom Left
+       * @see https://tailwindcss.com/docs/border-radius
+       */ 'rounded-bl': [
+                {
+                    'rounded-bl': scaleRadius()
+                }
+            ],
+            /**
+       * Border Width
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w': [
+                {
+                    border: scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Inline
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-x': [
+                {
+                    'border-x': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Block
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-y': [
+                {
+                    'border-y': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Inline Start
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-s': [
+                {
+                    'border-s': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Inline End
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-e': [
+                {
+                    'border-e': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Block Start
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-bs': [
+                {
+                    'border-bs': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Block End
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-be': [
+                {
+                    'border-be': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Top
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-t': [
+                {
+                    'border-t': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Right
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-r': [
+                {
+                    'border-r': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Bottom
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-b': [
+                {
+                    'border-b': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Border Width Left
+       * @see https://tailwindcss.com/docs/border-width
+       */ 'border-w-l': [
+                {
+                    'border-l': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Divide Width X
+       * @see https://tailwindcss.com/docs/border-width#between-children
+       */ 'divide-x': [
+                {
+                    'divide-x': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Divide Width X Reverse
+       * @see https://tailwindcss.com/docs/border-width#between-children
+       */ 'divide-x-reverse': [
+                'divide-x-reverse'
+            ],
+            /**
+       * Divide Width Y
+       * @see https://tailwindcss.com/docs/border-width#between-children
+       */ 'divide-y': [
+                {
+                    'divide-y': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Divide Width Y Reverse
+       * @see https://tailwindcss.com/docs/border-width#between-children
+       */ 'divide-y-reverse': [
+                'divide-y-reverse'
+            ],
+            /**
+       * Border Style
+       * @see https://tailwindcss.com/docs/border-style
+       */ 'border-style': [
+                {
+                    border: [
+                        ...scaleLineStyle(),
+                        'hidden',
+                        'none'
+                    ]
+                }
+            ],
+            /**
+       * Divide Style
+       * @see https://tailwindcss.com/docs/border-style#setting-the-divider-style
+       */ 'divide-style': [
+                {
+                    divide: [
+                        ...scaleLineStyle(),
+                        'hidden',
+                        'none'
+                    ]
+                }
+            ],
+            /**
+       * Border Color
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color': [
+                {
+                    border: scaleColor()
+                }
+            ],
+            /**
+       * Border Color Inline
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-x': [
+                {
+                    'border-x': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Block
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-y': [
+                {
+                    'border-y': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Inline Start
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-s': [
+                {
+                    'border-s': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Inline End
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-e': [
+                {
+                    'border-e': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Block Start
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-bs': [
+                {
+                    'border-bs': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Block End
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-be': [
+                {
+                    'border-be': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Top
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-t': [
+                {
+                    'border-t': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Right
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-r': [
+                {
+                    'border-r': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Bottom
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-b': [
+                {
+                    'border-b': scaleColor()
+                }
+            ],
+            /**
+       * Border Color Left
+       * @see https://tailwindcss.com/docs/border-color
+       */ 'border-color-l': [
+                {
+                    'border-l': scaleColor()
+                }
+            ],
+            /**
+       * Divide Color
+       * @see https://tailwindcss.com/docs/divide-color
+       */ 'divide-color': [
+                {
+                    divide: scaleColor()
+                }
+            ],
+            /**
+       * Outline Style
+       * @see https://tailwindcss.com/docs/outline-style
+       */ 'outline-style': [
+                {
+                    outline: [
+                        ...scaleLineStyle(),
+                        'none',
+                        'hidden'
+                    ]
+                }
+            ],
+            /**
+       * Outline Offset
+       * @see https://tailwindcss.com/docs/outline-offset
+       */ 'outline-offset': [
+                {
+                    'outline-offset': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Outline Width
+       * @see https://tailwindcss.com/docs/outline-width
+       */ 'outline-w': [
+                {
+                    outline: [
+                        '',
+                        isNumber,
+                        isArbitraryVariableLength,
+                        isArbitraryLength
+                    ]
+                }
+            ],
+            /**
+       * Outline Color
+       * @see https://tailwindcss.com/docs/outline-color
+       */ 'outline-color': [
+                {
+                    outline: scaleColor()
+                }
+            ],
+            // ---------------
+            // --- Effects ---
+            // ---------------
+            /**
+       * Box Shadow
+       * @see https://tailwindcss.com/docs/box-shadow
+       */ shadow: [
+                {
+                    shadow: [
+                        // Deprecated since Tailwind CSS v4.0.0
+                        '',
+                        'none',
+                        themeShadow,
+                        isArbitraryVariableShadow,
+                        isArbitraryShadow
+                    ]
+                }
+            ],
+            /**
+       * Box Shadow Color
+       * @see https://tailwindcss.com/docs/box-shadow#setting-the-shadow-color
+       */ 'shadow-color': [
+                {
+                    shadow: scaleColor()
+                }
+            ],
+            /**
+       * Inset Box Shadow
+       * @see https://tailwindcss.com/docs/box-shadow#adding-an-inset-shadow
+       */ 'inset-shadow': [
+                {
+                    'inset-shadow': [
+                        'none',
+                        themeInsetShadow,
+                        isArbitraryVariableShadow,
+                        isArbitraryShadow
+                    ]
+                }
+            ],
+            /**
+       * Inset Box Shadow Color
+       * @see https://tailwindcss.com/docs/box-shadow#setting-the-inset-shadow-color
+       */ 'inset-shadow-color': [
+                {
+                    'inset-shadow': scaleColor()
+                }
+            ],
+            /**
+       * Ring Width
+       * @see https://tailwindcss.com/docs/box-shadow#adding-a-ring
+       */ 'ring-w': [
+                {
+                    ring: scaleBorderWidth()
+                }
+            ],
+            /**
+       * Ring Width Inset
+       * @see https://v3.tailwindcss.com/docs/ring-width#inset-rings
+       * @deprecated since Tailwind CSS v4.0.0
+       * @see https://github.com/tailwindlabs/tailwindcss/blob/v4.0.0/packages/tailwindcss/src/utilities.ts#L4158
+       */ 'ring-w-inset': [
+                'ring-inset'
+            ],
+            /**
+       * Ring Color
+       * @see https://tailwindcss.com/docs/box-shadow#setting-the-ring-color
+       */ 'ring-color': [
+                {
+                    ring: scaleColor()
+                }
+            ],
+            /**
+       * Ring Offset Width
+       * @see https://v3.tailwindcss.com/docs/ring-offset-width
+       * @deprecated since Tailwind CSS v4.0.0
+       * @see https://github.com/tailwindlabs/tailwindcss/blob/v4.0.0/packages/tailwindcss/src/utilities.ts#L4158
+       */ 'ring-offset-w': [
+                {
+                    'ring-offset': [
+                        isNumber,
+                        isArbitraryLength
+                    ]
+                }
+            ],
+            /**
+       * Ring Offset Color
+       * @see https://v3.tailwindcss.com/docs/ring-offset-color
+       * @deprecated since Tailwind CSS v4.0.0
+       * @see https://github.com/tailwindlabs/tailwindcss/blob/v4.0.0/packages/tailwindcss/src/utilities.ts#L4158
+       */ 'ring-offset-color': [
+                {
+                    'ring-offset': scaleColor()
+                }
+            ],
+            /**
+       * Inset Ring Width
+       * @see https://tailwindcss.com/docs/box-shadow#adding-an-inset-ring
+       */ 'inset-ring-w': [
+                {
+                    'inset-ring': scaleBorderWidth()
+                }
+            ],
+            /**
+       * Inset Ring Color
+       * @see https://tailwindcss.com/docs/box-shadow#setting-the-inset-ring-color
+       */ 'inset-ring-color': [
+                {
+                    'inset-ring': scaleColor()
+                }
+            ],
+            /**
+       * Text Shadow
+       * @see https://tailwindcss.com/docs/text-shadow
+       */ 'text-shadow': [
+                {
+                    'text-shadow': [
+                        'none',
+                        themeTextShadow,
+                        isArbitraryVariableShadow,
+                        isArbitraryShadow
+                    ]
+                }
+            ],
+            /**
+       * Text Shadow Color
+       * @see https://tailwindcss.com/docs/text-shadow#setting-the-shadow-color
+       */ 'text-shadow-color': [
+                {
+                    'text-shadow': scaleColor()
+                }
+            ],
+            /**
+       * Opacity
+       * @see https://tailwindcss.com/docs/opacity
+       */ opacity: [
+                {
+                    opacity: [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Mix Blend Mode
+       * @see https://tailwindcss.com/docs/mix-blend-mode
+       */ 'mix-blend': [
+                {
+                    'mix-blend': [
+                        ...scaleBlendMode(),
+                        'plus-darker',
+                        'plus-lighter'
+                    ]
+                }
+            ],
+            /**
+       * Background Blend Mode
+       * @see https://tailwindcss.com/docs/background-blend-mode
+       */ 'bg-blend': [
+                {
+                    'bg-blend': scaleBlendMode()
+                }
+            ],
+            /**
+       * Mask Clip
+       * @see https://tailwindcss.com/docs/mask-clip
+       */ 'mask-clip': [
+                {
+                    'mask-clip': [
+                        'border',
+                        'padding',
+                        'content',
+                        'fill',
+                        'stroke',
+                        'view'
+                    ]
+                },
+                'mask-no-clip'
+            ],
+            /**
+       * Mask Composite
+       * @see https://tailwindcss.com/docs/mask-composite
+       */ 'mask-composite': [
+                {
+                    mask: [
+                        'add',
+                        'subtract',
+                        'intersect',
+                        'exclude'
+                    ]
+                }
+            ],
+            /**
+       * Mask Image
+       * @see https://tailwindcss.com/docs/mask-image
+       */ 'mask-image-linear-pos': [
+                {
+                    'mask-linear': [
+                        isNumber
+                    ]
+                }
+            ],
+            'mask-image-linear-from-pos': [
+                {
+                    'mask-linear-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-linear-to-pos': [
+                {
+                    'mask-linear-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-linear-from-color': [
+                {
+                    'mask-linear-from': scaleColor()
+                }
+            ],
+            'mask-image-linear-to-color': [
+                {
+                    'mask-linear-to': scaleColor()
+                }
+            ],
+            'mask-image-t-from-pos': [
+                {
+                    'mask-t-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-t-to-pos': [
+                {
+                    'mask-t-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-t-from-color': [
+                {
+                    'mask-t-from': scaleColor()
+                }
+            ],
+            'mask-image-t-to-color': [
+                {
+                    'mask-t-to': scaleColor()
+                }
+            ],
+            'mask-image-r-from-pos': [
+                {
+                    'mask-r-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-r-to-pos': [
+                {
+                    'mask-r-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-r-from-color': [
+                {
+                    'mask-r-from': scaleColor()
+                }
+            ],
+            'mask-image-r-to-color': [
+                {
+                    'mask-r-to': scaleColor()
+                }
+            ],
+            'mask-image-b-from-pos': [
+                {
+                    'mask-b-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-b-to-pos': [
+                {
+                    'mask-b-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-b-from-color': [
+                {
+                    'mask-b-from': scaleColor()
+                }
+            ],
+            'mask-image-b-to-color': [
+                {
+                    'mask-b-to': scaleColor()
+                }
+            ],
+            'mask-image-l-from-pos': [
+                {
+                    'mask-l-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-l-to-pos': [
+                {
+                    'mask-l-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-l-from-color': [
+                {
+                    'mask-l-from': scaleColor()
+                }
+            ],
+            'mask-image-l-to-color': [
+                {
+                    'mask-l-to': scaleColor()
+                }
+            ],
+            'mask-image-x-from-pos': [
+                {
+                    'mask-x-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-x-to-pos': [
+                {
+                    'mask-x-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-x-from-color': [
+                {
+                    'mask-x-from': scaleColor()
+                }
+            ],
+            'mask-image-x-to-color': [
+                {
+                    'mask-x-to': scaleColor()
+                }
+            ],
+            'mask-image-y-from-pos': [
+                {
+                    'mask-y-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-y-to-pos': [
+                {
+                    'mask-y-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-y-from-color': [
+                {
+                    'mask-y-from': scaleColor()
+                }
+            ],
+            'mask-image-y-to-color': [
+                {
+                    'mask-y-to': scaleColor()
+                }
+            ],
+            'mask-image-radial': [
+                {
+                    'mask-radial': [
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            'mask-image-radial-from-pos': [
+                {
+                    'mask-radial-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-radial-to-pos': [
+                {
+                    'mask-radial-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-radial-from-color': [
+                {
+                    'mask-radial-from': scaleColor()
+                }
+            ],
+            'mask-image-radial-to-color': [
+                {
+                    'mask-radial-to': scaleColor()
+                }
+            ],
+            'mask-image-radial-shape': [
+                {
+                    'mask-radial': [
+                        'circle',
+                        'ellipse'
+                    ]
+                }
+            ],
+            'mask-image-radial-size': [
+                {
+                    'mask-radial': [
+                        {
+                            closest: [
+                                'side',
+                                'corner'
+                            ],
+                            farthest: [
+                                'side',
+                                'corner'
+                            ]
+                        }
+                    ]
+                }
+            ],
+            'mask-image-radial-pos': [
+                {
+                    'mask-radial-at': scalePosition()
+                }
+            ],
+            'mask-image-conic-pos': [
+                {
+                    'mask-conic': [
+                        isNumber
+                    ]
+                }
+            ],
+            'mask-image-conic-from-pos': [
+                {
+                    'mask-conic-from': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-conic-to-pos': [
+                {
+                    'mask-conic-to': scaleMaskImagePosition()
+                }
+            ],
+            'mask-image-conic-from-color': [
+                {
+                    'mask-conic-from': scaleColor()
+                }
+            ],
+            'mask-image-conic-to-color': [
+                {
+                    'mask-conic-to': scaleColor()
+                }
+            ],
+            /**
+       * Mask Mode
+       * @see https://tailwindcss.com/docs/mask-mode
+       */ 'mask-mode': [
+                {
+                    mask: [
+                        'alpha',
+                        'luminance',
+                        'match'
+                    ]
+                }
+            ],
+            /**
+       * Mask Origin
+       * @see https://tailwindcss.com/docs/mask-origin
+       */ 'mask-origin': [
+                {
+                    'mask-origin': [
+                        'border',
+                        'padding',
+                        'content',
+                        'fill',
+                        'stroke',
+                        'view'
+                    ]
+                }
+            ],
+            /**
+       * Mask Position
+       * @see https://tailwindcss.com/docs/mask-position
+       */ 'mask-position': [
+                {
+                    mask: scaleBgPosition()
+                }
+            ],
+            /**
+       * Mask Repeat
+       * @see https://tailwindcss.com/docs/mask-repeat
+       */ 'mask-repeat': [
+                {
+                    mask: scaleBgRepeat()
+                }
+            ],
+            /**
+       * Mask Size
+       * @see https://tailwindcss.com/docs/mask-size
+       */ 'mask-size': [
+                {
+                    mask: scaleBgSize()
+                }
+            ],
+            /**
+       * Mask Type
+       * @see https://tailwindcss.com/docs/mask-type
+       */ 'mask-type': [
+                {
+                    'mask-type': [
+                        'alpha',
+                        'luminance'
+                    ]
+                }
+            ],
+            /**
+       * Mask Image
+       * @see https://tailwindcss.com/docs/mask-image
+       */ 'mask-image': [
+                {
+                    mask: [
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            // ---------------
+            // --- Filters ---
+            // ---------------
+            /**
+       * Filter
+       * @see https://tailwindcss.com/docs/filter
+       */ filter: [
+                {
+                    filter: [
+                        // Deprecated since Tailwind CSS v3.0.0
+                        '',
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Blur
+       * @see https://tailwindcss.com/docs/blur
+       */ blur: [
+                {
+                    blur: scaleBlur()
+                }
+            ],
+            /**
+       * Brightness
+       * @see https://tailwindcss.com/docs/brightness
+       */ brightness: [
+                {
+                    brightness: [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Contrast
+       * @see https://tailwindcss.com/docs/contrast
+       */ contrast: [
+                {
+                    contrast: [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Drop Shadow
+       * @see https://tailwindcss.com/docs/drop-shadow
+       */ 'drop-shadow': [
+                {
+                    'drop-shadow': [
+                        // Deprecated since Tailwind CSS v4.0.0
+                        '',
+                        'none',
+                        themeDropShadow,
+                        isArbitraryVariableShadow,
+                        isArbitraryShadow
+                    ]
+                }
+            ],
+            /**
+       * Drop Shadow Color
+       * @see https://tailwindcss.com/docs/filter-drop-shadow#setting-the-shadow-color
+       */ 'drop-shadow-color': [
+                {
+                    'drop-shadow': scaleColor()
+                }
+            ],
+            /**
+       * Grayscale
+       * @see https://tailwindcss.com/docs/grayscale
+       */ grayscale: [
+                {
+                    grayscale: [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Hue Rotate
+       * @see https://tailwindcss.com/docs/hue-rotate
+       */ 'hue-rotate': [
+                {
+                    'hue-rotate': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Invert
+       * @see https://tailwindcss.com/docs/invert
+       */ invert: [
+                {
+                    invert: [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Saturate
+       * @see https://tailwindcss.com/docs/saturate
+       */ saturate: [
+                {
+                    saturate: [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Sepia
+       * @see https://tailwindcss.com/docs/sepia
+       */ sepia: [
+                {
+                    sepia: [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Filter
+       * @see https://tailwindcss.com/docs/backdrop-filter
+       */ 'backdrop-filter': [
+                {
+                    'backdrop-filter': [
+                        // Deprecated since Tailwind CSS v3.0.0
+                        '',
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Blur
+       * @see https://tailwindcss.com/docs/backdrop-blur
+       */ 'backdrop-blur': [
+                {
+                    'backdrop-blur': scaleBlur()
+                }
+            ],
+            /**
+       * Backdrop Brightness
+       * @see https://tailwindcss.com/docs/backdrop-brightness
+       */ 'backdrop-brightness': [
+                {
+                    'backdrop-brightness': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Contrast
+       * @see https://tailwindcss.com/docs/backdrop-contrast
+       */ 'backdrop-contrast': [
+                {
+                    'backdrop-contrast': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Grayscale
+       * @see https://tailwindcss.com/docs/backdrop-grayscale
+       */ 'backdrop-grayscale': [
+                {
+                    'backdrop-grayscale': [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Hue Rotate
+       * @see https://tailwindcss.com/docs/backdrop-hue-rotate
+       */ 'backdrop-hue-rotate': [
+                {
+                    'backdrop-hue-rotate': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Invert
+       * @see https://tailwindcss.com/docs/backdrop-invert
+       */ 'backdrop-invert': [
+                {
+                    'backdrop-invert': [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Opacity
+       * @see https://tailwindcss.com/docs/backdrop-opacity
+       */ 'backdrop-opacity': [
+                {
+                    'backdrop-opacity': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Saturate
+       * @see https://tailwindcss.com/docs/backdrop-saturate
+       */ 'backdrop-saturate': [
+                {
+                    'backdrop-saturate': [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Backdrop Sepia
+       * @see https://tailwindcss.com/docs/backdrop-sepia
+       */ 'backdrop-sepia': [
+                {
+                    'backdrop-sepia': [
+                        '',
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            // --------------
+            // --- Tables ---
+            // --------------
+            /**
+       * Border Collapse
+       * @see https://tailwindcss.com/docs/border-collapse
+       */ 'border-collapse': [
+                {
+                    border: [
+                        'collapse',
+                        'separate'
+                    ]
+                }
+            ],
+            /**
+       * Border Spacing
+       * @see https://tailwindcss.com/docs/border-spacing
+       */ 'border-spacing': [
+                {
+                    'border-spacing': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Border Spacing X
+       * @see https://tailwindcss.com/docs/border-spacing
+       */ 'border-spacing-x': [
+                {
+                    'border-spacing-x': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Border Spacing Y
+       * @see https://tailwindcss.com/docs/border-spacing
+       */ 'border-spacing-y': [
+                {
+                    'border-spacing-y': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Table Layout
+       * @see https://tailwindcss.com/docs/table-layout
+       */ 'table-layout': [
+                {
+                    table: [
+                        'auto',
+                        'fixed'
+                    ]
+                }
+            ],
+            /**
+       * Caption Side
+       * @see https://tailwindcss.com/docs/caption-side
+       */ caption: [
+                {
+                    caption: [
+                        'top',
+                        'bottom'
+                    ]
+                }
+            ],
+            // ---------------------------------
+            // --- Transitions and Animation ---
+            // ---------------------------------
+            /**
+       * Transition Property
+       * @see https://tailwindcss.com/docs/transition-property
+       */ transition: [
+                {
+                    transition: [
+                        '',
+                        'all',
+                        'colors',
+                        'opacity',
+                        'shadow',
+                        'transform',
+                        'none',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Transition Behavior
+       * @see https://tailwindcss.com/docs/transition-behavior
+       */ 'transition-behavior': [
+                {
+                    transition: [
+                        'normal',
+                        'discrete'
+                    ]
+                }
+            ],
+            /**
+       * Transition Duration
+       * @see https://tailwindcss.com/docs/transition-duration
+       */ duration: [
+                {
+                    duration: [
+                        isNumber,
+                        'initial',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Transition Timing Function
+       * @see https://tailwindcss.com/docs/transition-timing-function
+       */ ease: [
+                {
+                    ease: [
+                        'linear',
+                        'initial',
+                        themeEase,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Transition Delay
+       * @see https://tailwindcss.com/docs/transition-delay
+       */ delay: [
+                {
+                    delay: [
+                        isNumber,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Animation
+       * @see https://tailwindcss.com/docs/animation
+       */ animate: [
+                {
+                    animate: [
+                        'none',
+                        themeAnimate,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            // ------------------
+            // --- Transforms ---
+            // ------------------
+            /**
+       * Backface Visibility
+       * @see https://tailwindcss.com/docs/backface-visibility
+       */ backface: [
+                {
+                    backface: [
+                        'hidden',
+                        'visible'
+                    ]
+                }
+            ],
+            /**
+       * Perspective
+       * @see https://tailwindcss.com/docs/perspective
+       */ perspective: [
+                {
+                    perspective: [
+                        themePerspective,
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Perspective Origin
+       * @see https://tailwindcss.com/docs/perspective-origin
+       */ 'perspective-origin': [
+                {
+                    'perspective-origin': scalePositionWithArbitrary()
+                }
+            ],
+            /**
+       * Rotate
+       * @see https://tailwindcss.com/docs/rotate
+       */ rotate: [
+                {
+                    rotate: scaleRotate()
+                }
+            ],
+            /**
+       * Rotate X
+       * @see https://tailwindcss.com/docs/rotate
+       */ 'rotate-x': [
+                {
+                    'rotate-x': scaleRotate()
+                }
+            ],
+            /**
+       * Rotate Y
+       * @see https://tailwindcss.com/docs/rotate
+       */ 'rotate-y': [
+                {
+                    'rotate-y': scaleRotate()
+                }
+            ],
+            /**
+       * Rotate Z
+       * @see https://tailwindcss.com/docs/rotate
+       */ 'rotate-z': [
+                {
+                    'rotate-z': scaleRotate()
+                }
+            ],
+            /**
+       * Scale
+       * @see https://tailwindcss.com/docs/scale
+       */ scale: [
+                {
+                    scale: scaleScale()
+                }
+            ],
+            /**
+       * Scale X
+       * @see https://tailwindcss.com/docs/scale
+       */ 'scale-x': [
+                {
+                    'scale-x': scaleScale()
+                }
+            ],
+            /**
+       * Scale Y
+       * @see https://tailwindcss.com/docs/scale
+       */ 'scale-y': [
+                {
+                    'scale-y': scaleScale()
+                }
+            ],
+            /**
+       * Scale Z
+       * @see https://tailwindcss.com/docs/scale
+       */ 'scale-z': [
+                {
+                    'scale-z': scaleScale()
+                }
+            ],
+            /**
+       * Scale 3D
+       * @see https://tailwindcss.com/docs/scale
+       */ 'scale-3d': [
+                'scale-3d'
+            ],
+            /**
+       * Skew
+       * @see https://tailwindcss.com/docs/skew
+       */ skew: [
+                {
+                    skew: scaleSkew()
+                }
+            ],
+            /**
+       * Skew X
+       * @see https://tailwindcss.com/docs/skew
+       */ 'skew-x': [
+                {
+                    'skew-x': scaleSkew()
+                }
+            ],
+            /**
+       * Skew Y
+       * @see https://tailwindcss.com/docs/skew
+       */ 'skew-y': [
+                {
+                    'skew-y': scaleSkew()
+                }
+            ],
+            /**
+       * Transform
+       * @see https://tailwindcss.com/docs/transform
+       */ transform: [
+                {
+                    transform: [
+                        isArbitraryVariable,
+                        isArbitraryValue,
+                        '',
+                        'none',
+                        'gpu',
+                        'cpu'
+                    ]
+                }
+            ],
+            /**
+       * Transform Origin
+       * @see https://tailwindcss.com/docs/transform-origin
+       */ 'transform-origin': [
+                {
+                    origin: scalePositionWithArbitrary()
+                }
+            ],
+            /**
+       * Transform Style
+       * @see https://tailwindcss.com/docs/transform-style
+       */ 'transform-style': [
+                {
+                    transform: [
+                        '3d',
+                        'flat'
+                    ]
+                }
+            ],
+            /**
+       * Translate
+       * @see https://tailwindcss.com/docs/translate
+       */ translate: [
+                {
+                    translate: scaleTranslate()
+                }
+            ],
+            /**
+       * Translate X
+       * @see https://tailwindcss.com/docs/translate
+       */ 'translate-x': [
+                {
+                    'translate-x': scaleTranslate()
+                }
+            ],
+            /**
+       * Translate Y
+       * @see https://tailwindcss.com/docs/translate
+       */ 'translate-y': [
+                {
+                    'translate-y': scaleTranslate()
+                }
+            ],
+            /**
+       * Translate Z
+       * @see https://tailwindcss.com/docs/translate
+       */ 'translate-z': [
+                {
+                    'translate-z': scaleTranslate()
+                }
+            ],
+            /**
+       * Translate None
+       * @see https://tailwindcss.com/docs/translate
+       */ 'translate-none': [
+                'translate-none'
+            ],
+            // ---------------------
+            // --- Interactivity ---
+            // ---------------------
+            /**
+       * Accent Color
+       * @see https://tailwindcss.com/docs/accent-color
+       */ accent: [
+                {
+                    accent: scaleColor()
+                }
+            ],
+            /**
+       * Appearance
+       * @see https://tailwindcss.com/docs/appearance
+       */ appearance: [
+                {
+                    appearance: [
+                        'none',
+                        'auto'
+                    ]
+                }
+            ],
+            /**
+       * Caret Color
+       * @see https://tailwindcss.com/docs/just-in-time-mode#caret-color-utilities
+       */ 'caret-color': [
+                {
+                    caret: scaleColor()
+                }
+            ],
+            /**
+       * Color Scheme
+       * @see https://tailwindcss.com/docs/color-scheme
+       */ 'color-scheme': [
+                {
+                    scheme: [
+                        'normal',
+                        'dark',
+                        'light',
+                        'light-dark',
+                        'only-dark',
+                        'only-light'
+                    ]
+                }
+            ],
+            /**
+       * Cursor
+       * @see https://tailwindcss.com/docs/cursor
+       */ cursor: [
+                {
+                    cursor: [
+                        'auto',
+                        'default',
+                        'pointer',
+                        'wait',
+                        'text',
+                        'move',
+                        'help',
+                        'not-allowed',
+                        'none',
+                        'context-menu',
+                        'progress',
+                        'cell',
+                        'crosshair',
+                        'vertical-text',
+                        'alias',
+                        'copy',
+                        'no-drop',
+                        'grab',
+                        'grabbing',
+                        'all-scroll',
+                        'col-resize',
+                        'row-resize',
+                        'n-resize',
+                        'e-resize',
+                        's-resize',
+                        'w-resize',
+                        'ne-resize',
+                        'nw-resize',
+                        'se-resize',
+                        'sw-resize',
+                        'ew-resize',
+                        'ns-resize',
+                        'nesw-resize',
+                        'nwse-resize',
+                        'zoom-in',
+                        'zoom-out',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            /**
+       * Field Sizing
+       * @see https://tailwindcss.com/docs/field-sizing
+       */ 'field-sizing': [
+                {
+                    'field-sizing': [
+                        'fixed',
+                        'content'
+                    ]
+                }
+            ],
+            /**
+       * Pointer Events
+       * @see https://tailwindcss.com/docs/pointer-events
+       */ 'pointer-events': [
+                {
+                    'pointer-events': [
+                        'auto',
+                        'none'
+                    ]
+                }
+            ],
+            /**
+       * Resize
+       * @see https://tailwindcss.com/docs/resize
+       */ resize: [
+                {
+                    resize: [
+                        'none',
+                        '',
+                        'y',
+                        'x'
+                    ]
+                }
+            ],
+            /**
+       * Scroll Behavior
+       * @see https://tailwindcss.com/docs/scroll-behavior
+       */ 'scroll-behavior': [
+                {
+                    scroll: [
+                        'auto',
+                        'smooth'
+                    ]
+                }
+            ],
+            /**
+       * Scroll Margin
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-m': [
+                {
+                    'scroll-m': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Inline
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-mx': [
+                {
+                    'scroll-mx': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Block
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-my': [
+                {
+                    'scroll-my': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Inline Start
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-ms': [
+                {
+                    'scroll-ms': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Inline End
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-me': [
+                {
+                    'scroll-me': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Block Start
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-mbs': [
+                {
+                    'scroll-mbs': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Block End
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-mbe': [
+                {
+                    'scroll-mbe': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Top
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-mt': [
+                {
+                    'scroll-mt': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Right
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-mr': [
+                {
+                    'scroll-mr': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Bottom
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-mb': [
+                {
+                    'scroll-mb': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Margin Left
+       * @see https://tailwindcss.com/docs/scroll-margin
+       */ 'scroll-ml': [
+                {
+                    'scroll-ml': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-p': [
+                {
+                    'scroll-p': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Inline
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-px': [
+                {
+                    'scroll-px': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Block
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-py': [
+                {
+                    'scroll-py': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Inline Start
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-ps': [
+                {
+                    'scroll-ps': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Inline End
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pe': [
+                {
+                    'scroll-pe': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Block Start
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pbs': [
+                {
+                    'scroll-pbs': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Block End
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pbe': [
+                {
+                    'scroll-pbe': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Top
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pt': [
+                {
+                    'scroll-pt': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Right
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pr': [
+                {
+                    'scroll-pr': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Bottom
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pb': [
+                {
+                    'scroll-pb': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Padding Left
+       * @see https://tailwindcss.com/docs/scroll-padding
+       */ 'scroll-pl': [
+                {
+                    'scroll-pl': scaleUnambiguousSpacing()
+                }
+            ],
+            /**
+       * Scroll Snap Align
+       * @see https://tailwindcss.com/docs/scroll-snap-align
+       */ 'snap-align': [
+                {
+                    snap: [
+                        'start',
+                        'end',
+                        'center',
+                        'align-none'
+                    ]
+                }
+            ],
+            /**
+       * Scroll Snap Stop
+       * @see https://tailwindcss.com/docs/scroll-snap-stop
+       */ 'snap-stop': [
+                {
+                    snap: [
+                        'normal',
+                        'always'
+                    ]
+                }
+            ],
+            /**
+       * Scroll Snap Type
+       * @see https://tailwindcss.com/docs/scroll-snap-type
+       */ 'snap-type': [
+                {
+                    snap: [
+                        'none',
+                        'x',
+                        'y',
+                        'both'
+                    ]
+                }
+            ],
+            /**
+       * Scroll Snap Type Strictness
+       * @see https://tailwindcss.com/docs/scroll-snap-type
+       */ 'snap-strictness': [
+                {
+                    snap: [
+                        'mandatory',
+                        'proximity'
+                    ]
+                }
+            ],
+            /**
+       * Touch Action
+       * @see https://tailwindcss.com/docs/touch-action
+       */ touch: [
+                {
+                    touch: [
+                        'auto',
+                        'none',
+                        'manipulation'
+                    ]
+                }
+            ],
+            /**
+       * Touch Action X
+       * @see https://tailwindcss.com/docs/touch-action
+       */ 'touch-x': [
+                {
+                    'touch-pan': [
+                        'x',
+                        'left',
+                        'right'
+                    ]
+                }
+            ],
+            /**
+       * Touch Action Y
+       * @see https://tailwindcss.com/docs/touch-action
+       */ 'touch-y': [
+                {
+                    'touch-pan': [
+                        'y',
+                        'up',
+                        'down'
+                    ]
+                }
+            ],
+            /**
+       * Touch Action Pinch Zoom
+       * @see https://tailwindcss.com/docs/touch-action
+       */ 'touch-pz': [
+                'touch-pinch-zoom'
+            ],
+            /**
+       * User Select
+       * @see https://tailwindcss.com/docs/user-select
+       */ select: [
+                {
+                    select: [
+                        'none',
+                        'text',
+                        'all',
+                        'auto'
+                    ]
+                }
+            ],
+            /**
+       * Will Change
+       * @see https://tailwindcss.com/docs/will-change
+       */ 'will-change': [
+                {
+                    'will-change': [
+                        'auto',
+                        'scroll',
+                        'contents',
+                        'transform',
+                        isArbitraryVariable,
+                        isArbitraryValue
+                    ]
+                }
+            ],
+            // -----------
+            // --- SVG ---
+            // -----------
+            /**
+       * Fill
+       * @see https://tailwindcss.com/docs/fill
+       */ fill: [
+                {
+                    fill: [
+                        'none',
+                        ...scaleColor()
+                    ]
+                }
+            ],
+            /**
+       * Stroke Width
+       * @see https://tailwindcss.com/docs/stroke-width
+       */ 'stroke-w': [
+                {
+                    stroke: [
+                        isNumber,
+                        isArbitraryVariableLength,
+                        isArbitraryLength,
+                        isArbitraryNumber
+                    ]
+                }
+            ],
+            /**
+       * Stroke
+       * @see https://tailwindcss.com/docs/stroke
+       */ stroke: [
+                {
+                    stroke: [
+                        'none',
+                        ...scaleColor()
+                    ]
+                }
+            ],
+            // ---------------------
+            // --- Accessibility ---
+            // ---------------------
+            /**
+       * Forced Color Adjust
+       * @see https://tailwindcss.com/docs/forced-color-adjust
+       */ 'forced-color-adjust': [
+                {
+                    'forced-color-adjust': [
+                        'auto',
+                        'none'
+                    ]
+                }
+            ]
+        },
+        conflictingClassGroups: {
+            overflow: [
+                'overflow-x',
+                'overflow-y'
+            ],
+            overscroll: [
+                'overscroll-x',
+                'overscroll-y'
+            ],
+            inset: [
+                'inset-x',
+                'inset-y',
+                'inset-bs',
+                'inset-be',
+                'start',
+                'end',
+                'top',
+                'right',
+                'bottom',
+                'left'
+            ],
+            'inset-x': [
+                'right',
+                'left'
+            ],
+            'inset-y': [
+                'top',
+                'bottom'
+            ],
+            flex: [
+                'basis',
+                'grow',
+                'shrink'
+            ],
+            gap: [
+                'gap-x',
+                'gap-y'
+            ],
+            p: [
+                'px',
+                'py',
+                'ps',
+                'pe',
+                'pbs',
+                'pbe',
+                'pt',
+                'pr',
+                'pb',
+                'pl'
+            ],
+            px: [
+                'pr',
+                'pl'
+            ],
+            py: [
+                'pt',
+                'pb'
+            ],
+            m: [
+                'mx',
+                'my',
+                'ms',
+                'me',
+                'mbs',
+                'mbe',
+                'mt',
+                'mr',
+                'mb',
+                'ml'
+            ],
+            mx: [
+                'mr',
+                'ml'
+            ],
+            my: [
+                'mt',
+                'mb'
+            ],
+            size: [
+                'w',
+                'h'
+            ],
+            'font-size': [
+                'leading'
+            ],
+            'fvn-normal': [
+                'fvn-ordinal',
+                'fvn-slashed-zero',
+                'fvn-figure',
+                'fvn-spacing',
+                'fvn-fraction'
+            ],
+            'fvn-ordinal': [
+                'fvn-normal'
+            ],
+            'fvn-slashed-zero': [
+                'fvn-normal'
+            ],
+            'fvn-figure': [
+                'fvn-normal'
+            ],
+            'fvn-spacing': [
+                'fvn-normal'
+            ],
+            'fvn-fraction': [
+                'fvn-normal'
+            ],
+            'line-clamp': [
+                'display',
+                'overflow'
+            ],
+            rounded: [
+                'rounded-s',
+                'rounded-e',
+                'rounded-t',
+                'rounded-r',
+                'rounded-b',
+                'rounded-l',
+                'rounded-ss',
+                'rounded-se',
+                'rounded-ee',
+                'rounded-es',
+                'rounded-tl',
+                'rounded-tr',
+                'rounded-br',
+                'rounded-bl'
+            ],
+            'rounded-s': [
+                'rounded-ss',
+                'rounded-es'
+            ],
+            'rounded-e': [
+                'rounded-se',
+                'rounded-ee'
+            ],
+            'rounded-t': [
+                'rounded-tl',
+                'rounded-tr'
+            ],
+            'rounded-r': [
+                'rounded-tr',
+                'rounded-br'
+            ],
+            'rounded-b': [
+                'rounded-br',
+                'rounded-bl'
+            ],
+            'rounded-l': [
+                'rounded-tl',
+                'rounded-bl'
+            ],
+            'border-spacing': [
+                'border-spacing-x',
+                'border-spacing-y'
+            ],
+            'border-w': [
+                'border-w-x',
+                'border-w-y',
+                'border-w-s',
+                'border-w-e',
+                'border-w-bs',
+                'border-w-be',
+                'border-w-t',
+                'border-w-r',
+                'border-w-b',
+                'border-w-l'
+            ],
+            'border-w-x': [
+                'border-w-r',
+                'border-w-l'
+            ],
+            'border-w-y': [
+                'border-w-t',
+                'border-w-b'
+            ],
+            'border-color': [
+                'border-color-x',
+                'border-color-y',
+                'border-color-s',
+                'border-color-e',
+                'border-color-bs',
+                'border-color-be',
+                'border-color-t',
+                'border-color-r',
+                'border-color-b',
+                'border-color-l'
+            ],
+            'border-color-x': [
+                'border-color-r',
+                'border-color-l'
+            ],
+            'border-color-y': [
+                'border-color-t',
+                'border-color-b'
+            ],
+            translate: [
+                'translate-x',
+                'translate-y',
+                'translate-none'
+            ],
+            'translate-none': [
+                'translate',
+                'translate-x',
+                'translate-y',
+                'translate-z'
+            ],
+            'scroll-m': [
+                'scroll-mx',
+                'scroll-my',
+                'scroll-ms',
+                'scroll-me',
+                'scroll-mbs',
+                'scroll-mbe',
+                'scroll-mt',
+                'scroll-mr',
+                'scroll-mb',
+                'scroll-ml'
+            ],
+            'scroll-mx': [
+                'scroll-mr',
+                'scroll-ml'
+            ],
+            'scroll-my': [
+                'scroll-mt',
+                'scroll-mb'
+            ],
+            'scroll-p': [
+                'scroll-px',
+                'scroll-py',
+                'scroll-ps',
+                'scroll-pe',
+                'scroll-pbs',
+                'scroll-pbe',
+                'scroll-pt',
+                'scroll-pr',
+                'scroll-pb',
+                'scroll-pl'
+            ],
+            'scroll-px': [
+                'scroll-pr',
+                'scroll-pl'
+            ],
+            'scroll-py': [
+                'scroll-pt',
+                'scroll-pb'
+            ],
+            touch: [
+                'touch-x',
+                'touch-y',
+                'touch-pz'
+            ],
+            'touch-x': [
+                'touch'
+            ],
+            'touch-y': [
+                'touch'
+            ],
+            'touch-pz': [
+                'touch'
+            ]
+        },
+        conflictingClassGroupModifiers: {
+            'font-size': [
+                'leading'
+            ]
+        },
+        orderSensitiveModifiers: [
+            '*',
+            '**',
+            'after',
+            'backdrop',
+            'before',
+            'details-content',
+            'file',
+            'first-letter',
+            'first-line',
+            'marker',
+            'placeholder',
+            'selection'
+        ]
+    };
+};
+/**
+ * @param baseConfig Config where other config will be merged into. This object will be mutated.
+ * @param configExtension Partial config to merge into the `baseConfig`.
+ */ const mergeConfigs = (baseConfig, { cacheSize, prefix, experimentalParseClassName, extend = {}, override = {} })=>{
+    overrideProperty(baseConfig, 'cacheSize', cacheSize);
+    overrideProperty(baseConfig, 'prefix', prefix);
+    overrideProperty(baseConfig, 'experimentalParseClassName', experimentalParseClassName);
+    overrideConfigProperties(baseConfig.theme, override.theme);
+    overrideConfigProperties(baseConfig.classGroups, override.classGroups);
+    overrideConfigProperties(baseConfig.conflictingClassGroups, override.conflictingClassGroups);
+    overrideConfigProperties(baseConfig.conflictingClassGroupModifiers, override.conflictingClassGroupModifiers);
+    overrideProperty(baseConfig, 'orderSensitiveModifiers', override.orderSensitiveModifiers);
+    mergeConfigProperties(baseConfig.theme, extend.theme);
+    mergeConfigProperties(baseConfig.classGroups, extend.classGroups);
+    mergeConfigProperties(baseConfig.conflictingClassGroups, extend.conflictingClassGroups);
+    mergeConfigProperties(baseConfig.conflictingClassGroupModifiers, extend.conflictingClassGroupModifiers);
+    mergeArrayProperties(baseConfig, extend, 'orderSensitiveModifiers');
+    return baseConfig;
+};
+const overrideProperty = (baseObject, overrideKey, overrideValue)=>{
+    if (overrideValue !== undefined) {
+        baseObject[overrideKey] = overrideValue;
+    }
+};
+const overrideConfigProperties = (baseObject, overrideObject)=>{
+    if (overrideObject) {
+        for(const key in overrideObject){
+            overrideProperty(baseObject, key, overrideObject[key]);
+        }
+    }
+};
+const mergeConfigProperties = (baseObject, mergeObject)=>{
+    if (mergeObject) {
+        for(const key in mergeObject){
+            mergeArrayProperties(baseObject, mergeObject, key);
+        }
+    }
+};
+const mergeArrayProperties = (baseObject, mergeObject, key)=>{
+    const mergeValue = mergeObject[key];
+    if (mergeValue !== undefined) {
+        baseObject[key] = baseObject[key] ? baseObject[key].concat(mergeValue) : mergeValue;
+    }
+};
+const extendTailwindMerge = (configExtension, ...createConfig)=>typeof configExtension === 'function' ? createTailwindMerge(getDefaultConfig, configExtension, ...createConfig) : createTailwindMerge(()=>mergeConfigs(getDefaultConfig(), configExtension), ...createConfig);
+const twMerge = /*#__PURE__*/ createTailwindMerge(getDefaultConfig);
+;
+ //# sourceMappingURL=bundle-mjs.mjs.map
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/index.parts.js [app-client] (ecmascript) <locals>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([]);
+;
+;
+;
+;
+;
+;
+;
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/control/FieldControlDataAttributes.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldControlDataAttributes",
+    ()=>FieldControlDataAttributes
+]);
+let FieldControlDataAttributes = /*#__PURE__*/ function(FieldControlDataAttributes) {
+    /**
+   * Present when the field is disabled.
+   */ FieldControlDataAttributes["disabled"] = "data-disabled";
+    /**
+   * Present when the field is in valid state.
+   */ FieldControlDataAttributes["valid"] = "data-valid";
+    /**
+   * Present when the field is in invalid state.
+   */ FieldControlDataAttributes["invalid"] = "data-invalid";
+    /**
+   * Present when the field has been touched.
+   */ FieldControlDataAttributes["touched"] = "data-touched";
+    /**
+   * Present when the field's value has changed.
+   */ FieldControlDataAttributes["dirty"] = "data-dirty";
+    /**
+   * Present when the field is filled.
+   */ FieldControlDataAttributes["filled"] = "data-filled";
+    /**
+   * Present when the field control is focused.
+   */ FieldControlDataAttributes["focused"] = "data-focused";
+    return FieldControlDataAttributes;
+}({});
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "DEFAULT_FIELD_ROOT_STATE",
+    ()=>DEFAULT_FIELD_ROOT_STATE,
+    "DEFAULT_FIELD_STATE_ATTRIBUTES",
+    ()=>DEFAULT_FIELD_STATE_ATTRIBUTES,
+    "DEFAULT_VALIDITY_STATE",
+    ()=>DEFAULT_VALIDITY_STATE,
+    "fieldValidityMapping",
+    ()=>fieldValidityMapping
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$control$2f$FieldControlDataAttributes$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/control/FieldControlDataAttributes.js [app-client] (ecmascript)");
+;
+const DEFAULT_VALIDITY_STATE = {
+    badInput: false,
+    customError: false,
+    patternMismatch: false,
+    rangeOverflow: false,
+    rangeUnderflow: false,
+    stepMismatch: false,
+    tooLong: false,
+    tooShort: false,
+    typeMismatch: false,
+    valid: null,
+    valueMissing: false
+};
+const DEFAULT_FIELD_STATE_ATTRIBUTES = {
+    valid: null,
+    touched: false,
+    dirty: false,
+    filled: false,
+    focused: false
+};
+const DEFAULT_FIELD_ROOT_STATE = {
+    disabled: false,
+    ...DEFAULT_FIELD_STATE_ATTRIBUTES
+};
+const fieldValidityMapping = {
+    valid (value) {
+        if (value === null) {
+            return null;
+        }
+        if (value) {
+            return {
+                [__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$control$2f$FieldControlDataAttributes$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldControlDataAttributes"].valid]: ''
+            };
+        }
+        return {
+            [__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$control$2f$FieldControlDataAttributes$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldControlDataAttributes"].invalid]: ''
+        };
+    }
+};
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldRootContext",
+    ()=>FieldRootContext,
+    "useFieldRootContext",
+    ()=>useFieldRootContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+const FieldRootContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"]({
+    invalid: undefined,
+    name: undefined,
+    validityData: {
+        state: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_VALIDITY_STATE"],
+        errors: [],
+        error: '',
+        value: '',
+        initialValue: null
+    },
+    setValidityData: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    disabled: undefined,
+    touched: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_FIELD_STATE_ATTRIBUTES"].touched,
+    setTouched: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    dirty: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_FIELD_STATE_ATTRIBUTES"].dirty,
+    setDirty: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    filled: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_FIELD_STATE_ATTRIBUTES"].filled,
+    setFilled: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    focused: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_FIELD_STATE_ATTRIBUTES"].focused,
+    setFocused: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    validate: ()=>null,
+    validationMode: 'onSubmit',
+    validationDebounceTime: 0,
+    shouldValidateOnChange: ()=>false,
+    state: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_FIELD_ROOT_STATE"],
+    markedDirtyRef: {
+        current: false
+    },
+    registerFieldControl: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    validation: {
+        getValidationProps: (props = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"])=>props,
+        getInputValidationProps: (props = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"])=>props,
+        inputRef: {
+            current: null
+        },
+        commit: async ()=>{}
+    }
+});
+if ("TURBOPACK compile-time truthy", 1) FieldRootContext.displayName = "FieldRootContext";
+function useFieldRootContext(optional = true) {
+    const context = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](FieldRootContext);
+    if (context.setValidityData === __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"] && !optional) {
+        throw new Error(("TURBOPACK compile-time truthy", 1) ? 'Base UI: FieldRootContext is missing. Field parts must be placed within <Field.Root>.' : "TURBOPACK unreachable");
+    }
+    return context;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/fieldset/root/FieldsetRootContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldsetRootContext",
+    ()=>FieldsetRootContext,
+    "useFieldsetRootContext",
+    ()=>useFieldsetRootContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+;
+const FieldsetRootContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"]({
+    legendId: undefined,
+    setLegendId: ()=>{},
+    disabled: undefined
+});
+if ("TURBOPACK compile-time truthy", 1) FieldsetRootContext.displayName = "FieldsetRootContext";
+function useFieldsetRootContext(optional = false) {
+    const context = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](FieldsetRootContext);
+    if (!context && !optional) {
+        throw new Error(("TURBOPACK compile-time truthy", 1) ? 'Base UI: FieldsetRootContext is missing. Fieldset parts must be placed within <Fieldset.Root>.' : "TURBOPACK unreachable");
+    }
+    return context;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/form/FormContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FormContext",
+    ()=>FormContext,
+    "useFormContext",
+    ()=>useFormContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+'use client';
+;
+;
+const FormContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"]({
+    formRef: {
+        current: {
+            fields: new Map()
+        }
+    },
+    errors: {},
+    clearErrors: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    validationMode: 'onSubmit',
+    submitAttemptedRef: {
+        current: false
+    }
+});
+if ("TURBOPACK compile-time truthy", 1) FormContext.displayName = "FormContext";
+function useFormContext() {
+    return __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](FormContext);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useId.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useId",
+    ()=>useId
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/safeReact.js [app-client] (ecmascript)");
+'use client';
+;
+;
+let globalId = 0;
+// TODO React 17: Remove `useGlobalId` once React 17 support is removed
+function useGlobalId(idOverride, prefix = 'mui') {
+    const [defaultId, setDefaultId] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](idOverride);
+    const id = idOverride || defaultId;
+    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+        "useGlobalId.useEffect": ()=>{
+            if (defaultId == null) {
+                // Fallback to this default id when possible.
+                // Use the incrementing value for client-side rendering only.
+                // We can't use it server-side.
+                // If you want to use random values please consider the Birthday Problem: https://en.wikipedia.org/wiki/Birthday_problem
+                globalId += 1;
+                setDefaultId(`${prefix}-${globalId}`);
+            }
+        }
+    }["useGlobalId.useEffect"], [
+        defaultId,
+        prefix
+    ]);
+    return id;
+}
+const maybeReactUseId = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SafeReact"].useId;
+function useId(idOverride, prefix) {
+    // React.useId() is only available from React 17.0.0.
+    if (maybeReactUseId !== undefined) {
+        const reactId = maybeReactUseId();
+        return idOverride ?? (prefix ? `${prefix}-${reactId}` : reactId);
+    }
+    // TODO: uncomment once we enable eslint-plugin-react-compiler // eslint-disable-next-line react-compiler/react-compiler
+    // eslint-disable-next-line react-hooks/rules-of-hooks -- `React.useId` is invariant at runtime.
+    return useGlobalId(idOverride, prefix);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useBaseUiId.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useBaseUiId",
+    ()=>useBaseUiId
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useId.js [app-client] (ecmascript)");
+'use client';
+;
+function useBaseUiId(idOverride) {
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useId"])(idOverride, 'base-ui');
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "LabelableContext",
+    ()=>LabelableContext,
+    "useLabelableContext",
+    ()=>useLabelableContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+'use client';
+;
+;
+const LabelableContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"]({
+    controlId: undefined,
+    registerControlId: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    labelId: undefined,
+    setLabelId: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    messageIds: [],
+    setMessageIds: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"],
+    getDescriptionProps: (externalProps)=>externalProps
+});
+if ("TURBOPACK compile-time truthy", 1) LabelableContext.displayName = "LabelableContext";
+function useLabelableContext() {
+    return __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](LabelableContext);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableProvider.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "LabelableProvider",
+    ()=>LabelableProvider
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/merge-props/mergeProps.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useBaseUiId.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+/**
+ * @internal
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/jsx-runtime.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+const LabelableProvider = function LabelableProvider(props) {
+    const defaultId = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useBaseUiId"])();
+    const initialControlId = props.controlId === undefined ? defaultId : props.controlId;
+    const [controlId, setControlIdState] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](initialControlId);
+    const [labelId, setLabelId] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](props.labelId);
+    const [messageIds, setMessageIds] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"]([]);
+    const registrationsRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])({
+        "LabelableProvider.useRefWithInit[registrationsRef]": ()=>new Map()
+    }["LabelableProvider.useRefWithInit[registrationsRef]"]);
+    const { messageIds: parentMessageIds } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const registerControlId = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "LabelableProvider.useStableCallback[registerControlId]": (source, nextId)=>{
+            const registrations = registrationsRef.current;
+            if (nextId === undefined) {
+                registrations.delete(source);
+                return;
+            }
+            registrations.set(source, nextId);
+            // Only flush when registering, not when unregistering.
+            // This prevents loops during rapid unmount/remount cycles (e.g. React Activity).
+            // The next registration will pick up the correct state.
+            setControlIdState({
+                "LabelableProvider.useStableCallback[registerControlId]": (prev)=>{
+                    if (registrations.size === 0) {
+                        return undefined;
+                    }
+                    let nextControlId;
+                    for (const id of registrations.values()){
+                        if (prev !== undefined && id === prev) {
+                            return prev;
+                        }
+                        if (nextControlId === undefined) {
+                            nextControlId = id;
+                        }
+                    }
+                    return nextControlId;
+                }
+            }["LabelableProvider.useStableCallback[registerControlId]"]);
+        }
+    }["LabelableProvider.useStableCallback[registerControlId]"]);
+    const getDescriptionProps = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "LabelableProvider.useCallback[getDescriptionProps]": (externalProps)=>{
+            return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeProps"])({
+                'aria-describedby': parentMessageIds.concat(messageIds).join(' ') || undefined
+            }, externalProps);
+        }
+    }["LabelableProvider.useCallback[getDescriptionProps]"], [
+        parentMessageIds,
+        messageIds
+    ]);
+    const contextValue = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "LabelableProvider.useMemo[contextValue]": ()=>({
+                controlId,
+                registerControlId,
+                labelId,
+                setLabelId,
+                messageIds,
+                setMessageIds,
+                getDescriptionProps
+            })
+    }["LabelableProvider.useMemo[contextValue]"], [
+        controlId,
+        registerControlId,
+        labelId,
+        setLabelId,
+        messageIds,
+        setMessageIds,
+        getDescriptionProps
+    ]);
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["LabelableContext"].Provider, {
+        value: contextValue,
+        children: props.children
+    });
+};
+if ("TURBOPACK compile-time truthy", 1) LabelableProvider.displayName = "LabelableProvider";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useOnMount.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useOnMount",
+    ()=>useOnMount
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+const EMPTY = [];
+function useOnMount(fn) {
+    // TODO: uncomment once we enable eslint-plugin-react-compiler // eslint-disable-next-line react-compiler/react-compiler -- no need to put `fn` in the dependency array
+    /* eslint-disable react-hooks/exhaustive-deps */ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"](fn, EMPTY);
+/* eslint-enable react-hooks/exhaustive-deps */ }
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useTimeout.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Timeout",
+    ()=>Timeout,
+    "useTimeout",
+    ()=>useTimeout
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useOnMount$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useOnMount.js [app-client] (ecmascript)");
+'use client';
+;
+;
+const EMPTY = 0;
+class Timeout {
+    static create() {
+        return new Timeout();
+    }
+    currentId = EMPTY;
+    /**
+   * Executes `fn` after `delay`, clearing any previously scheduled call.
+   */ start(delay, fn) {
+        this.clear();
+        this.currentId = setTimeout(()=>{
+            this.currentId = EMPTY;
+            fn();
+        }, delay); /* Node.js types are enabled in development */ 
+    }
+    isStarted() {
+        return this.currentId !== EMPTY;
+    }
+    clear = ()=>{
+        if (this.currentId !== EMPTY) {
+            clearTimeout(this.currentId);
+            this.currentId = EMPTY;
+        }
+    };
+    disposeEffect = ()=>{
+        return this.clear;
+    };
+}
+function useTimeout() {
+    const timeout = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])(Timeout.create).current;
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useOnMount$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useOnMount"])(timeout.disposeEffect);
+    return timeout;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/getCombinedFieldValidityData.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * Combines the field's client-side, stateful validity data with the external invalid state to
+ * determine the field's true validity.
+ */ __turbopack_context__.s([
+    "getCombinedFieldValidityData",
+    ()=>getCombinedFieldValidityData
+]);
+function getCombinedFieldValidityData(validityData, invalid) {
+    return {
+        ...validityData,
+        state: {
+            ...validityData.state,
+            valid: !invalid && validityData.state.valid
+        }
+    };
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/useFieldValidation.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useFieldValidation",
+    ()=>useFieldValidation
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useTimeout$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useTimeout.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/merge-props/mergeProps.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/form/FormContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/getCombinedFieldValidityData.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const validityKeys = Object.keys(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_VALIDITY_STATE"]);
+function isOnlyValueMissing(state) {
+    if (!state || state.valid || !state.valueMissing) {
+        return false;
+    }
+    let onlyValueMissing = false;
+    for (const key of validityKeys){
+        if (key === 'valid') {
+            continue;
+        }
+        if (key === 'valueMissing') {
+            onlyValueMissing = state[key];
+        }
+        if (state[key]) {
+            onlyValueMissing = false;
+        }
+    }
+    return onlyValueMissing;
+}
+function useFieldValidation(params) {
+    const { formRef, clearErrors } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFormContext"])();
+    const { setValidityData, validate, validityData, validationDebounceTime, invalid, markedDirtyRef, state, name, shouldValidateOnChange } = params;
+    const { controlId, getDescriptionProps } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const timeout = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useTimeout$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTimeout"])();
+    const inputRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const commit = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useFieldValidation.useStableCallback[commit]": async (value, revalidate = false)=>{
+            const element = inputRef.current;
+            if (!element) {
+                return;
+            }
+            if (revalidate) {
+                if (state.valid !== false) {
+                    return;
+                }
+                const currentNativeValidity = element.validity;
+                if (!currentNativeValidity.valueMissing) {
+                    // The 'valueMissing' (required) condition has been resolved by the user typing.
+                    // Temporarily mark the field as valid for this onChange event.
+                    // Other native errors (e.g., typeMismatch) will be caught by full validation on blur or submit.
+                    const nextValidityData = {
+                        value,
+                        state: {
+                            ...__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_VALIDITY_STATE"],
+                            valid: true
+                        },
+                        error: '',
+                        errors: [],
+                        initialValue: validityData.initialValue
+                    };
+                    element.setCustomValidity('');
+                    if (controlId) {
+                        const currentFieldData = formRef.current.fields.get(controlId);
+                        if (currentFieldData) {
+                            formRef.current.fields.set(controlId, {
+                                ...currentFieldData,
+                                ...(0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getCombinedFieldValidityData"])(nextValidityData, false) // invalid = false
+                            });
+                        }
+                    }
+                    setValidityData(nextValidityData);
+                    return;
+                }
+                // Value is still missing, or other conditions apply.
+                // Let's use a representation of current validity for isOnlyValueMissing.
+                const currentNativeValidityObject = validityKeys.reduce({
+                    "useFieldValidation.useStableCallback[commit].currentNativeValidityObject": (acc, key)=>{
+                        acc[key] = currentNativeValidity[key];
+                        return acc;
+                    }
+                }["useFieldValidation.useStableCallback[commit].currentNativeValidityObject"], {});
+                // If it's (still) natively invalid due to something other than just valueMissing,
+                // then bail from this revalidation on change to avoid "scolding" for other errors.
+                if (!currentNativeValidityObject.valid && !isOnlyValueMissing(currentNativeValidityObject)) {
+                    return;
+                }
+            // If valueMissing is still true AND it's the only issue, or if the field is now natively valid,
+            // let it fall through to the main validation logic below.
+            }
+            function getState(el) {
+                const computedState = validityKeys.reduce({
+                    "useFieldValidation.useStableCallback[commit].getState.computedState": (acc, key)=>{
+                        acc[key] = el.validity[key];
+                        return acc;
+                    }
+                }["useFieldValidation.useStableCallback[commit].getState.computedState"], {});
+                let hasOnlyValueMissingError = false;
+                for (const key of validityKeys){
+                    if (key === 'valid') {
+                        continue;
+                    }
+                    if (key === 'valueMissing' && computedState[key]) {
+                        hasOnlyValueMissingError = true;
+                    } else if (computedState[key]) {
+                        return computedState;
+                    }
+                }
+                // Only make `valueMissing` mark the field invalid if it's been changed
+                // to reduce error noise.
+                if (hasOnlyValueMissingError && !markedDirtyRef.current) {
+                    computedState.valid = true;
+                    computedState.valueMissing = false;
+                }
+                return computedState;
+            }
+            timeout.clear();
+            let result = null;
+            let validationErrors = [];
+            const nextState = getState(element);
+            let defaultValidationMessage;
+            const validateOnChange = shouldValidateOnChange();
+            if (element.validationMessage && !validateOnChange) {
+                // not validating on change, if there is a `validationMessage` from
+                // native validity, set errors and skip calling the custom validate fn
+                defaultValidationMessage = element.validationMessage;
+                validationErrors = [
+                    element.validationMessage
+                ];
+            } else {
+                // call the validate function because either
+                // - validating on change, or
+                // - native constraint validations passed, custom validity check is next
+                const formValues = Array.from(formRef.current.fields.values()).reduce({
+                    "useFieldValidation.useStableCallback[commit].formValues": (acc, field)=>{
+                        if (field.name) {
+                            acc[field.name] = field.getValue();
+                        }
+                        return acc;
+                    }
+                }["useFieldValidation.useStableCallback[commit].formValues"], {});
+                const resultOrPromise = validate(value, formValues);
+                if (typeof resultOrPromise === 'object' && resultOrPromise !== null && 'then' in resultOrPromise) {
+                    result = await resultOrPromise;
+                } else {
+                    result = resultOrPromise;
+                }
+                if (result !== null) {
+                    nextState.valid = false;
+                    nextState.customError = true;
+                    if (Array.isArray(result)) {
+                        validationErrors = result;
+                        element.setCustomValidity(result.join('\n'));
+                    } else if (result) {
+                        validationErrors = [
+                            result
+                        ];
+                        element.setCustomValidity(result);
+                    }
+                } else if (validateOnChange) {
+                    // validate function returned no errors, if validating on change
+                    // we need to clear the custom validity state
+                    element.setCustomValidity('');
+                    nextState.customError = false;
+                    if (element.validationMessage) {
+                        defaultValidationMessage = element.validationMessage;
+                        validationErrors = [
+                            element.validationMessage
+                        ];
+                    } else if (element.validity.valid && !nextState.valid) {
+                        nextState.valid = true;
+                    }
+                }
+            }
+            const nextValidityData = {
+                value,
+                state: nextState,
+                error: defaultValidationMessage ?? (Array.isArray(result) ? result[0] : result ?? ''),
+                errors: validationErrors,
+                initialValue: validityData.initialValue
+            };
+            if (controlId) {
+                const currentFieldData = formRef.current.fields.get(controlId);
+                if (currentFieldData) {
+                    formRef.current.fields.set(controlId, {
+                        ...currentFieldData,
+                        // Keep Form-level errors part of overall field validity for submit blocking/focus logic.
+                        ...(0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getCombinedFieldValidityData"])(nextValidityData, invalid)
+                    });
+                }
+            }
+            setValidityData(nextValidityData);
+        }
+    }["useFieldValidation.useStableCallback[commit]"]);
+    const getValidationProps = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "useFieldValidation.useCallback[getValidationProps]": (externalProps = {})=>(0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeProps"])(getDescriptionProps, state.valid === false ? {
+                'aria-invalid': true
+            } : __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"], externalProps)
+    }["useFieldValidation.useCallback[getValidationProps]"], [
+        getDescriptionProps,
+        state.valid
+    ]);
+    const getInputValidationProps = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "useFieldValidation.useCallback[getInputValidationProps]": (externalProps = {})=>(0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$merge$2d$props$2f$mergeProps$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["mergeProps"])({
+                onChange (event) {
+                    // Workaround for https://github.com/facebook/react/issues/9023
+                    if (event.nativeEvent.defaultPrevented) {
+                        return;
+                    }
+                    clearErrors(name);
+                    if (!shouldValidateOnChange()) {
+                        commit(event.currentTarget.value, true);
+                        return;
+                    }
+                    // When validating on change, run client-side validation even if
+                    // externally invalid
+                    const element = event.currentTarget;
+                    if (element.value === '') {
+                        // Ignore the debounce time for empty values.
+                        commit(element.value);
+                        return;
+                    }
+                    timeout.clear();
+                    if (validationDebounceTime) {
+                        timeout.start(validationDebounceTime, {
+                            "useFieldValidation.useCallback[getInputValidationProps]": ()=>{
+                                commit(element.value);
+                            }
+                        }["useFieldValidation.useCallback[getInputValidationProps]"]);
+                    } else {
+                        commit(element.value);
+                    }
+                }
+            }, getValidationProps(externalProps))
+    }["useFieldValidation.useCallback[getInputValidationProps]"], [
+        getValidationProps,
+        clearErrors,
+        name,
+        timeout,
+        commit,
+        validationDebounceTime,
+        shouldValidateOnChange
+    ]);
+    return __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "useFieldValidation.useMemo": ()=>({
+                getValidationProps,
+                getInputValidationProps,
+                inputRef,
+                commit
+            })
+    }["useFieldValidation.useMemo"], [
+        getValidationProps,
+        getInputValidationProps,
+        commit
+    ]);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/useFieldControlRegistration.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useFieldControlRegistration",
+    ()=>useFieldControlRegistration
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2d$dom$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react-dom/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/getCombinedFieldValidityData.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/form/FormContext.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+function useFieldControlRegistration(params) {
+    const { commit, invalid, markedDirtyRef, name, setValidityData, validityData } = params;
+    const { formRef } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFormContext"])();
+    const activeFieldControlSourceRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const registrationRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const fallbackControlRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const getValue = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useFieldControlRegistration.useStableCallback[getValue]": ()=>{
+            const registration = registrationRef.current;
+            if (!registration) {
+                return undefined;
+            }
+            if (registration.getValue) {
+                return registration.getValue();
+            }
+            return registration.value;
+        }
+    }["useFieldControlRegistration.useStableCallback[getValue]"]);
+    const validate = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useFieldControlRegistration.useStableCallback[validate]": (flushSync = true)=>{
+            const registration = registrationRef.current;
+            if (!registration) {
+                return;
+            }
+            let nextValue = registration.value;
+            if (nextValue === undefined) {
+                nextValue = getValue();
+            }
+            markedDirtyRef.current = true;
+            if (!flushSync) {
+                commit(nextValue);
+            } else {
+                // Synchronously update the validity state so the submit event can be prevented.
+                __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2d$dom$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["flushSync"]({
+                    "useFieldControlRegistration.useStableCallback[validate]": ()=>commit(nextValue)
+                }["useFieldControlRegistration.useStableCallback[validate]"]);
+            }
+        }
+    }["useFieldControlRegistration.useStableCallback[validate]"]);
+    function refreshRegistration() {
+        const registration = registrationRef.current;
+        if (!registration || !registration.id) {
+            return;
+        }
+        formRef.current.fields.set(registration.id, {
+            getValue,
+            name,
+            controlRef: registration.controlRef ?? fallbackControlRef,
+            validityData: (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getCombinedFieldValidityData"])(validityData, invalid),
+            validate
+        });
+    }
+    function deleteRegistration(id = registrationRef.current?.id) {
+        if (id) {
+            formRef.current.fields.delete(id);
+        }
+    }
+    function syncInitialValue() {
+        const registration = registrationRef.current;
+        if (!registration) {
+            return;
+        }
+        let initialValue = registration.value;
+        if (initialValue === undefined) {
+            initialValue = getValue();
+        }
+        if (validityData.initialValue === null && initialValue !== null) {
+            setValidityData((prev)=>({
+                    ...prev,
+                    initialValue
+                }));
+        }
+    }
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useFieldControlRegistration.useIsoLayoutEffect": ()=>{
+            const registration = registrationRef.current;
+            if (!registration || !registration.id) {
+                return;
+            }
+            formRef.current.fields.set(registration.id, {
+                getValue,
+                name,
+                controlRef: registration.controlRef ?? fallbackControlRef,
+                validityData: (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getCombinedFieldValidityData"])(validityData, invalid),
+                validate
+            });
+        }
+    }["useFieldControlRegistration.useIsoLayoutEffect"], [
+        formRef,
+        getValue,
+        invalid,
+        name,
+        validate,
+        validityData
+    ]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useFieldControlRegistration.useIsoLayoutEffect": ()=>{
+            const fields = formRef.current.fields;
+            return ({
+                "useFieldControlRegistration.useIsoLayoutEffect": ()=>{
+                    const id = registrationRef.current?.id;
+                    if (id) {
+                        fields.delete(id);
+                    }
+                }
+            })["useFieldControlRegistration.useIsoLayoutEffect"];
+        }
+    }["useFieldControlRegistration.useIsoLayoutEffect"], [
+        formRef
+    ]);
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useFieldControlRegistration.useStableCallback": (source, registration)=>{
+            if (!registration) {
+                if (activeFieldControlSourceRef.current === source) {
+                    activeFieldControlSourceRef.current = null;
+                    deleteRegistration();
+                    registrationRef.current = null;
+                }
+                return;
+            }
+            const previousId = registrationRef.current?.id;
+            activeFieldControlSourceRef.current = source;
+            registrationRef.current = registration;
+            if (previousId && previousId !== registration.id) {
+                deleteRegistration(previousId);
+            }
+            syncInitialValue();
+            refreshRegistration();
+        }
+    }["useFieldControlRegistration.useStableCallback"]);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRoot.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldRoot",
+    ()=>FieldRoot
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$fieldset$2f$root$2f$FieldsetRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/fieldset/root/FieldsetRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/form/FormContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableProvider$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableProvider.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$useFieldValidation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/useFieldValidation.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$useFieldControlRegistration$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/useFieldControlRegistration.js [app-client] (ecmascript)");
+/**
+ * @internal
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/jsx-runtime.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const FieldRootInner = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldRootInner(componentProps, forwardedRef) {
+    const { errors, validationMode: formValidationMode, submitAttemptedRef } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFormContext"])();
+    const { render, className, validate: validateProp, validationDebounceTime = 0, validationMode = formValidationMode, name, disabled: disabledProp = false, invalid: invalidProp, dirty: dirtyProp, touched: touchedProp, actionsRef, style, ...elementProps } = componentProps;
+    const { disabled: disabledFieldset } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$fieldset$2f$root$2f$FieldsetRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldsetRootContext"])();
+    const validate = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])(validateProp || ({
+        "FieldRootInner.FieldRootInner.useStableCallback[validate]": ()=>null
+    })["FieldRootInner.FieldRootInner.useStableCallback[validate]"]);
+    const disabled = disabledFieldset || disabledProp;
+    const [touchedState, setTouchedUnwrapped] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](false);
+    const [dirtyState, setDirtyUnwrapped] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](false);
+    const [filled, setFilled] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](false);
+    const [focused, setFocused] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](false);
+    const dirty = dirtyProp ?? dirtyState;
+    const touched = touchedProp ?? touchedState;
+    const markedDirtyRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](false);
+    const setDirty = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "FieldRootInner.FieldRootInner.useStableCallback[setDirty]": (value)=>{
+            if (dirtyProp !== undefined) {
+                return;
+            }
+            if (value) {
+                markedDirtyRef.current = true;
+            }
+            setDirtyUnwrapped(value);
+        }
+    }["FieldRootInner.FieldRootInner.useStableCallback[setDirty]"]);
+    const setTouched = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "FieldRootInner.FieldRootInner.useStableCallback[setTouched]": (value)=>{
+            if (touchedProp !== undefined) {
+                return;
+            }
+            setTouchedUnwrapped(value);
+        }
+    }["FieldRootInner.FieldRootInner.useStableCallback[setTouched]"]);
+    const shouldValidateOnChange = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "FieldRootInner.FieldRootInner.useStableCallback[shouldValidateOnChange]": ()=>validationMode === 'onChange' || validationMode === 'onSubmit' && submitAttemptedRef.current
+    }["FieldRootInner.FieldRootInner.useStableCallback[shouldValidateOnChange]"]);
+    const hasFormError = !!name && Object.hasOwn(errors, name) && errors[name] !== undefined;
+    const invalid = invalidProp === true || hasFormError;
+    const [validityData, setValidityData] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"]({
+        state: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_VALIDITY_STATE"],
+        error: '',
+        errors: [],
+        value: null,
+        initialValue: null
+    });
+    const valid = !invalid && validityData.state.valid;
+    const state = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "FieldRootInner.FieldRootInner.useMemo[state]": ()=>({
+                disabled,
+                touched,
+                dirty,
+                valid,
+                filled,
+                focused
+            })
+    }["FieldRootInner.FieldRootInner.useMemo[state]"], [
+        disabled,
+        touched,
+        dirty,
+        valid,
+        filled,
+        focused
+    ]);
+    const validation = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$useFieldValidation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldValidation"])({
+        setValidityData,
+        validate,
+        validityData,
+        validationDebounceTime,
+        invalid,
+        markedDirtyRef,
+        state,
+        name,
+        shouldValidateOnChange
+    });
+    const handleImperativeValidate = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "FieldRootInner.FieldRootInner.useCallback[handleImperativeValidate]": ()=>{
+            markedDirtyRef.current = true;
+            validation.commit(validityData.value);
+        }
+    }["FieldRootInner.FieldRootInner.useCallback[handleImperativeValidate]"], [
+        validation,
+        validityData
+    ]);
+    const registerFieldControl = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$useFieldControlRegistration$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldControlRegistration"])({
+        commit: validation.commit,
+        invalid,
+        markedDirtyRef,
+        name,
+        setValidityData,
+        validityData
+    });
+    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useImperativeHandle"](actionsRef, {
+        "FieldRootInner.FieldRootInner.useImperativeHandle": ()=>({
+                validate: handleImperativeValidate
+            })
+    }["FieldRootInner.FieldRootInner.useImperativeHandle"], [
+        handleImperativeValidate
+    ]);
+    const contextValue = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "FieldRootInner.FieldRootInner.useMemo[contextValue]": ()=>({
+                invalid,
+                name,
+                validityData,
+                setValidityData,
+                disabled,
+                touched,
+                setTouched,
+                dirty,
+                setDirty,
+                filled,
+                setFilled,
+                focused,
+                setFocused,
+                validate,
+                validationMode,
+                validationDebounceTime,
+                shouldValidateOnChange,
+                state,
+                markedDirtyRef,
+                registerFieldControl,
+                validation
+            })
+    }["FieldRootInner.FieldRootInner.useMemo[contextValue]"], [
+        invalid,
+        name,
+        validityData,
+        disabled,
+        touched,
+        setTouched,
+        dirty,
+        setDirty,
+        filled,
+        setFilled,
+        focused,
+        setFocused,
+        validate,
+        validationMode,
+        validationDebounceTime,
+        shouldValidateOnChange,
+        state,
+        registerFieldControl,
+        validation
+    ]);
+    const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('div', componentProps, {
+        ref: forwardedRef,
+        state,
+        props: elementProps,
+        stateAttributesMapping: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fieldValidityMapping"]
+    });
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldRootContext"].Provider, {
+        value: contextValue,
+        children: element
+    });
+});
+/**
+ * Groups all parts of the field.
+ * Renders a `<div>` element.
+ *
+ * Documentation: [Base UI Field](https://base-ui.com/react/components/field)
+ */ if ("TURBOPACK compile-time truthy", 1) FieldRootInner.displayName = "FieldRootInner";
+const FieldRoot = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldRoot(componentProps, forwardedRef) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableProvider$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["LabelableProvider"], {
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(FieldRootInner, {
+            ...componentProps,
+            ref: forwardedRef
+        })
+    });
+});
+if ("TURBOPACK compile-time truthy", 1) FieldRoot.displayName = "FieldRoot";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/owner.js [app-client] (ecmascript) <locals>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "ownerDocument",
+    ()=>ownerDocument
+]);
+;
+function ownerDocument(node) {
+    return node?.ownerDocument || document;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/floating-ui-react/utils/shadowDom.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "activeElement",
+    ()=>activeElement,
+    "contains",
+    ()=>contains,
+    "getTarget",
+    ()=>getTarget
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@floating-ui/utils/dist/floating-ui.utils.dom.mjs [app-client] (ecmascript)");
+;
+function activeElement(doc) {
+    let element = doc.activeElement;
+    while(element?.shadowRoot?.activeElement != null){
+        element = element.shadowRoot.activeElement;
+    }
+    return element;
+}
+function contains(parent, child) {
+    if (!parent || !child) {
+        return false;
+    }
+    const rootNode = child.getRootNode?.();
+    // First, attempt with the faster native method.
+    if (parent.contains(child)) {
+        return true;
+    }
+    // Then fall back to traversing out of shadow roots when needed.
+    if (rootNode && (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isShadowRoot"])(rootNode)) {
+        let next = child;
+        while(next){
+            if (parent === next) {
+                return true;
+            }
+            next = next.parentNode || next.host;
+        }
+    }
+    return false;
+}
+function getTarget(event) {
+    if ('composedPath' in event) {
+        return event.composedPath()[0];
+    }
+    // TS assumes `composedPath()` always exists, but older browsers without
+    // shadow DOM support still fall back to `target`.
+    return event.target;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRegisteredLabelId.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useRegisteredLabelId",
+    ()=>useRegisteredLabelId
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useBaseUiId.js [app-client] (ecmascript)");
+'use client';
+;
+;
+function useRegisteredLabelId(idProp, setLabelId) {
+    const id = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useBaseUiId"])(idProp);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useRegisteredLabelId.useIsoLayoutEffect": ()=>{
+            setLabelId(id);
+            return ({
+                "useRegisteredLabelId.useIsoLayoutEffect": ()=>{
+                    setLabelId(undefined);
+                }
+            })["useRegisteredLabelId.useIsoLayoutEffect"];
+        }
+    }["useRegisteredLabelId.useIsoLayoutEffect"], [
+        id,
+        setLabelId
+    ]);
+    return id;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/useLabel.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "focusElementWithVisible",
+    ()=>focusElementWithVisible,
+    "useLabel",
+    ()=>useLabel
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@floating-ui/utils/dist/floating-ui.utils.dom.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$owner$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/owner.js [app-client] (ecmascript) <locals>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$floating$2d$ui$2d$react$2f$utils$2f$shadowDom$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/floating-ui-react/utils/shadowDom.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRegisteredLabelId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRegisteredLabelId.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+function useLabel(params = {}) {
+    const { id: idProp, fallbackControlId, native = false, setLabelId: setLabelIdProp, focusControl: focusControlProp } = params;
+    const { controlId: contextControlId, setLabelId: setContextLabelId } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const syncLabelId = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useLabel.useStableCallback[syncLabelId]": (nextLabelId)=>{
+            setContextLabelId(nextLabelId);
+            setLabelIdProp?.(nextLabelId);
+        }
+    }["useLabel.useStableCallback[syncLabelId]"]);
+    const id = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRegisteredLabelId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRegisteredLabelId"])(idProp, syncLabelId);
+    const resolvedControlId = contextControlId ?? fallbackControlId;
+    function focusControl(event) {
+        if (focusControlProp) {
+            focusControlProp(event, resolvedControlId);
+            return;
+        }
+        if (!resolvedControlId) {
+            return;
+        }
+        const controlElement = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$owner$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["ownerDocument"])(event.currentTarget).getElementById(resolvedControlId);
+        if ((0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isHTMLElement"])(controlElement)) {
+            focusElementWithVisible(controlElement);
+        }
+    }
+    function handleInteraction(event) {
+        const target = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$floating$2d$ui$2d$react$2f$utils$2f$shadowDom$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getTarget"])(event.nativeEvent);
+        if (target?.closest('button,input,select,textarea')) {
+            return;
+        }
+        // Prevent text selection when double clicking label.
+        if (!event.defaultPrevented && event.detail > 1) {
+            event.preventDefault();
+        }
+        if (native) {
+            return;
+        }
+        focusControl(event);
+    }
+    return native ? {
+        id,
+        htmlFor: resolvedControlId ?? undefined,
+        onMouseDown: handleInteraction
+    } : {
+        id,
+        onClick: handleInteraction,
+        onPointerDown (event) {
+            event.preventDefault();
+        }
+    };
+}
+function focusElementWithVisible(element) {
+    element.focus({
+        // Available from Chrome 144+ (January 2026).
+        // Safari and Firefox already support it.
+        focusVisible: true
+    });
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/label/FieldLabel.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldLabel",
+    ()=>FieldLabel
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/error.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/safeReact.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$useLabel$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/useLabel.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+const FieldLabel = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldLabel(componentProps, forwardedRef) {
+    const { render, className, style, id: idProp, nativeLabel = true, ...elementProps } = componentProps;
+    const fieldRootContext = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])(false);
+    const { labelId } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const labelRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const labelProps = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$useLabel$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabel"])({
+        id: labelId ?? idProp,
+        native: nativeLabel
+    });
+    if ("TURBOPACK compile-time truthy", 1) {
+        // eslint-disable-next-line react-hooks/rules-of-hooks
+        __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+            "FieldLabel.FieldLabel.useEffect": ()=>{
+                if (!labelRef.current) {
+                    return;
+                }
+                const isLabelTag = labelRef.current.tagName === 'LABEL';
+                if (nativeLabel) {
+                    if (!isLabelTag) {
+                        const ownerStackMessage = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SafeReact"].captureOwnerStack?.() || '';
+                        const message = '<Field.Label> expected a <label> element because the `nativeLabel` prop is true. ' + 'Rendering a non-<label> disables native label association, so `htmlFor` will not ' + 'work. Use a real <label> in the `render` prop, or set `nativeLabel` to `false`.';
+                        (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["error"])(`${message}${ownerStackMessage}`);
+                    }
+                } else if (isLabelTag) {
+                    const ownerStackMessage = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$safeReact$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SafeReact"].captureOwnerStack?.() || '';
+                    const message = '<Field.Label> expected a non-<label> element because the `nativeLabel` prop is false. ' + 'Rendering a <label> assumes native label behavior while Base UI treats it as ' + 'non-native, which can cause unexpected pointer behavior. Use a non-<label> in the ' + '`render` prop, or set `nativeLabel` to `true`.';
+                    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["error"])(`${message}${ownerStackMessage}`);
+                }
+            }
+        }["FieldLabel.FieldLabel.useEffect"], [
+            nativeLabel
+        ]);
+    }
+    const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('label', componentProps, {
+        ref: [
+            forwardedRef,
+            labelRef
+        ],
+        state: fieldRootContext.state,
+        props: [
+            labelProps,
+            elementProps
+        ],
+        stateAttributesMapping: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fieldValidityMapping"]
+    });
+    return element;
+});
+if ("TURBOPACK compile-time truthy", 1) FieldLabel.displayName = "FieldLabel";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useAnimationFrame.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "AnimationFrame",
+    ()=>AnimationFrame,
+    "useAnimationFrame",
+    ()=>useAnimationFrame
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useOnMount$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useOnMount.js [app-client] (ecmascript)");
+'use client';
+;
+;
+/** Unlike `setTimeout`, rAF doesn't guarantee a positive integer return value, so we can't have
+ * a monomorphic `uint` type with `0` meaning empty.
+ * See warning note at:
+ * https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame#return_value */ const EMPTY = null;
+let LAST_RAF = globalThis.requestAnimationFrame;
+class Scheduler {
+    /* This implementation uses an array as a backing data-structure for frame callbacks.
+   * It allows `O(1)` callback cancelling by inserting a `null` in the array, though it
+   * never calls the native `cancelAnimationFrame` if there are no frames left. This can
+   * be much more efficient if there is a call pattern that alterns as
+   * "request-cancel-request-cancel-…".
+   * But in the case of "request-request-…-cancel-cancel-…", it leaves the final animation
+   * frame to run anyway. We turn that frame into a `O(1)` no-op via `callbacksCount`. */ callbacks = [];
+    callbacksCount = 0;
+    nextId = 1;
+    startId = 1;
+    isScheduled = false;
+    tick = (timestamp)=>{
+        this.isScheduled = false;
+        const currentCallbacks = this.callbacks;
+        const currentCallbacksCount = this.callbacksCount;
+        // Update these before iterating, callbacks could call `requestAnimationFrame` again.
+        this.callbacks = [];
+        this.callbacksCount = 0;
+        this.startId = this.nextId;
+        if (currentCallbacksCount > 0) {
+            for(let i = 0; i < currentCallbacks.length; i += 1){
+                currentCallbacks[i]?.(timestamp);
+            }
+        }
+    };
+    request(fn) {
+        const id = this.nextId;
+        this.nextId += 1;
+        this.callbacks.push(fn);
+        this.callbacksCount += 1;
+        /* In a test environment with fake timers, a fake `requestAnimationFrame` can be called
+     * but there's no guarantee that the animation frame will actually run before the fake
+     * timers are teared, which leaves `isScheduled` set, but won't run our `tick()`. */ const didRAFChange = ("TURBOPACK compile-time value", "development") !== 'production' && LAST_RAF !== requestAnimationFrame && (LAST_RAF = requestAnimationFrame, true);
+        if (!this.isScheduled || didRAFChange) {
+            requestAnimationFrame(this.tick);
+            this.isScheduled = true;
+        }
+        return id;
+    }
+    cancel(id) {
+        const index = id - this.startId;
+        if (index < 0 || index >= this.callbacks.length) {
+            return;
+        }
+        this.callbacks[index] = null;
+        this.callbacksCount -= 1;
+    }
+}
+const scheduler = new Scheduler();
+class AnimationFrame {
+    static create() {
+        return new AnimationFrame();
+    }
+    static request(fn) {
+        return scheduler.request(fn);
+    }
+    static cancel(id) {
+        return scheduler.cancel(id);
+    }
+    currentId = EMPTY;
+    /**
+   * Executes `fn` after `delay`, clearing any previously scheduled call.
+   */ request(fn) {
+        this.cancel();
+        this.currentId = scheduler.request(()=>{
+            this.currentId = EMPTY;
+            fn();
+        });
+    }
+    cancel = ()=>{
+        if (this.currentId !== EMPTY) {
+            scheduler.cancel(this.currentId);
+            this.currentId = EMPTY;
+        }
+    };
+    disposeEffect = ()=>{
+        return this.cancel;
+    };
+}
+function useAnimationFrame() {
+    const timeout = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])(AnimationFrame.create).current;
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useOnMount$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useOnMount"])(timeout.disposeEffect);
+    return timeout;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/resolveRef.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * If the provided argument is a ref object, returns its `current` value.
+ * Otherwise, returns the argument itself.
+ */ __turbopack_context__.s([
+    "resolveRef",
+    ()=>resolveRef
+]);
+function resolveRef(maybeRef) {
+    if (maybeRef == null) {
+        return maybeRef;
+    }
+    return 'current' in maybeRef ? maybeRef.current : maybeRef;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/stateAttributesMapping.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "TransitionStatusDataAttributes",
+    ()=>TransitionStatusDataAttributes,
+    "transitionStatusMapping",
+    ()=>transitionStatusMapping
+]);
+let TransitionStatusDataAttributes = /*#__PURE__*/ function(TransitionStatusDataAttributes) {
+    /**
+   * Present when the component is animating in.
+   */ TransitionStatusDataAttributes["startingStyle"] = "data-starting-style";
+    /**
+   * Present when the component is animating out.
+   */ TransitionStatusDataAttributes["endingStyle"] = "data-ending-style";
+    return TransitionStatusDataAttributes;
+}({});
+const STARTING_HOOK = {
+    [TransitionStatusDataAttributes.startingStyle]: ''
+};
+const ENDING_HOOK = {
+    [TransitionStatusDataAttributes.endingStyle]: ''
+};
+const transitionStatusMapping = {
+    transitionStatus (value) {
+        if (value === 'starting') {
+            return STARTING_HOOK;
+        }
+        if (value === 'ending') {
+            return ENDING_HOOK;
+        }
+        return null;
+    }
+};
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useAnimationsFinished.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useAnimationsFinished",
+    ()=>useAnimationsFinished
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2d$dom$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react-dom/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useAnimationFrame.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$resolveRef$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/resolveRef.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$stateAttributesMapping$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/stateAttributesMapping.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+function useAnimationsFinished(elementOrRef, waitForStartingStyleRemoved = false, treatAbortedAsFinished = true) {
+    const frame = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAnimationFrame"])();
+    return (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useAnimationsFinished.useStableCallback": (fnToExecute, /**
+   * An optional [AbortSignal](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal) that
+   * can be used to abort `fnToExecute` before all the animations have finished.
+   * @default null
+   */ signal = null)=>{
+            frame.cancel();
+            const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$resolveRef$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["resolveRef"])(elementOrRef);
+            if (element == null) {
+                return;
+            }
+            const resolvedElement = element;
+            const done = {
+                "useAnimationsFinished.useStableCallback.done": ()=>{
+                    // Synchronously flush the unmounting of the component so that the browser doesn't
+                    // paint: https://github.com/mui/base-ui/issues/979
+                    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2d$dom$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["flushSync"](fnToExecute);
+                }
+            }["useAnimationsFinished.useStableCallback.done"];
+            if (typeof resolvedElement.getAnimations !== 'function' || globalThis.BASE_UI_ANIMATIONS_DISABLED) {
+                fnToExecute();
+                return;
+            }
+            function exec() {
+                Promise.all(resolvedElement.getAnimations().map({
+                    "useAnimationsFinished.useStableCallback.exec": (animation)=>animation.finished
+                }["useAnimationsFinished.useStableCallback.exec"])).then({
+                    "useAnimationsFinished.useStableCallback.exec": ()=>{
+                        if (!signal?.aborted) {
+                            done();
+                        }
+                    }
+                }["useAnimationsFinished.useStableCallback.exec"]).catch({
+                    "useAnimationsFinished.useStableCallback.exec": ()=>{
+                        if (treatAbortedAsFinished) {
+                            if (!signal?.aborted) {
+                                done();
+                            }
+                            return;
+                        }
+                        const currentAnimations = resolvedElement.getAnimations();
+                        if (!signal?.aborted && currentAnimations.length > 0 && currentAnimations.some({
+                            "useAnimationsFinished.useStableCallback.exec": (animation)=>animation.pending || animation.playState !== 'finished'
+                        }["useAnimationsFinished.useStableCallback.exec"])) {
+                            // Sometimes animations can be aborted because a property they depend on changes while the animation plays.
+                            // In such cases, we need to re-check if any new animations have started.
+                            exec();
+                        }
+                    }
+                }["useAnimationsFinished.useStableCallback.exec"]);
+            }
+            if (waitForStartingStyleRemoved) {
+                const startingStyleAttribute = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$stateAttributesMapping$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TransitionStatusDataAttributes"].startingStyle;
+                // If `[data-starting-style]` isn't present, fall back to waiting one more frame
+                // to give "open" animations a chance to be registered.
+                if (!resolvedElement.hasAttribute(startingStyleAttribute)) {
+                    frame.request(exec);
+                    return;
+                }
+                // Wait for `[data-starting-style]` to have been removed.
+                const attributeObserver = new MutationObserver({
+                    "useAnimationsFinished.useStableCallback": ()=>{
+                        if (!resolvedElement.hasAttribute(startingStyleAttribute)) {
+                            attributeObserver.disconnect();
+                            exec();
+                        }
+                    }
+                }["useAnimationsFinished.useStableCallback"]);
+                attributeObserver.observe(resolvedElement, {
+                    attributes: true,
+                    attributeFilter: [
+                        startingStyleAttribute
+                    ]
+                });
+                signal?.addEventListener('abort', {
+                    "useAnimationsFinished.useStableCallback": ()=>attributeObserver.disconnect()
+                }["useAnimationsFinished.useStableCallback"], {
+                    once: true
+                });
+                return;
+            }
+            frame.request(exec);
+        }
+    }["useAnimationsFinished.useStableCallback"]);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useOpenChangeComplete.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useOpenChangeComplete",
+    ()=>useOpenChangeComplete
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useAnimationsFinished$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useAnimationsFinished.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+function useOpenChangeComplete(parameters) {
+    const { enabled = true, open, ref, onComplete: onCompleteParam } = parameters;
+    const onComplete = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])(onCompleteParam);
+    const runOnceAnimationsFinish = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useAnimationsFinished$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useAnimationsFinished"])(ref, open, false);
+    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+        "useOpenChangeComplete.useEffect": ()=>{
+            if (!enabled) {
+                return undefined;
+            }
+            const abortController = new AbortController();
+            runOnceAnimationsFinish(onComplete, abortController.signal);
+            return ({
+                "useOpenChangeComplete.useEffect": ()=>{
+                    abortController.abort();
+                }
+            })["useOpenChangeComplete.useEffect"];
+        }
+    }["useOpenChangeComplete.useEffect"], [
+        enabled,
+        open,
+        onComplete,
+        runOnceAnimationsFinish
+    ]);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useTransitionStatus.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useTransitionStatus",
+    ()=>useTransitionStatus
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useAnimationFrame.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+function useTransitionStatus(open, enableIdleState = false, deferEndingState = false) {
+    const [transitionStatus, setTransitionStatus] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](open && enableIdleState ? 'idle' : undefined);
+    const [mounted, setMounted] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](open);
+    if (open && !mounted) {
+        setMounted(true);
+        setTransitionStatus('starting');
+    }
+    if (!open && mounted && transitionStatus !== 'ending' && !deferEndingState) {
+        setTransitionStatus('ending');
+    }
+    if (!open && !mounted && transitionStatus === 'ending') {
+        setTransitionStatus(undefined);
+    }
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useTransitionStatus.useIsoLayoutEffect": ()=>{
+            if (!open && mounted && transitionStatus !== 'ending' && deferEndingState) {
+                const frame = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimationFrame"].request({
+                    "useTransitionStatus.useIsoLayoutEffect.frame": ()=>{
+                        setTransitionStatus('ending');
+                    }
+                }["useTransitionStatus.useIsoLayoutEffect.frame"]);
+                return ({
+                    "useTransitionStatus.useIsoLayoutEffect": ()=>{
+                        __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimationFrame"].cancel(frame);
+                    }
+                })["useTransitionStatus.useIsoLayoutEffect"];
+            }
+            return undefined;
+        }
+    }["useTransitionStatus.useIsoLayoutEffect"], [
+        open,
+        mounted,
+        transitionStatus,
+        deferEndingState
+    ]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useTransitionStatus.useIsoLayoutEffect": ()=>{
+            if (!open || enableIdleState) {
+                return undefined;
+            }
+            const frame = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimationFrame"].request({
+                "useTransitionStatus.useIsoLayoutEffect.frame": ()=>{
+                    // Avoid `flushSync` here due to Firefox.
+                    // See https://github.com/mui/base-ui/pull/3424
+                    setTransitionStatus(undefined);
+                }
+            }["useTransitionStatus.useIsoLayoutEffect.frame"]);
+            return ({
+                "useTransitionStatus.useIsoLayoutEffect": ()=>{
+                    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimationFrame"].cancel(frame);
+                }
+            })["useTransitionStatus.useIsoLayoutEffect"];
+        }
+    }["useTransitionStatus.useIsoLayoutEffect"], [
+        enableIdleState,
+        open
+    ]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useTransitionStatus.useIsoLayoutEffect": ()=>{
+            if (!open || !enableIdleState) {
+                return undefined;
+            }
+            if (open && mounted && transitionStatus !== 'idle') {
+                setTransitionStatus('starting');
+            }
+            const frame = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimationFrame"].request({
+                "useTransitionStatus.useIsoLayoutEffect.frame": ()=>{
+                    setTransitionStatus('idle');
+                }
+            }["useTransitionStatus.useIsoLayoutEffect.frame"]);
+            return ({
+                "useTransitionStatus.useIsoLayoutEffect": ()=>{
+                    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useAnimationFrame$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimationFrame"].cancel(frame);
+                }
+            })["useTransitionStatus.useIsoLayoutEffect"];
+        }
+    }["useTransitionStatus.useIsoLayoutEffect"], [
+        enableIdleState,
+        open,
+        mounted,
+        transitionStatus
+    ]);
+    return {
+        mounted,
+        setMounted,
+        transitionStatus
+    };
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/error/FieldError.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldError",
+    ()=>FieldError
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/form/FormContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useBaseUiId.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useOpenChangeComplete$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useOpenChangeComplete.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$stateAttributesMapping$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/stateAttributesMapping.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useTransitionStatus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useTransitionStatus.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/jsx-runtime.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const stateAttributesMapping = {
+    ...__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fieldValidityMapping"],
+    ...__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$stateAttributesMapping$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["transitionStatusMapping"]
+};
+const FieldError = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldError(componentProps, forwardedRef) {
+    const { render, id: idProp, className, match, style, ...elementProps } = componentProps;
+    const id = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useBaseUiId"])(idProp);
+    const { validityData, state: fieldState, name } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])(false);
+    const { setMessageIds } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const { errors } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$form$2f$FormContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFormContext"])();
+    const formError = name ? errors[name] : null;
+    const hasSpecificMatch = typeof match === 'string';
+    let rendered = false;
+    if (match === true) {
+        rendered = true;
+    } else if (hasSpecificMatch) {
+        rendered = Boolean(validityData.state[match]);
+    } else {
+        rendered = Boolean(formError) || validityData.state.valid === false;
+    }
+    const { mounted, transitionStatus, setMounted } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useTransitionStatus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTransitionStatus"])(rendered);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "FieldError.FieldError.useIsoLayoutEffect": ()=>{
+            if (!rendered || !id) {
+                return undefined;
+            }
+            setMessageIds({
+                "FieldError.FieldError.useIsoLayoutEffect": (v)=>v.concat(id)
+            }["FieldError.FieldError.useIsoLayoutEffect"]);
+            return ({
+                "FieldError.FieldError.useIsoLayoutEffect": ()=>{
+                    setMessageIds({
+                        "FieldError.FieldError.useIsoLayoutEffect": (v)=>v.filter({
+                                "FieldError.FieldError.useIsoLayoutEffect": (item)=>item !== id
+                            }["FieldError.FieldError.useIsoLayoutEffect"])
+                    }["FieldError.FieldError.useIsoLayoutEffect"]);
+                }
+            })["FieldError.FieldError.useIsoLayoutEffect"];
+        }
+    }["FieldError.FieldError.useIsoLayoutEffect"], [
+        rendered,
+        id,
+        setMessageIds
+    ]);
+    const errorRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    const [lastRenderedMessage, setLastRenderedMessage] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](null);
+    const [lastRenderedMessageKey, setLastRenderedMessageKey] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](null);
+    const clientErrorMessage = validityData.errors.length > 1 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])("ul", {
+        children: validityData.errors.map((message)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])("li", {
+                children: message
+            }, message))
+    }) : validityData.error;
+    const errorMessage = hasSpecificMatch ? clientErrorMessage : formError || clientErrorMessage;
+    let errorKey = validityData.error;
+    if (formError != null) {
+        errorKey = Array.isArray(formError) ? JSON.stringify(formError) : formError;
+    } else if (validityData.errors.length > 1) {
+        errorKey = JSON.stringify(validityData.errors);
+    }
+    if (rendered && errorKey !== lastRenderedMessageKey) {
+        setLastRenderedMessageKey(errorKey);
+        setLastRenderedMessage(errorMessage);
+    }
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useOpenChangeComplete$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useOpenChangeComplete"])({
+        open: rendered,
+        ref: errorRef,
+        onComplete () {
+            if (!rendered) {
+                setMounted(false);
+            }
+        }
+    });
+    const state = {
+        ...fieldState,
+        transitionStatus
+    };
+    const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('div', componentProps, {
+        ref: [
+            forwardedRef,
+            errorRef
+        ],
+        state,
+        props: [
+            {
+                id,
+                children: rendered ? errorMessage : lastRenderedMessage
+            },
+            elementProps
+        ],
+        stateAttributesMapping,
+        enabled: mounted
+    });
+    if (!mounted) {
+        return null;
+    }
+    return element;
+});
+if ("TURBOPACK compile-time truthy", 1) FieldError.displayName = "FieldError";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/description/FieldDescription.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldDescription",
+    ()=>FieldDescription
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useBaseUiId.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+const FieldDescription = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldDescription(componentProps, forwardedRef) {
+    const { render, id: idProp, className, style, ...elementProps } = componentProps;
+    const id = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useBaseUiId"])(idProp);
+    const fieldRootContext = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])(false);
+    const { setMessageIds } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "FieldDescription.FieldDescription.useIsoLayoutEffect": ()=>{
+            if (!id) {
+                return undefined;
+            }
+            setMessageIds({
+                "FieldDescription.FieldDescription.useIsoLayoutEffect": (v)=>v.concat(id)
+            }["FieldDescription.FieldDescription.useIsoLayoutEffect"]);
+            return ({
+                "FieldDescription.FieldDescription.useIsoLayoutEffect": ()=>{
+                    setMessageIds({
+                        "FieldDescription.FieldDescription.useIsoLayoutEffect": (v)=>v.filter({
+                                "FieldDescription.FieldDescription.useIsoLayoutEffect": (item)=>item !== id
+                            }["FieldDescription.FieldDescription.useIsoLayoutEffect"])
+                    }["FieldDescription.FieldDescription.useIsoLayoutEffect"]);
+                }
+            })["FieldDescription.FieldDescription.useIsoLayoutEffect"];
+        }
+    }["FieldDescription.FieldDescription.useIsoLayoutEffect"], [
+        id,
+        setMessageIds
+    ]);
+    const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('p', componentProps, {
+        ref: forwardedRef,
+        state: fieldRootContext.state,
+        props: [
+            {
+                id
+            },
+            elementProps
+        ],
+        stateAttributesMapping: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fieldValidityMapping"]
+    });
+    return element;
+});
+if ("TURBOPACK compile-time truthy", 1) FieldDescription.displayName = "FieldDescription";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useControlled.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useControlled",
+    ()=>useControlled
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+// TODO: uncomment once we enable eslint-plugin-react-compiler // eslint-disable-next-line react-compiler/react-compiler -- process.env never changes, dependency arrays are intentionally ignored
+/* eslint-disable react-hooks/rules-of-hooks, react-hooks/exhaustive-deps */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/error.js [app-client] (ecmascript)");
+'use client';
+;
+;
+function useControlled({ controlled, default: defaultProp, name, state = 'value' }) {
+    // isControlled is ignored in the hook dependency lists as it should never change.
+    const { current: isControlled } = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](controlled !== undefined);
+    const [valueState, setValue] = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"](defaultProp);
+    const value = isControlled ? controlled : valueState;
+    if ("TURBOPACK compile-time truthy", 1) {
+        __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+            "useControlled.useEffect": ()=>{
+                if (isControlled !== (controlled !== undefined)) {
+                    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["error"])([
+                        `A component is changing the ${isControlled ? '' : 'un'}controlled ${state} state of ${name} to be ${isControlled ? 'un' : ''}controlled.`,
+                        'Elements should not switch from uncontrolled to controlled (or vice versa).',
+                        `Decide between using a controlled or uncontrolled ${name} ` + 'element for the lifetime of the component.',
+                        "The nature of the state is determined during the first render. It's considered controlled if the value is not `undefined`.",
+                        'More info: https://fb.me/react-controlled-components'
+                    ].join('\n'));
+                }
+            }
+        }["useControlled.useEffect"], [
+            state,
+            name,
+            controlled
+        ]);
+        const { current: defaultValue } = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](defaultProp);
+        __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+            "useControlled.useEffect": ()=>{
+                if (!isControlled && serializeToDevModeString(defaultValue) !== serializeToDevModeString(defaultProp)) {
+                    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$error$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["error"])([
+                        `A component is changing the default ${state} state of an uncontrolled ${name} after being initialized. ` + `To suppress this warning opt to use a controlled ${name}.`
+                    ].join('\n'));
+                }
+            }
+        }["useControlled.useEffect"], [
+            defaultProp
+        ]);
+    }
+    const setValueIfUncontrolled = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"]({
+        "useControlled.useCallback[setValueIfUncontrolled]": (newValue)=>{
+            if (!isControlled) {
+                setValue(newValue);
+            }
+        }
+    }["useControlled.useCallback[setValueIfUncontrolled]"], []);
+    return [
+        value,
+        setValueIfUncontrolled
+    ];
+}
+function serializeToDevModeString(input) {
+    let nextId = 0;
+    const seen = new WeakMap();
+    try {
+        const result = JSON.stringify(input, function replacer(key, value) {
+            if (key === '_owner' && this != null && typeof this === 'object' && '$$typeof' in this) {
+                return undefined;
+            }
+            if (typeof value === 'bigint') {
+                return `__bigint__:${value}`;
+            }
+            if (value !== null && typeof value === 'object') {
+                const id = seen.get(value);
+                if (id !== undefined) {
+                    return `__object__:${id}`;
+                }
+                seen.set(value, nextId);
+                nextId += 1;
+            }
+            return value;
+        });
+        return result ?? `__top__:${typeof input}`;
+    } catch  {
+        return '__unserializable__';
+    }
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/useRegisterFieldControl.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useRegisterFieldControl",
+    ()=>useRegisterFieldControl
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+function useRegisterFieldControl(controlRef, params) {
+    const { enabled = true, getValue, id, value } = params;
+    const { registerFieldControl } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])();
+    const sourceRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    if (!sourceRef.current) {
+        sourceRef.current = Symbol();
+    }
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useRegisterFieldControl.useIsoLayoutEffect": ()=>{
+            const source = sourceRef.current;
+            if (!source || !enabled) {
+                return undefined;
+            }
+            registerFieldControl(source, {
+                controlRef,
+                getValue,
+                id,
+                value
+            });
+            return ({
+                "useRegisterFieldControl.useIsoLayoutEffect": ()=>{
+                    registerFieldControl(source, undefined);
+                }
+            })["useRegisterFieldControl.useIsoLayoutEffect"];
+        }
+    }["useRegisterFieldControl.useIsoLayoutEffect"], [
+        controlRef,
+        enabled,
+        getValue,
+        id,
+        registerFieldControl,
+        value
+    ]);
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/useLabelableId.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "useLabelableId",
+    ()=>useLabelableId
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useRefWithInit.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@floating-ui/utils/dist/floating-ui.utils.dom.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useBaseUiId.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+function useLabelableId(params = {}) {
+    const { id, implicit = false, controlRef } = params;
+    const { controlId, registerControlId } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const defaultId = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useBaseUiId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useBaseUiId"])(id);
+    const controlIdForEffect = implicit ? controlId : undefined;
+    const controlSourceRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useRefWithInit$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRefWithInit"])({
+        "useLabelableId.useRefWithInit[controlSourceRef]": ()=>Symbol('labelable-control')
+    }["useLabelableId.useRefWithInit[controlSourceRef]"]);
+    const hasRegisteredRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](false);
+    const hadExplicitIdRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](id != null);
+    const unregisterControlId = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "useLabelableId.useStableCallback[unregisterControlId]": ()=>{
+            if (!hasRegisteredRef.current || registerControlId === __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"]) {
+                return;
+            }
+            hasRegisteredRef.current = false;
+            registerControlId(controlSourceRef.current, undefined);
+        }
+    }["useLabelableId.useStableCallback[unregisterControlId]"]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "useLabelableId.useIsoLayoutEffect": ()=>{
+            if (registerControlId === __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NOOP"]) {
+                return undefined;
+            }
+            let nextId;
+            if (implicit) {
+                const elem = controlRef?.current;
+                if ((0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$floating$2d$ui$2f$utils$2f$dist$2f$floating$2d$ui$2e$utils$2e$dom$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["isElement"])(elem) && elem.closest('label') != null) {
+                    nextId = id ?? null;
+                } else {
+                    nextId = controlIdForEffect ?? defaultId;
+                }
+            } else if (id != null) {
+                hadExplicitIdRef.current = true;
+                nextId = id;
+            } else if (hadExplicitIdRef.current) {
+                nextId = defaultId;
+            } else {
+                unregisterControlId();
+                return undefined;
+            }
+            if (nextId === undefined) {
+                unregisterControlId();
+                return undefined;
+            }
+            hasRegisteredRef.current = true;
+            registerControlId(controlSourceRef.current, nextId);
+            return undefined;
+        }
+    }["useLabelableId.useIsoLayoutEffect"], [
+        id,
+        controlRef,
+        controlIdForEffect,
+        registerControlId,
+        implicit,
+        defaultId,
+        controlSourceRef,
+        unregisterControlId
+    ]);
+    __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"]({
+        "useLabelableId.useEffect": ()=>{
+            return unregisterControlId;
+        }
+    }["useLabelableId.useEffect"], [
+        unregisterControlId
+    ]);
+    return controlId ?? defaultId;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/createBaseUIEventDetails.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "createChangeEventDetails",
+    ()=>createChangeEventDetails,
+    "createGenericEventDetails",
+    ()=>createGenericEventDetails
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/empty.js [app-client] (ecmascript)");
+;
+;
+function createChangeEventDetails(reason, event, trigger, customProperties) {
+    let canceled = false;
+    let allowPropagation = false;
+    const custom = customProperties ?? __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"];
+    const details = {
+        reason,
+        event: event ?? new Event('base-ui'),
+        cancel () {
+            canceled = true;
+        },
+        allowPropagation () {
+            allowPropagation = true;
+        },
+        get isCanceled () {
+            return canceled;
+        },
+        get isPropagationAllowed () {
+            return allowPropagation;
+        },
+        trigger,
+        ...custom
+    };
+    return details;
+}
+function createGenericEventDetails(reason, event, customProperties) {
+    const custom = customProperties ?? __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$empty$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EMPTY_OBJECT"];
+    const details = {
+        reason,
+        event: event ?? new Event('base-ui'),
+        ...custom
+    };
+    return details;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/reason-parts.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "cancelOpen",
+    ()=>cancelOpen,
+    "chipRemovePress",
+    ()=>chipRemovePress,
+    "clearPress",
+    ()=>clearPress,
+    "closePress",
+    ()=>closePress,
+    "closeWatcher",
+    ()=>closeWatcher,
+    "dayPress",
+    ()=>dayPress,
+    "decrementPress",
+    ()=>decrementPress,
+    "disabled",
+    ()=>disabled,
+    "drag",
+    ()=>drag,
+    "escapeKey",
+    ()=>escapeKey,
+    "focusOut",
+    ()=>focusOut,
+    "imperativeAction",
+    ()=>imperativeAction,
+    "incrementPress",
+    ()=>incrementPress,
+    "inputBlur",
+    ()=>inputBlur,
+    "inputChange",
+    ()=>inputChange,
+    "inputClear",
+    ()=>inputClear,
+    "inputPaste",
+    ()=>inputPaste,
+    "inputPress",
+    ()=>inputPress,
+    "itemPress",
+    ()=>itemPress,
+    "keyboard",
+    ()=>keyboard,
+    "linkPress",
+    ()=>linkPress,
+    "listNavigation",
+    ()=>listNavigation,
+    "monthChange",
+    ()=>monthChange,
+    "none",
+    ()=>none,
+    "outsidePress",
+    ()=>outsidePress,
+    "pointer",
+    ()=>pointer,
+    "scrub",
+    ()=>scrub,
+    "siblingOpen",
+    ()=>siblingOpen,
+    "swipe",
+    ()=>swipe,
+    "trackPress",
+    ()=>trackPress,
+    "triggerFocus",
+    ()=>triggerFocus,
+    "triggerHover",
+    ()=>triggerHover,
+    "triggerPress",
+    ()=>triggerPress,
+    "valuePropChange",
+    ()=>valuePropChange,
+    "wheel",
+    ()=>wheel,
+    "windowResize",
+    ()=>windowResize
+]);
+const none = 'none';
+const triggerPress = 'trigger-press';
+const triggerHover = 'trigger-hover';
+const triggerFocus = 'trigger-focus';
+const outsidePress = 'outside-press';
+const itemPress = 'item-press';
+const closePress = 'close-press';
+const linkPress = 'link-press';
+const clearPress = 'clear-press';
+const chipRemovePress = 'chip-remove-press';
+const trackPress = 'track-press';
+const incrementPress = 'increment-press';
+const decrementPress = 'decrement-press';
+const inputChange = 'input-change';
+const inputClear = 'input-clear';
+const inputBlur = 'input-blur';
+const inputPaste = 'input-paste';
+const inputPress = 'input-press';
+const focusOut = 'focus-out';
+const escapeKey = 'escape-key';
+const closeWatcher = 'close-watcher';
+const listNavigation = 'list-navigation';
+const keyboard = 'keyboard';
+const pointer = 'pointer';
+const drag = 'drag';
+const wheel = 'wheel';
+const scrub = 'scrub';
+const cancelOpen = 'cancel-open';
+const siblingOpen = 'sibling-open';
+const disabled = 'disabled';
+const imperativeAction = 'imperative-action';
+const swipe = 'swipe';
+const windowResize = 'window-resize';
+const dayPress = 'day-press';
+const monthChange = 'month-change';
+const valuePropChange = 'value-prop-change';
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/reason-parts.js [app-client] (ecmascript) <export * as REASONS>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "REASONS",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$reason$2d$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$reason$2d$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/reason-parts.js [app-client] (ecmascript)");
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/control/FieldControl.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldControl",
+    ()=>FieldControl
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useControlled$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useControlled.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$owner$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/owner.js [app-client] (ecmascript) <locals>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/utils/esm/useStableCallback.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$useRegisterFieldControl$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/useRegisterFieldControl.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$useLabelableId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/useLabelableId.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$createBaseUIEventDetails$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/createBaseUIEventDetails.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$reason$2d$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__REASONS$3e$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/reason-parts.js [app-client] (ecmascript) <export * as REASONS>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$floating$2d$ui$2d$react$2f$utils$2f$shadowDom$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/floating-ui-react/utils/shadowDom.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const FieldControl = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldControl(componentProps, forwardedRef) {
+    const { render, className, id: idProp, name: nameProp, value: valueProp, disabled: disabledProp = false, onValueChange, defaultValue, autoFocus = false, style, ...elementProps } = componentProps;
+    const { state: fieldState, name: fieldName, disabled: fieldDisabled, setTouched, setDirty, validityData, setFocused, setFilled, validationMode, validation } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])();
+    const disabled = fieldDisabled || disabledProp;
+    const name = fieldName ?? nameProp;
+    const state = {
+        ...fieldState,
+        disabled
+    };
+    const { labelId } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableContext"])();
+    const id = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$useLabelableId$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useLabelableId"])({
+        id: idProp
+    });
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "FieldControl.FieldControl.useIsoLayoutEffect": ()=>{
+            const hasExternalValue = valueProp != null;
+            if (validation.inputRef.current?.value || hasExternalValue && valueProp !== '') {
+                setFilled(true);
+            } else if (hasExternalValue && valueProp === '') {
+                setFilled(false);
+            }
+        }
+    }["FieldControl.FieldControl.useIsoLayoutEffect"], [
+        validation.inputRef,
+        setFilled,
+        valueProp
+    ]);
+    const inputRef = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"](null);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useIsoLayoutEffect$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useIsoLayoutEffect"])({
+        "FieldControl.FieldControl.useIsoLayoutEffect": ()=>{
+            if (autoFocus && inputRef.current === (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$floating$2d$ui$2d$react$2f$utils$2f$shadowDom$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["activeElement"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$owner$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["ownerDocument"])(inputRef.current))) {
+                setFocused(true);
+            }
+        }
+    }["FieldControl.FieldControl.useIsoLayoutEffect"], [
+        autoFocus,
+        setFocused
+    ]);
+    const [valueUnwrapped] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useControlled$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useControlled"])({
+        controlled: valueProp,
+        default: defaultValue,
+        name: 'FieldControl',
+        state: 'value'
+    });
+    const isControlled = valueProp !== undefined;
+    const value = isControlled ? valueUnwrapped : undefined;
+    const getFieldValue = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$utils$2f$esm$2f$useStableCallback$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useStableCallback"])({
+        "FieldControl.FieldControl.useStableCallback[getFieldValue]": ()=>validation.inputRef.current?.value
+    }["FieldControl.FieldControl.useStableCallback[getFieldValue]"]);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$useRegisterFieldControl$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRegisterFieldControl"])(validation.inputRef, {
+        id,
+        value,
+        getValue: getFieldValue
+    });
+    const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('input', componentProps, {
+        ref: [
+            forwardedRef,
+            inputRef
+        ],
+        state,
+        props: [
+            {
+                id,
+                disabled,
+                name,
+                ref: validation.inputRef,
+                'aria-labelledby': labelId,
+                autoFocus,
+                ...isControlled ? {
+                    value
+                } : {
+                    defaultValue
+                },
+                onChange (event) {
+                    const inputValue = event.currentTarget.value;
+                    onValueChange?.(inputValue, (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$createBaseUIEventDetails$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createChangeEventDetails"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$reason$2d$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__REASONS$3e$__["REASONS"].none, event.nativeEvent));
+                    setDirty(inputValue !== validityData.initialValue);
+                    setFilled(inputValue !== '');
+                },
+                onFocus () {
+                    setFocused(true);
+                },
+                onBlur (event) {
+                    setTouched(true);
+                    setFocused(false);
+                    if (validationMode === 'onBlur') {
+                        validation.commit(event.currentTarget.value);
+                    }
+                },
+                onKeyDown (event) {
+                    if (event.currentTarget.tagName === 'INPUT' && event.key === 'Enter') {
+                        setTouched(true);
+                        validation.commit(event.currentTarget.value);
+                    }
+                }
+            },
+            validation.getInputValidationProps(),
+            elementProps
+        ],
+        stateAttributesMapping: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fieldValidityMapping"]
+    });
+    return element;
+});
+if ("TURBOPACK compile-time truthy", 1) FieldControl.displayName = "FieldControl";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/validity/FieldValidity.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldValidity",
+    ()=>FieldValidity
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/getCombinedFieldValidityData.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useTransitionStatus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useTransitionStatus.js [app-client] (ecmascript)");
+/**
+ * Used to display a custom message based on the field's validity.
+ * Requires `children` to be a function that accepts field validity state as an argument.
+ *
+ * Documentation: [Base UI Field](https://base-ui.com/react/components/field)
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/jsx-runtime.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+const FieldValidity = function FieldValidity(props) {
+    const { children } = props;
+    const { validityData, invalid } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])(false);
+    const combinedFieldValidityData = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "FieldValidity.useMemo[combinedFieldValidityData]": ()=>(0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$getCombinedFieldValidityData$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["getCombinedFieldValidityData"])(validityData, invalid)
+    }["FieldValidity.useMemo[combinedFieldValidityData]"], [
+        validityData,
+        invalid
+    ]);
+    const isInvalid = combinedFieldValidityData.state.valid === false;
+    const { transitionStatus } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useTransitionStatus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useTransitionStatus"])(isInvalid);
+    const fieldValidityState = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "FieldValidity.useMemo[fieldValidityState]": ()=>{
+            return {
+                ...combinedFieldValidityData,
+                validity: combinedFieldValidityData.state,
+                transitionStatus
+            };
+        }
+    }["FieldValidity.useMemo[fieldValidityState]"], [
+        combinedFieldValidityData,
+        transitionStatus
+    ]);
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
+        children: children(fieldValidityState)
+    });
+};
+if ("TURBOPACK compile-time truthy", 1) FieldValidity.displayName = "FieldValidity";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/item/FieldItemContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldItemContext",
+    ()=>FieldItemContext,
+    "useFieldItemContext",
+    ()=>useFieldItemContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+const FieldItemContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"]({
+    disabled: false
+});
+if ("TURBOPACK compile-time truthy", 1) FieldItemContext.displayName = "FieldItemContext";
+function useFieldItemContext() {
+    const context = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](FieldItemContext);
+    return context;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/checkbox-group/CheckboxGroupContext.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "CheckboxGroupContext",
+    ()=>CheckboxGroupContext,
+    "useCheckboxGroupContext",
+    ()=>useCheckboxGroupContext
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+'use client';
+;
+;
+const CheckboxGroupContext = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createContext"](undefined);
+if ("TURBOPACK compile-time truthy", 1) CheckboxGroupContext.displayName = "CheckboxGroupContext";
+function useCheckboxGroupContext(optional = true) {
+    const context = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"](CheckboxGroupContext);
+    if (context === undefined && !optional) {
+        throw new Error(("TURBOPACK compile-time truthy", 1) ? 'Base UI: CheckboxGroupContext is missing. CheckboxGroup parts must be placed within <CheckboxGroup>.' : "TURBOPACK unreachable");
+    }
+    return context;
+}
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/item/FieldItem.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FieldItem",
+    ()=>FieldItem
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRootContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/utils/constants.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/utils/useRenderElement.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$item$2f$FieldItemContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/item/FieldItemContext.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableProvider$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/labelable-provider/LabelableProvider.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$checkbox$2d$group$2f$CheckboxGroupContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/checkbox-group/CheckboxGroupContext.js [app-client] (ecmascript)");
+/**
+ * Groups individual items in a checkbox group or radio group with a label and description.
+ * Renders a `<div>` element.
+ *
+ * Documentation: [Base UI Field](https://base-ui.com/react/components/field)
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/jsx-runtime.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+;
+;
+;
+;
+;
+const FieldItem = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function FieldItem(componentProps, forwardedRef) {
+    const { render, className, style, disabled: disabledProp = false, ...elementProps } = componentProps;
+    const { state, disabled: rootDisabled } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRootContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useFieldRootContext"])(false);
+    const disabled = rootDisabled || disabledProp;
+    const checkboxGroupContext = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$checkbox$2d$group$2f$CheckboxGroupContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCheckboxGroupContext"])();
+    // checkboxGroupContext.parent is truthy even if no parent checkbox is involved
+    const parentId = checkboxGroupContext?.parent.id;
+    // this a more reliable check
+    const hasParentCheckbox = checkboxGroupContext?.allValues !== undefined;
+    const controlId = hasParentCheckbox ? parentId : undefined;
+    const fieldItemContext = __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMemo"]({
+        "FieldItem.FieldItem.useMemo[fieldItemContext]": ()=>({
+                disabled
+            })
+    }["FieldItem.FieldItem.useMemo[fieldItemContext]"], [
+        disabled
+    ]);
+    const element = (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$utils$2f$useRenderElement$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRenderElement"])('div', componentProps, {
+        ref: forwardedRef,
+        state,
+        props: elementProps,
+        stateAttributesMapping: __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$utils$2f$constants$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fieldValidityMapping"]
+    });
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$labelable$2d$provider$2f$LabelableProvider$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["LabelableProvider"], {
+        controlId: controlId,
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$item$2f$FieldItemContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldItemContext"].Provider, {
+            value: fieldItemContext,
+            children: element
+        })
+    });
+});
+if ("TURBOPACK compile-time truthy", 1) FieldItem.displayName = "FieldItem";
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/index.parts.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Control",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$control$2f$FieldControl$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldControl"],
+    "Description",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$description$2f$FieldDescription$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldDescription"],
+    "Error",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$error$2f$FieldError$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldError"],
+    "Item",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$item$2f$FieldItem$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldItem"],
+    "Label",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$label$2f$FieldLabel$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldLabel"],
+    "Root",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRoot$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldRoot"],
+    "Validity",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$validity$2f$FieldValidity$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FieldValidity"]
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$index$2e$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/index.parts.js [app-client] (ecmascript) <locals>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$root$2f$FieldRoot$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/root/FieldRoot.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$label$2f$FieldLabel$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/label/FieldLabel.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$error$2f$FieldError$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/error/FieldError.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$description$2f$FieldDescription$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/description/FieldDescription.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$control$2f$FieldControl$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/control/FieldControl.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$validity$2f$FieldValidity$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/validity/FieldValidity.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$item$2f$FieldItem$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/item/FieldItem.js [app-client] (ecmascript)");
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/index.parts.js [app-client] (ecmascript) <export * as Field>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Field",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$index$2e$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$index$2e$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/index.parts.js [app-client] (ecmascript)");
+}),
+"[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/input/Input.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Input",
+    ()=>Input
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$index$2e$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__Field$3e$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/@base-ui/react/esm/field/index.parts.js [app-client] (ecmascript) <export * as Field>");
+/**
+ * A native input element that automatically works with [Field](https://base-ui.com/react/components/field).
+ * Renders an `<input>` element.
+ *
+ * Documentation: [Base UI Input](https://base-ui.com/react/components/input)
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Área de Trabalho/Salve/Salve-front/node_modules/next/dist/compiled/react/jsx-runtime.js [app-client] (ecmascript)");
+'use client';
+;
+;
+;
+const Input = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["forwardRef"](function Input(props, forwardedRef) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsx"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2fc1$rea__de__Trabalho$2f$Salve$2f$Salve$2d$front$2f$node_modules$2f40$base$2d$ui$2f$react$2f$esm$2f$field$2f$index$2e$parts$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__Field$3e$__["Field"].Control, {
+        ref: forwardedRef,
+        ...props
+    });
+});
+if ("TURBOPACK compile-time truthy", 1) Input.displayName = "Input";
+}),
+]);
+
+//# sourceMappingURL=39ff1_e39f060b._.js.map

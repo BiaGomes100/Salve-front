@@ -1,25 +1,58 @@
-[00:00:25.977] Server  LOG     ✓ Ready in 17.4s
-[00:00:34.377] Server  LOG     ○ Compiling / ...
-[00:00:40.440] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:41.704] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:06.210] Server  LOG     ✓ Ready in 5.3s
+[00:00:17.911] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:41.561] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:50.041] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:56.964] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:57.852] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:06.960] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:39.747] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:39.918] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:01:05.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:09.400] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:01:14.501] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:01:33.783] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:56.166] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:51.474] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:05.859] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:28.675] Server  LOG     ○ Compiling /dashboard/metas/gastos ...
-[00:05:30.472] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:50.847] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:04.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:55.574] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:55.703] Browser WARN    Image with src "/_next/static/media/cofrinho.bcbf5c18.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:13:46.437] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:13:53.611] Browser ERROR   Cannot update a component (`%s`) while rendering a different component (`%s`). To locate the bad setState() call inside `%s`, follow the stack trace as described in https://react.dev/link/setstate-in-render Router LoginPage LoginPage
-[00:21:12.079] Server  LOG     ✓ Compiled in 920ms
-[00:22:31.117] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
-[00:53:13.446] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+[01:19:58.284] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:00.754] Browser ERROR   Falha ao buscar dados financeiros: {}
+[01:22:01.063] Server  LOG     ✓ Compiled in 1070ms
+[01:22:04.200] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:24:48.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:24:53.805] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:24:53.805] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:24:58.212] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:24:58.465] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:25:02.999] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:25:05.564] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:26:52.315] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:26:52.576] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:27:50.905] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:27:51.136] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:27:55.578] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:27:55.838] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:28:02.499] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:28:02.774] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:28:14.915] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:28:15.145] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:28:20.192] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:28:20.192] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:29:05.817] Server  LOG     ✓ Compiled in 2.1s
+[01:29:07.188] Browser ERROR   ./OneDrive/Área de Trabalho/Salve/Salve-front/app/dashboard/metas/page.tsx:116:26
+Parsing ecmascript source code failed
+  114 |
+  115 |     // Atualiza estado local de forma instantânea
+> 116 |     setMetas(prev => prev
+      |                          ^
+
+Expected ',', got '<eof>'
+[01:29:11.251] Browser ERROR   ./OneDrive/Área de Trabalho/Salve/Salve-front/app/dashboard/metas/page.tsx:116:26
+Parsing ecmascript source code failed
+  114 |
+  115 |     // Atualiza estado local de forma instantânea
+> 116 |     setMetas(prev => prev
+      |                          ^
+
+Expected ',', got '<eof>'
+[01:29:58.587] Server  LOG     ✓ Compiled in 5.2s
+[01:30:02.207] Server  LOG     ✓ Compiled in 2.3s
+[01:30:06.084] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:09.234] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:30:21.567] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:24.137] Browser WARN    Backend C# inacessível. Inicializando com dados locais default. {}
+[01:30:33.588] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
+[01:30:33.836] Browser WARN    Backend offline ou erro de CORS. Mantendo os dados default/locais. {}
